@@ -1,7 +1,7 @@
 ![Shadow Documemnt Object Model](assets/IMG_0576.jpg)
 Shadow Document Object Model
 
-https://open.spotify.com/track/5bJ1DrEM4hNCafcDd1oxHx
+https://open.spotify.com/track/4qyfir5Yr7nfo05g6cyFMT?si=wtQ9d6xjQWq_5RVDinShGQ
 
 # Metal Halide
 February 21st, 2021
