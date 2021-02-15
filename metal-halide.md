@@ -1,5 +1,5 @@
 ![Shadow Documemnt Object Model](assets/IMG_0576.jpg)
-Shadow Documemnt Object Model
+Shadow Document Object Model
 
 https://open.spotify.com/track/5bJ1DrEM4hNCafcDd1oxHx
 
