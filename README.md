@@ -4,6 +4,6 @@
 
 
 
-[How To](#how-to)
+[How To](https://github.com/MichaelRCruz/silicon-beach/blob/master/how-to.md)
 
-[Metal Halide](#metal-halide)
+[Metal Halide](https://github.com/MichaelRCruz/silicon-beach/blob/master/metal-halide.md)
