@@ -10,7 +10,7 @@ There is a day when you chose seclusion that encourages a peculiar familiarity w
 
 Imagine life, our muse, that shines its sophistication inwards like the light we shine outwards for others. The bidirectional shinning is a pair of elementary particles. They turn towards a desire for space, a place of reciprocation in vogue, balanced inside axioms of logic. The source of truth and the divine natural laws of our singularity.
 
-```txt
+```text
 One moment
 is love
 splicing arrays
@@ -26,14 +26,14 @@ position, collapsing
 into factored
 parallelogram. It
 frames a
-position juxtopposed
+position juxtaposed
 within verse,
 coming about,
 tacking into
 motion. Earth
 shakes. We
 awake. Our
-lashes Blink,
+lashes blink,
 then we
 see no
 fear of
@@ -46,7 +46,7 @@ Time for
 new divergence
 from emotional
 solitude spinning
-in infinity
+_inn_ infinity
 closer two
 the heart.
 ```
