@@ -24,3 +24,47 @@ init(429178800);
 init(-1);
 // Map {}
 ```
+
+
+
+
+
+###### React Identity - in draft
+1. a presentational layer of identity
+2. shapes found in architecture to guide understanding and utility of form
+
+```javascript
+// React Identity - in draft
+// https://reactjs.org
+const myFunc = ({pop, crackle, snap}) => ({pop, crackle, snap})(myFunc)(this.state);
+
+. . .
+
+const myState = this.state;
+const myFunc = ({pop, crackle, snap}) => {
+  return {pop, crackle, snap};
+}
+myFunc(myState);
+
+. . .
+
+const myState = this.state
+const myFunc = props => {
+  const { pop, crackle, snap } = props;
+  return {pop, crackle, snap};
+}
+myFunc(myState);
+
+. . .
+
+this.state = {
+  pop: 'sup, world',
+  crackle: 'michaelcruz.io',
+  snap: 'functional programming'
+};
+const myState = this.state;
+const myFunc = props => {
+  return props;
+};
+myFunc(myState);
+```

@@ -10,7 +10,7 @@ The glass is now the sea. The numerals are now the horizon. You, myself, and the
 
 However close he may feel to you, you cannot see him on this sailboat. Concepts of proximity seem different and that is a troubling thought in time, but you wonder. If a single proof in nature fades into its counterexample, then the total logical construct conceived by humans will collapse unless redeemed with the truth in uncertainty.
 
-The Oblivion. Moments referred to as seconds, or defined as hours, or recorded as days are enhanced. Are references, definitions, and recordings not the same paradigm? Would you include human memories for just the same reason? If memories are the arbiters of personal truth, then would you include conceivable ideas of future and of past together into the present? Is presence now? Where are you? Is it emotional? The Singularity.
+The Oblivion. Moments referred to as seconds, or defined as hours, or recorded as days are enhanced. Are references, definitions, and recordings not the same paradigm? Would you include human memories on that list for just the same reason? If memories are the arbiters of personal truth, then would you include conceivable ideas of future and of past together into the present? Is presence now? Where are you? Is it emotional? The Singularity.
 
 If one lunar arch across the night sky can represent one full unit of measurement, then it explains precisely what human observation is - a measurement.
 
@@ -25,5 +25,3 @@ For this, _is_.
 This is the human condition - a timeless observation void of absolutes. Perhaps the embrace of uncertainty should be cherished because two can live in a peaceful embrace protected by their carnal awareness of truth. Communication is reciprocal emotion that may yield their intent if and only if their embark shared an initial space to wonder. All remaining endeavors may not resolve, leaking memories of illusion lost in time's land of loops ruled by entropy.
 
 At sea, nature anxiously waits for your choice. When you meet her there, she requests your consideration of the endless corridors provided for the wonders of your imagination. Please know that, if you desire a release from excessiveness, then you might find comfort in knowing that the elements in nature have intent. They encourage your powers of observation and if they bring despair, remember that the truth will set you free, but first it will piss you off.
-
-...brb
