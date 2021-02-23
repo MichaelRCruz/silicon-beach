@@ -2,8 +2,6 @@
 
 ![Silicon Beach](assets/IMG_1180.jpeg)
 
-[The Laundry Basket](https://github.com/MichaelRCruz/silicon-beach/blob/master/00-the-laundry-basket.md)
-
 [How To](https://github.com/MichaelRCruz/silicon-beach/blob/master/01-how-to.md)
 
 [The Buffer](https://github.com/MichaelRCruz/silicon-beach/blob/master/02-the-buffer)
