@@ -1,15 +1,16 @@
+# id NOT DONE SO CHILL, please
+
 Mathematics is a language we invented to teach ourselves about the world. Euler's Identity seems to have what we need to begin our thought experiment.
 
-###### Euler's Identity
-```javascript
+### Euler's Identity
+```text
 // Euler's Identity
 [ e^(i*PI) ] + 1 = 0
 ```
 
-###### Incompleteness Theorem Representation - in draft
+### Incompleteness Theorem Representation - in draft
 ```javascript
 // Incompleteness Theorem Representation - in draft
-
 function init(n = 0) {
   const map = new Map();
   if (isFinite(!isNaN(n))) {
@@ -19,11 +20,24 @@ function init(n = 0) {
   return map;
 };
 
-init(429178800);
-// [Function] => 0, [Function] => 1, ..., [Function] => n
-init(-1);
-// Map {}
+init(429178800); // [Function] => 0, [Function] => 1, ..., [Function] => n
+init(-1); // Map {}
 ```
+
+Above represents all possible ways, I can think of, to declare a function in JavaScript. This implementation has a system of well-defined rules and all functions, within this system, that can return `0` or `1`.
+
+These are the only two possible return values from above function - `0` and `1`
+
+If `init(n)` can only equal `0` or `1`, then this is what I see.
+
+### axioms 🙄
+
+* n is a Real number
+* init(n) returns 0 or 1
+* 1 - 0 = 1
+* 1 - 1 = 0
+
+0 should be equal to `(1 - init(1)) === 1) - 0 === 1)` <-- nuh, uh! call the cops!
 
 
 

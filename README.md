@@ -2,13 +2,16 @@
 
 ![Silicon Beach](assets/IMG_1180.jpeg)
 
+[The Laundry Basket](https://github.com/MichaelRCruz/silicon-beach/blob/master/00-the-laundry-basket.md)
 
-[00 - Metal Halide](https://github.com/MichaelRCruz/silicon-beach/blob/master/metal-halide.md)
+[How To](https://github.com/MichaelRCruz/silicon-beach/blob/master/01-how-to.md)
 
-[01 - how](https://github.com/MichaelRCruz/silicon-beach/blob/master/01-how.md)
+[The Buffer](https://github.com/MichaelRCruz/silicon-beach/blob/master/02-the-buffer)
 
-[02 - to](https://github.com/MichaelRCruz/silicon-beach/blob/master/02-to.md)
+[The ID](https://github.com/MichaelRCruz/silicon-beach/blob/master/03-the-id.md)
 
-[03 - sail](https://github.com/MichaelRCruz/silicon-beach/blob/master/03-sail.md)
+[Wind Chime](https://github.com/MichaelRCruz/silicon-beach/blob/master/04-wind-chime.md)
 
-<!-- [04](https://github.com/MichaelRCruz/silicon-beach/blob/master/04.md) -->
+[Inverse Regex](https://github.com/MichaelRCruz/silicon-beach/blob/master/05-inverse-regex.md)
+
+[Metal Halide](https://github.com/MichaelRCruz/silicon-beach/blob/master/06-metal-halide.md)

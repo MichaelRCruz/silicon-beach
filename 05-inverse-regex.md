@@ -1,6 +1,13 @@
-# Regular Expression
+# Inverse Regular Expression
 
-### did
+Cazzie David authored a book. Her book has a title. Does a title name a book? Can a name title a story? Can a story be a life? Is a life untold anything lived at all?
+
+#### Statement: _No One Asked For This_
+#### Counterexample: I did.
+
+If I did not, then choose your own adventure.
+
+###### did
 ```text
 If no one asked for this, then did we all?
 
@@ -31,7 +38,7 @@ If no one asked for this, then did us two?
 If no one asked for this, then did God?
 ```
 
-### would
+###### would
 ```text
 If no one asked for this, then would we all?
 
@@ -61,7 +68,6 @@ If no one asked for this, then would us two?
 
 If no one asked for this, then would God?
 ```
-
 
 ### should
 ```text
@@ -94,7 +100,7 @@ If no one asked for this, then should us two?
 If no one asked for this, then should God?
 ```
 
-### should
+### could
 ```text
 If no one asked for this, then could we all?
 
@@ -125,8 +131,7 @@ If no one asked for this, then could us two?
 If no one asked for this, then could God?
 ```
 
-
-#### can
+###### can
 ```text
 If no one asked for this, then can we all?
 
@@ -157,7 +162,7 @@ If no one asked for this, then can us two?
 If no one asked for this, then can God?
 ```
 
-#### will
+###### will
 ```text
 If no one asked for this, then will we all?
 
@@ -248,66 +253,4 @@ If no one asked for this, then how should the world?
 If no one asked for this, then how should us two?
 
 If no one asked for this, then how should God?
-```
-
-### how would
-```text
-If no one asked for this, then how would we all?
-
-If no one asked for this, then how would someone?
-
-If no one asked for this, then how would anyone?
-
-If no one asked for this, then how would everyone?
-
-If no one asked for this, then how would nobody?
-
-If no one asked for this, then how would everybody?
-
-If no one asked for this, then how would anybody?
-
-If no one asked for this, then how would somebody?
-
-If no one asked for this, then how would you?
-
-If no one asked for this, then how would I?
-
-If no one asked for this, then how would they?
-
-If no one asked for this, then how would the world?
-
-If no one asked for this, then how would us two?
-
-If no one asked for this, then how would God?
-```
-
-### how dare
-```text
-If no one asked for this, then how dare we all?
-
-If no one asked for this, then how dare someone?
-
-If no one asked for this, then how dare anyone?
-
-If no one asked for this, then how dare everyone?
-
-If no one asked for this, then how dare nobody?
-
-If no one asked for this, then how dare everybody?
-
-If no one asked for this, then how dare anybody?
-
-If no one asked for this, then how dare somebody?
-
-If no one asked for this, then how dare you?
-
-If no one asked for this, then how dare I?
-
-If no one asked for this, then how dare they?
-
-If no one asked for this, then how dare the world?
-
-If no one asked for this, then how dare us two?
-
-If no one asked for this, then how dare God?
 ```
