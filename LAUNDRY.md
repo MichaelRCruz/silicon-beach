@@ -66,6 +66,8 @@
 
 * Persistence for affirmation.
 
+* ABCDEFGHIJKLMNOPQRSTUVWXYZ, KQVXYZ
+
 
 ### The Watch List
 https://tools.ietf.org/html/draft-vandesompel-memento-08
