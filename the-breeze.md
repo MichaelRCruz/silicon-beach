@@ -30,6 +30,6 @@ God was with me on that water in the Pacific Ocean the day my boat capsized. The
 
 In the event of a capsize, the main halyard can be used as leverage to right the boat. You must position your feet against the bottom of the hull as you pull on the halyard. The recovery is slow to start because the main sail is submerged in the water, but as your bodyweight begins to pull on the halyard, the vessel is eventually brought upright. From there the challenge is getting back into a dinghy safely.
 
-On the Pacific Ocean, the waves were more aggressive than what I was used to on the fresh waters of Lake Mendota at the University of Wisconsin. You can see across that lake, but it is deep enough to be dangerous in some weather.
+On the Pacific Ocean, the waves were more aggressive than what I was used to on the fresh water of Lake Mendota at the University of Wisconsin. You can see across that lake, but it is deep enough to be dangerous in some weather.
 
 ...brb
