@@ -1,3 +1,5 @@
+![Shriner](assets/IMG_0463.JPG)
+
 # The Breeze
 
 Why do we have memories of ourselves from a distance?
@@ -6,6 +8,4 @@ We had an activity in kindergarten where we all sat in a circle and passed aroun
 
 This was a grade school on the south side of Milwaukee, Wisconsin. This is where I grew up. There are a few other peculiar moments about Clement Avenue Elementary that did were forgotten until now, but many of them are still unclear. That Halloween thing we did, as children, just seems very creepy to me because it was not my kindergarten teacher that led the activity. It was a younger lady that has us all sit in that circle one day, and as we all were settling in, she turned off the lights in the classroom.
 
-That day was the first time I saw myself outside of myself. She turned off the lights to, maybe, create this Halloween vibe for the activity, but I think it was the first time I was ever scared. I was two perspectives in that moment and the only way I can remember is as if a ghost lifted out of my body. I watched from above as this activity went on, but the only other detail to recollect is the escape. To describe it as a ghost was lifting out will do, but try to imagine the movement of that. There was nothing else about it except the bend in my peripheral vision as my ghost kept watch while moving backwards, outwards, and up above.
-
-...brb
+That day was the first time I saw myself outside my self. She turned off the lights to, perhaps, evoke some Halloween vibe, but it was the first time I was ever scared. I was two perspectives in that moment as if a ghost lifted out of my body. I watched from above as they passed around that paper bag, but the escape warped my peripheral vision as my ghost kept watch. The movement, the reverse, and the ascent.
