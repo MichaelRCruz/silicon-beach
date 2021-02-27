@@ -68,6 +68,6 @@
 
 * ABCDEFGHIJKLMNOPQRSTUVWXYZ, KQVXYZ
 
+* accumulating half measures of incompletion
 
-### The Watch List
-https://tools.ietf.org/html/draft-vandesompel-memento-08
+* "The truth is hypnotic." Michael Angeles

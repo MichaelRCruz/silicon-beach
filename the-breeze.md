@@ -28,8 +28,6 @@ One day in Mexico, we were on vacation when I found a sailboat on the shore of t
 
 God was with me on that water in the Pacific Ocean the day my boat capsized. The owner of the boat was happy to take me out a few times before this moment, but first he had to teach some safety techniques. For example, how to recover from capsizing. He made sure I was aware of the halyard, which is the sheet that hoists the the sail up towards the masthead, and how this sheet is then ran across the masthead sheave, that spins, allowing the halyard to run back down the mast and tied to a horn cleat and knotted with a cleat hitch.
 
-In the event of a capsize, the main halyard can be used as leverage to right the boat. You must position your feet against the bottom of the hull as you pull on the halyard. The recovery is slow to start because the main sail is submerged in the water, but as your bodyweight begins to pull on the halyard, the vessel is eventually brought upright. From there the challenge is getting back into a dinghy safely.
-
-On the Pacific Ocean, the waves were more aggressive than what I was used to on the fresh water of Lake Mendota at the University of Wisconsin. You can see across that lake, but it is deep enough to be dangerous in some weather.
+In the event of a capsize, the main halyard can be used as leverage to right the boat. If you position your feet against the bottom of the hull as you pull on the halyard. The recovery is slow to start because the main sail is submerged in the water, but as your bodyweight begins to pull on the halyard, the vessel is eventually brought upright.
 
 ...brb
