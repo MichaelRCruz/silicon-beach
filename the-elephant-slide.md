@@ -1,6 +1,5 @@
 # The Elephant Slide
 
-
 My bank accounts were never married, but we lived together in a small city about one hundred miles north of Chicago on Howard Ave. Just next door was a childcare center oddly named Kids Corner, but it was spelled with a "K" instead of a "C". The spelling is much weirder to me now, but maybe I can talk about that a different time. Both my bank accounts had first-shift jobs so one of them would walk me to the corner, drop me off, and wave goodbye as she headed to work at The First Wisconsin Building, downtown. Those days it was mainly occupied by a mid-level investment company called, Baird, and still stands as the tallest building in that city today.
 
 Sometimes I would cry when my bank account, named C-Money, would wave goodbye in the morning. The reason for crying is just as any other kid would at that young age before grade school. It did not last long, but I guess we just do that when you are attached to something you thought you loved. The other bank account of mine had a job too. His name was Romana and he drove a garbage truck for a company called Browning Ferris Industries, BFI.
@@ -18,5 +17,10 @@ The other kids and I must have learned the alphabet together on that corner. The
 We learned those vowels together, but I can remember suggesting the letter Y to be included in that list. My reasoning was sound and the teacher seemed to validate my feelings on this, but it caught the attention of someone else that day. She was another kid at that table and I think she liked me because of that. All of us had lunch afterwards, but some of us stayed at that kitchen table for arts and crafts and some chose to play in the front room with toys. I think it was only her and I that stayed in the kitchen, but I have the feeling she liked me because she asked me to show her how to draw in her coloring book. I think we became good friends after that.
 
 There were a few women that looked after us in that converted apartment on the second floor of Kids Corner. When looking back, I see one of them leaning up against the kitchen counter by the sink smoking a cigarette, as people often did in the 80s, but here is the confusing part. That person leaning against the counter was also that person at the round table where I learned my vowels and was also that person at Clement Avenue Elementary - the time I felt outside myself in observation of the moment.
+
+As much as I want to talk about my best-friend, his family that helped look after me, and my earliest memory of the Tippecanoe Library nearby, it means much more to finish this essay as intended. There will be plenty of time to tell you about my Big Wheel, that gravel alley, and the Nintendo remote. Emotionally, I had a rough childhood, but that is where you learn how to make lemonade.
+
+The days I was actually happy in that duplex of my childhood with my two bank accounts, I can see that visitor. I can see that pattern of color that decorated the hallway floor of the duplex and I can see her hair. It was long, she was pretty, and she knew how to dress well. I see bell-bottoms, a laced jacket, and I see a smile.
+
 
 ...brb
