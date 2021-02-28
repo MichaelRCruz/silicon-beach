@@ -30,7 +30,7 @@ My friend on the train to Chicago, shortly after that earthquake by the airport,
 
 That is my favorite word, but the way I made that selection was not out of two choices. The selection was out of a multitude and the choice to have a favorite word is still paired with the other choice of not having one at all. The process of selection was different for Drew and I. She found beauty in the sound of the language and I found beauty in its meaning. There is one consideration to make here. Did William Shakespeare get too far ahead of himself when he asked, what's in a name? Was this the reason for that scene in Donnie Darko?
 
-For your consideration I wrote a poem inspired by Drew Barrymore, the character she played in Donnie Darko, and for the film's writer, Richard Kelley.
+For your ~~consideration~~ pleasure I wrote a poem inspired by Drew Barrymore, the character she played in Donnie Darko, and for the film's writer, Richard Kelley.
 
 #### buffer
 
