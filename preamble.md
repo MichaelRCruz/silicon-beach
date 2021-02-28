@@ -1,6 +1,6 @@
 # Preamble - the Figure Eight Maneuver
 
-Dear California,
+Dear Fuckers,
 
 Our country is contained by two retaining walls of the sea protected by the Atlantic Ocean to the east and the Pacific Ocean to the west. To our north and to our south the surveying stones of the past are often buried over time. We also observe them slowly drifting by the hands and hearts of man. The history of the world has relied on rivers or other natural landmarks to prevent this unnatural loss of information, but the natural law of entropy will always challenge these efforts. The delineations on our maps have also been drawn in our hearts and then in the minds of our children.
 
