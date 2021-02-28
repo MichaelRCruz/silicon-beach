@@ -24,7 +24,50 @@ To conceptualize this _other_ way of time, you will need a point of reference in
 
 The process of accumulation depends on recollection and the experiences you gain. Consider the attempts you have made to recall a phone number or the title of a film. Often, we forget one day and the other we remember. The connection we seem to have as humans also influence our memories. We may forget or lose interest in certain hobbies because of a new job or the next love you find shows you something else about yourself that can influence the accumulation of your moments that shape our temporal existence on Earth. Imagine this in heaven? Would you find absolute tessellated completion with God? How much does our imagination add to these shapes? How much would misinformation subtract from these shapes? Would this encourage you to maintain the source of truth?
 
-My art teacher in high school...
+My art teacher in high school had a curriculum and, as far as I know, the standard for building that set of instructions is challenging because it was not until I asked her how to draw well that she was able to teach me one of the most valuable lessons of my life. She just said, "draw what you see". That wisdom was what allowed me to look closer at the scenes in nature, the emotions of others, and the things in life that I desired to record for myself with charcoal and paper.
 
+My friend on the train to Chicago, shortly after that earthquake by the airport, gave me a book. The title was _How to Draw What You See_. We never met before those moments in the observation car of the train, but he also asked me something else I will never forget. It was a peculiar question, but also one that was very innocent and simple. What is your favorite word? I recall that scene in Donnie Darko when Drew Barrymore played a high school teacher. On the board was a drawing, also in chalk, and the drawing had the words, cellar door, written in English. The way it sounded, she said, was where she found beauty. That movie stayed with me and now I understand why. My response to that question in the observation car was, catharsis.
 
-...brb
+That is my favorite word, but the way I made that selection was not out of two choices. The selection was out of a multitude and the choice to have a favorite word is still paired with the other choice of not having one at all. The process of selection was different for Drew and I. She found beauty in the sound of the language and I found beauty in its meaning. There is one consideration to make here. Did William Shakespeare get too far ahead of himself when he asked, what's in a name? Was this the reason for that scene in Donnie Darko?
+
+For your consideration I wrote a poem inspired by Drew Barrymore, the character she played in Donnie Darko, and for the film's writer, Richard Kelley.
+
+#### buffer
+
+```text
+The moment
+
+you wonder
+
+what's in
+
+a name,
+
+the return
+
+is sound
+
+by recursion
+
+the next
+
+and only
+
+loop around.
+
+Two chimes
+
+are facts.
+
+The words
+
+keep pace.
+
+To know,
+
+I wonder,
+
+what's in
+
+a space?
+```
