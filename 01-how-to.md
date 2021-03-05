@@ -26,9 +26,6 @@ This is the human condition - a timeless observation void of absolutes. Perhaps 
 
 At sea, nature anxiously waits for your choice. When you meet her there, she requests your consideration of the endless corridors provided for the wonders of your imagination. Please know that, if you desire a release from excessiveness, then you might find comfort in knowing that the elements in nature have intent. They encourage your powers of observation and if they bring despair, remember that the truth will set you free, but first it will piss you off.
 
-
-
-
 You are alone on your sailboat with no land on the horizon. That is when you remember the wall clock. The numerals once again appear on the horizon of the Earth. You are left with two celestial bodies in space, your worldly existence, and a spiritual presence that you call love. You can learn how to how to sail, but the ocean and the wind and the stars are there for everyone. That truth is real, but what if the moon and the wind was also only for you? Would you live in that moment?
 
 For myself, the pursuit of happiness is everything all at once, but that was my struggle and my negligence. To say that _everything_ is the total conceptualization of what you know is inaccurate. What word would you use to describe your total conceptualization to include your creator? Can there be one?

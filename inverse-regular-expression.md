@@ -1,12 +1,5 @@
 # Inverse Regular Expression
 
-Cazzie David authored a book. Her book has a title. Does a title name a book? Can a name title a story? Can a story be a life? Is a life untold anything lived at all?
-
-#### Statement: _No One Asked For This_
-#### Counterexample: I did.
-
-If I did not, then choose your own adventure.
-
 ## did
 ```text
 If no one asked for this, then did we all?
