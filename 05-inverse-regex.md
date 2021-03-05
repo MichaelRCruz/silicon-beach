@@ -7,7 +7,7 @@ Cazzie David authored a book. Her book has a title. Does a title name a book? Ca
 
 If I did not, then choose your own adventure.
 
-###### did
+## did
 ```text
 If no one asked for this, then did we all?
 
@@ -38,7 +38,7 @@ If no one asked for this, then did us two?
 If no one asked for this, then did God?
 ```
 
-###### would
+## would
 ```text
 If no one asked for this, then would we all?
 
@@ -69,7 +69,7 @@ If no one asked for this, then would us two?
 If no one asked for this, then would God?
 ```
 
-### should
+## should
 ```text
 If no one asked for this, then should we all?
 
@@ -100,7 +100,7 @@ If no one asked for this, then should us two?
 If no one asked for this, then should God?
 ```
 
-### could
+## could
 ```text
 If no one asked for this, then could we all?
 
@@ -131,7 +131,7 @@ If no one asked for this, then could us two?
 If no one asked for this, then could God?
 ```
 
-###### can
+## can
 ```text
 If no one asked for this, then can we all?
 
@@ -162,7 +162,7 @@ If no one asked for this, then can us two?
 If no one asked for this, then can God?
 ```
 
-###### will
+## will
 ```text
 If no one asked for this, then will we all?
 
@@ -191,66 +191,4 @@ If no one asked for this, then will the world?
 If no one asked for this, then will us two?
 
 If no one asked for this, then will God?
-```
-
-### how could
-```text
-If no one asked for this, then how could we all?
-
-If no one asked for this, then how could someone?
-
-If no one asked for this, then how could anyone?
-
-If no one asked for this, then how could everyone?
-
-If no one asked for this, then how could nobody?
-
-If no one asked for this, then how could everybody?
-
-If no one asked for this, then how could anybody?
-
-If no one asked for this, then how could somebody?
-
-If no one asked for this, then how could you?
-
-If no one asked for this, then how could I?
-
-If no one asked for this, then how could they?
-
-If no one asked for this, then how could the world?
-
-If no one asked for this, then how could us two?
-
-If no one asked for this, then how could God?
-```
-
-### how should
-```text
-If no one asked for this, then how should we all?
-
-If no one asked for this, then how should someone?
-
-If no one asked for this, then how should anyone?
-
-If no one asked for this, then how should everyone?
-
-If no one asked for this, then how should nobody?
-
-If no one asked for this, then how should everybody?
-
-If no one asked for this, then how should anybody?
-
-If no one asked for this, then how should somebody?
-
-If no one asked for this, then how should you?
-
-If no one asked for this, then how should I?
-
-If no one asked for this, then how should they?
-
-If no one asked for this, then how should the world?
-
-If no one asked for this, then how should us two?
-
-If no one asked for this, then how should God?
 ```
