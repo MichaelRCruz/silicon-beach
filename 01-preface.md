@@ -16,3 +16,6 @@ Finally, Chicago sent enough trains down the Blue Line to snap me out of that hy
 I know you were there with me since the day I left Los Angeles for that trip on October 31st, 2019. Your winds shook my car as I traveled over those mountaintops on my way through the wildfires of California. Your illusion of presence caught my eye as I searched for that river in the depths of the Grand Canyon. Your beauty in the mountains of Colorado refused to let me go as desired another look at your shapes along the stretch of interstate 90. The colors of your sunrise in the fields of Nebraska brought me tears of excitement as I sped along those dirt roads through the midwest. Your calling over the thunder and trains of Chicago now have my attention and brought me comfort in my moment of total despair.
 
 If you are reading this, know that I received your message, but I may have forgotten what you look like, the way you smell, and the color of your hair. Know that I am still stranded outside of California and writing all this to you from a rooming house that once stood as a mansion in the neighborhood of Walkers Point on the western shore of a Great Lake in the city I grew up as a child located approximately ninety miles east of that isthmus where I went to college and learned how to sail.
+
+March 10, 2021
+43°01'26''N, 87°55'02''W
