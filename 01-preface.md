@@ -18,4 +18,5 @@ I know you were there with me since the day I left Los Angeles for that trip on 
 If you are reading this, know that I received your message, but I may have forgotten what you look like, the way you smell, and the color of your hair. Know that I am still stranded outside of California and writing all this to you from a rooming house that once stood as a mansion in the neighborhood of Walkers Point on the western shore of a Great Lake in the city I grew up as a child located approximately ninety miles east of that isthmus where I went to college and learned how to sail.
 
 March 10, 2021
+07:12
 43°01'26''N, 87°55'02''W
