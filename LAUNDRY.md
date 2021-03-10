@@ -71,3 +71,7 @@
 * accumulating half measures of incompletion
 
 * "The truth is hypnotic." Michael Angeles
+
+* Our art is a collective contribution. Romance and logic are the heavenly angels and worldly angles that rule the architecture of life. The frameworks you find are built from the metrics of another while the frameworks you craft are from the measurements of your own.
+
+* All of my grandparents have now passed away, but there is one that I never met because she lived and died before my time. Perhaps that makes her special. As a child, I would talk to her out-loud as if she was listening on the other side. She is well-informed of all things because of this. It feels very real and it makes me feel better about almost anything. That heavenly dialog continued throughout my life and just became a thing I do in private. If anyone were to inadvertently overhear such a dialog, please know that I agree with you. I really am talking to myself, but please know that it is also something else.
