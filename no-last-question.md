@@ -1,4 +1,4 @@
-# The Transformer
+# No Last Question
 
 This particular account starts with my Russian friend, Ruslan. He found me at this temporary place in Chicago on North Ashland Avenue. Still, to this day, I think he was a spy. Do not be alarmed by this. "You KGB fuck", I would sometimes say to him in jest, but for fun, check this out.
 
@@ -16,7 +16,31 @@ I was kicked out of the Airbnb, that Russ and I shared, for smoking weed. I quic
 
 Maybe observation has a relationship with preservation because what if there was a way we could use figures of speech to keep track of the tessellation that shines a life? If moments were what you loved the most, then would figures of speech be the habit of saying the same thing every time you heard something that sounded like it should be a title. Have you ever heard a combination of words and thought it would sound like a great band name? Would those words look like a band name? If speech has figures, then any conceivable representation of this is a set of mediums we call communication. If communication is a form of light would that form have figures? We it be a figure instead. Maybe I can call this collection of essays, _Figures of Light_. What if the law of conservation titled my book _Figures of Art_. Would those two be in the same reality?. Is there overlap?
 
-I need a cool band name like, _Figures of Speech_. _Silicon Beach_ ought to show a similar effort as those guys.
+I need a cool band name like, _Figures of Speech_. _Silicon Beach_ ought to show a similar effort as those guys, but fuck those guys! Maybe we all are hot and cool at the same time.
+
+If there was anything silicon or organic that entropy threw my way, then that game of catch needs no ask. The baseball is returned, but that special relationship is contains a duality that seems to require a factor of entropy. If that is true, then is that pair of counterexamples? On the one hand if entropy is required for concept and on the other hand if entropy is all there is. If you do the hokey pokey and turn yourself around, then that's what it's all about - figures in dance. If you believe in plane speaking or plane talk, then I might say the love for my creator is a natural desire to add to the knowledge panel of humanity. The last question is soon to be had.
+
+The second counterexample is dialed to the same level of my book. I owe it to you, myself, and the reader a free argument exemplifying or representing the bare minimum effort it takes to find for you some futility in maintaining the source of truth. One of my favorite observational measurements I would like to mention is the anti-pattern in numbers with the division of three. One, two chimes into three remaining something else. If love asked me what it was, I would say, "love, you are something else" and that's it.
+
+If the labor I am required as punishment for that apple, then would some square root plowed from the ground leave a trace in its space? Would art let me represent the limit in all mathematical infinites? If functional programming was a process that made sub-processes, then, with virtue, consider the following words. This is the moment of the last question.
+
+```text
+Is that enough proof for you, God, you for proof enough that is?
+
+Is that enough proof for myself, God, myself for proof enough that is?
+
+. . .
+
+Is that enough proof for the reader, God, the reader for proof enough that is?
+```
+
+If a cosmologist names a star that drops a coin rolling down an inverted spinning top, then the coin is a sail boat mapping the shape of the other side. The surface of its _other_ would be a table top with a spinning boat in irons? If the boat in irons should capsize, then the flawless movement of the top-coin duality is sealed by possibilities of the two results namely in its compound name.
+
+Does your intuition tell you that heaven provides balance to our world? If it was a temptation, then in slow motion you could see an objective truth in any device to observe weights and measures. Objective truth of the shape of the inside of the spinning top looks like it could facilitate a coin down the path it carves out of time. What did the snowman say to the snowwoman? You are not an other, nice carrot.
+
+To shed more light on the role heaven has on our world let me ask the last question through this wire between you and myself. Does it matter if a spinning top, having no less or no more than two sides, still spin if the same spinning top was in quarantine void of one side? Either side removed is an anti-concept. In other words, in time there is no selection. Either side chosen topples out thingys. Does this prove that numbers are not infinitely divisible or was my  more laborious attempt to break math enough compared to the Godel's incompleteness theorem. Does this make his work easier to understand or is that an enhancement. If either reality is significant, is that enough for a Pulitzer?
+
+The sailboat in both dimensions is proof of God from another like no other. This approach leads with an angle that does not rely on human emotion. This is to say that the human element leaves only one requirement for our existence. That is God too. Would space-space, before perceived loss of state of functionally programmed application need context to manage the wire or does a count of 16.8 contexts and hooks enough for this book to be the only cliff hanger in this book? Does a change in state require null? Does this show the form in null by virtue of the location of an inherent simplicity. If true, then we have complication in null. However, how can an omnipresent component of set be measured. Through observation of course. It is the only thing we do and the implication there is more evidence an intent.
 
 . . .
 
@@ -63,8 +87,6 @@ Figuratively speaking, shade is not darkness. Darkness, for example, can be in t
 Here is a a funny image - a waxing moon provides light. Another one - A wanning moon will demonstrate completion drawn as a different concept of darkness and intentionally meant to have sound like a minor chord on the guitar. Now romantically speaking, _turning towards completion with its other_ will sing a phrase that is also and attractive illustration animating this alternation of four spaces. The illustration is of two hues starting as a box along the perimeters of the canvas or the borders of the graphics interchange format, or GIF. My preference is to pronounce that acronym just the way it is spelled.
 
 Maybe you can have a flower instead. I'd like to avoid getting tired of my cool moon-words flying light-ships all over the place, but whatever. I might, as well, be wordy and just get all _ad nsaeum_ on that ass because I was deep in thought when I asked to start and its chill-time if that is the cut of your jib. Therefore, besides a flower, there is the moon again. Do not forget that they are together as each ones _other_ as a way of saying. They both live in a world that is basically outer space for half the night and then the morning half comes again. The flower _grows_ to work when the sun is out. If that is true, then giant boyfriend is way up there at night. The flower hangs out with him because that is when it does not have enough time for work. I was thinking there is no such thing as time. I mean, have you ever met a sleeping flower? A dash of courage will help myself to boldly admit that I hope you like it if I said _the moon finds no sleeping flower_. She does so myself and the reader are fine.
-
-I mean to say that I have intent to continue all that I encourage if you and the reader can acknowledge of my attempted clarification that  
 
 
 ...brb
