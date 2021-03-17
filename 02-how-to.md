@@ -1,4 +1,4 @@
-# how to
+# How To
 
 Learning to sail a vessel requires a dilated perception of the utility of time, the movement through space, and the shadow of illumination.
 
@@ -35,3 +35,5 @@ One summer prior to my journey, the relentless desire to succeed by any means ne
 Beyond initialization, my internal process began behaving in strange and unexpected ways that were difficult to understand. The vacancies of null, where no such thing now lived, led to fault. Although my doors had locks on them, and were closed the moment my sadness left, there was an illusion of safety that shrouded my eyes. After the eviction of my anxieties and the arrival of no such thing, the angels of heaven had no space to occupy. Instead, at sea I was left with only my intuition and God.
 
 That summer, I built my castle on the mountain. Through closed doors unlocked in crept no such thing. The odyssey and the conflagration. The completion and the balance. The light and the shadow. The pursuit and the fight. Completeness within truth was half found at center - the tessellation.
+
+...brb

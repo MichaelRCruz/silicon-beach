@@ -1,9 +1,9 @@
-# The Buffer of Poetry
+# The Poetic Buffer
 
+- - -
+
+###### Next
 ```text
-# Next
-
-
 The moment
 
 you wonder
@@ -41,15 +41,13 @@ what's in
 a space?
 ```
 
+###### Memory
 ```text
-# Memory
-
-
 This beach has a silicon memory.
 
 This memory has a personal recollection.
 
-This recollection has a written record. 
+This recollection has a written record.
 
 This record has a working title.
 
@@ -74,9 +72,25 @@ This personal recollection is a memory.
 This silicon memory is a beach.
 ```
 
+###### No Water
 ```text
-# No Water
+Clarity for us is etched glass
 
+created from the sands within our heartbeats
 
-Clarity for us is like a piece of carefully etched glass created from the sands within our heartbeats that bind two facts of life together, her and I, in rhythm and rhyme turning in dance towards the conflagration following the one last time.
+that bind two facts of life together,
+
+her and I,
+
+in rhythm and rhyme
+
+turning in dance
+
+towards the conflagration
+
+following the one last chime.
+```
+###### Length Seventy-Two
+```text
+a~b!c@d#e$f%g^h&i*j(k)l_m-n=o+p\q|r{s}t[u]v'w'x"y"z:1;2?3/4<5>6.7,8`9`0
 ```
