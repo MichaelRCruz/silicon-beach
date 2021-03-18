@@ -2,6 +2,14 @@
 
 This be real, but the other way in the same time.
 
+If the language of discrete math provides clarity, then a cute way to say this would be to say it explains everything. To have never studied this kind of math is unfortunate, but look at its nature. Are there infinite places of rest or is there a countdown? What are those moments tessellating lift off? A number system with infinitely divisible spaces has _PI_, and _e_, and _i_. If these locations, rather than anything else, could describe the area of a circle, then what can they tell us about our identities?
+
+How could we consider of the idea to leave for any other planet if we cannot maintain a source of truth here on Earth? Imagine space travel. Would you trust _anything_ you heard from home? What guarantee is it that the math behind our signals are is sound?
+
+If song could be copied and autonomously created by machine, where is the human identification? Do our artificially intelligent friends have a vibe? What does their music sound like? Could we find a signature to go along with our signals. Does the universe require certificates of authority? What if we started using one, just in case?
+
+This be real, but the other way in the same time.
+
 So for all of history with everyone alive know these words to be a center. The words you are reading now are have reached everybody reading this now. They are much like your own. There appears to be a comparative available for fun regarding consistency or by some extension, certainty. If the moon does not appear to have an absolute nature, then does it by your word? Does this imply that time is the square roots we plow. Mine was a carrot? Am I gay now? Is that not a sincere question because of the snowmen joke? This directly prefaces the story untold.
 
 Writing this in one paragraph is boring, but I will try. If our art has an identity then the quickest way to show this is in difference and always something else.
@@ -21,4 +29,4 @@ For one ballpark only, take the distance hit by every ball and linear regression
 
 If there is meaning in the comparison normalized on Earth to one park at home, then what does that pyramid look like for all 32 parks again? What if the pyramid was better as a  square because the choice of any location on earth might requires home plate to be normalized to your location? You can serialize this with a complication of four or more locations, and even further when that movement is understood. This is infinitely bound. Entropy in this model is the cube we wrap around Earth. There then are six locations on Earth, at any given time, that cannot have a ballpark. This is because Earth inside of the best fitting jeans it can find that just happens to be a perfect cube. The theory of wobble has north and true north to make up for his friend. So, they friends. Anyways these are a pair of yoga pants, those jeans from before are now yoga pants. Just imagine the ones that Earth wears. A perfect cube would be the key to that consideration. The six areas carved out is something worth communicating in art.
 
- 
+. . .
