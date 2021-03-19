@@ -1,5 +1,3 @@
-![Silicon Beach](assets/IMG_1180.jpeg)
-
 # Silicon Beach
 
 Authored by:
