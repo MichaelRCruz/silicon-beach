@@ -2,6 +2,10 @@
 
 # How Odd
 
+## Objective
+
+In search of _Second Order Art_.
+
 ## I Can't Even
 
 0. It's so beautiful.
@@ -241,7 +245,9 @@ If you are careful, figure 3 illustrates something interesting. It is not mathem
 
 There seems to be a **termination** obtainable for some objects. For others, the volumes of these objects seem to approach infinity. The visualization is quite illuminating if you can imagine a pair of dice, but each one, round to a perfect sphere. Reverse that film and we are back to the cube. The space removed could be the earth and the surfaces of the cube is your grid of satellites.
 
-If you take all the hits ever in every game of baseball, then you could have a histogram of the travel distances and that will reveal the upper and lower limit of integration. Removing gravity would be some cool art if you could show that with a sphere inside a cube. If a wooden block could be carved into a sphere and a sphere could be carved into a three-sided pyramid, then what could a three-sided pyramid be carved in to?
+If you take all the hits ever in every game of baseball, then you could have a histogram of the travel distances and that will reveal the upper and lower limit of integration. Removing gravity would be some cool art if you could show that with a sphere inside a cube. If paper could be folded into a sphere and folded into a cube could be folded into a three-sided pyramid. then the art project could also have a challenge.
+
+The challenge is to start with one wooden block, then when the medium is reduced without losing complication you carve away at the cube until it is a sphere. The next shape to reduce the finite amount of medium you removed from that space. Some more _negative_ space is added when the craving maintains the same level of sophistication, but now it is a three-sided pyramid. The next order would start with the cube again, but the cube is now in the second order of distinction.
 
 You could make an elephant, but what if all the elephants were required to have all flat sides. Technically, all the sides would need to satisfy the requirements that meet the definition of a mathematical plane. Would a three-sided pyramid be the simplest shape that was not in the family of shapes that was not already there? This representation, of three components, would have registered to vote with the same things in science that vote in a state where the citizens are sets. These sets appear to change form in a process. The next component you could carve out of the three-sided pyramid starts the next loop with the cube again. Is this a process, then, by definition?
 
@@ -280,7 +286,29 @@ If God was the ghost you were racing in the box, then the blind umpire would nev
 
 ### The Collision
 
-Have you ever been hypnotized by the logo that bounces off the walls of your screen saver or digital video disc player? If so, that was my fault, but for real. Who has had the pleasure of watching one the logos land exactly in the corner of the container.
+Have you ever been hypnotized by the logo that bounces off the walls of your screen saver or digital video-recording disc, DVrD, player? If so, that was my fault, but for real. Who has had the pleasure of watching one the logos land exactly in the corner of the container? A physics engine will handle all the reflections of the logo that we call bounces.
+
+```side-quest
+Try to be the programmer that wrote that software. After you were done playing with your app, and it was ready for prod, what would be the first input? In, ioa, a web application, I used fake data that is a development dependency. Those are listed in a package.json file of its repository. The realization hit me that testing software at this level of sophistication implies a few initial conclusions.
+
+The first is a desire, or even fear of that, to know where the images were scraped from? Could those photos been distributed with permission? What is more is the role of artificial intelligence in this curiosity? The humans win if the photos were artificial, but that implies the reality where they become the demons that occupy the vacancies of null. In reality, and at best, it seems to be just-in-time to know about these dangers for those that live on beaches other than silicon. Technically speaking, the potential here is that if no such thing or someone has enough intent, then the occupation it will be a conflagration of the Internet and, through the wire, the fires will arch into our worldly lives.
+```
+
+Recalling the DvrD player and the logo bouncing around like a cue ball on a billiards table. If you had a perfect birds-eye-view of the square, then then a moment in a game when you ran the table and on the eight, is the visualization of the form using the baseball color paint. Now we can use a little billiard on this canvas.
+
+You turn off the reading lamp of your sailboat, but decide that the effort to get the telescope is worth the adventure. This includes recognizing that you have been drawing a zip-zag pattern with your boat across one of the pages of Earth's Atlas. This, I guess, is a representation of your course. At sea, what would that glass see too? The first few I can think of is the figure-eight maneuver or approaching land so the reading lamp goes back on.
+
+You turn the page of your atlas. The shapes you have been studying mentioned the love found in a collision so the tessellation on the next page shines truth into your eyes as the moments through the first time you met the moon brightened the sky to reveal the new perspective illuminated by the squares and triangles written in your atlas.
+
+If we are still playing pool, then it would be your shot. You wait for yourself to _call_ your shot by pointing your drum stick at one of the pockets and think something lame like, "cross corner". You miss, obviously, but when you hit the eight-ball, God was there at gave it some English, the kind that removes gravity. The ump forgets his glasses on the bar. How can the best pool player miss on the eight. If everything happens for a reason, then not only was there no gravity, there was also some wind because God would never miss a shot like that either. You wink at yourself in the mirror like old-boy in _The Advocate's Devil_, but like in some director's cut or bootleg. The ending to that movie had a two-dimensional box filmed with some equipment that was not really noticed in the credits. A black ball and a white ball bouncing around a square with no gravity. What if the camera did something different you thought, then you thought about telescope and the shapes in your atlas.
+
+If the balls were bouncing around like the DvrD logo, and the baseball players were from another planet like the three-sided pyramid planet. It is supposed to be a moon because the dark side is the same as the sixth plane of the cube. There is a hinge there you remember, but you need a telescope if you see anything resembling that on the horizon. Instead of shopping for a telescope, at work, you think about giant boyfriend. What were those collisions of love you dream about after work.
+
+#### Strength in Order
+
+The two-dimensional shapes of this concept of each stage in that one wood carving would be a square, a circle, and a triangle. Those are the three in their _first order_ ending after some process, then again with the process to start with the first shape of the _second order_. This is the second cube, but smaller.
+
+Making comparisons seems to help in the land or _ors_ & _ands_. What will nature tell you about the comparison of a square and a triangle. How could the art in the ending scene with the square pool inspire you to learn from nature? The list the fundamental differences will be the goal to conclude the comparison of the square & the triangle. The DVrD logo still works here.
 
 ...brb
 
