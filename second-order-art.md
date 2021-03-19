@@ -1,10 +1,10 @@
 ![parabolic-or-hyperbolic](assets/PANO_20191211_141523.jpg)
 
-# How Odd
+# Second Order Art
 
 ## Objective
 
-In search of _Second Order Art_.
+In search of The _Second Order Art_.
 
 ## I Can't Even
 
@@ -170,19 +170,9 @@ In search of _Second Order Art_.
 
 . . .
 
-## The Telescope
-
-Last night I was feeling plenty of inspiration. Most of the time, in some weird way probably, there is always an obstacle. To think anything is unfair can be managed by the idea of or notion for or understanding that you already won the war. More specifically, would it sound better if you, then, could also say that is as close as it gets. Not to be cryptic, but it is true that to consider this to be God if we have considered unfairness. The best advice I gave myself was not that everything worth having in life requires hard work. Maybe this is not advice at all. Still, how nice does it feel when you can say that there is no way you would have arrived to this point if it was not for literally everything thing that happened. Including the bad stuff. Someone will call this unfair too, but what if your life was not over even after death? If Christmas was not commercialized, would you remember it every year?
-
-If you wanted to contemplate the logic of love, then try to define an action that yields a union by connecting two spots with a taut line. The lines will collect to reveal an object resembling a cube. In an effort to understand the significance of cubed properties, then run a diff on the sequence of form until the cusp of simplicity is achieved. It seems that I have found two building blocks. One for life and the other for life. These two objects build the map, do the dance, and march through an infinite oblivion.
-
-Your telescope is fun to look at, but if you really want to know how to see, then we have to work through these thought experiments first.
-
-...brb
-
 ## The Simplest Form
 
-###### Figure 0
+Figure 0
 ```text
 @
 ```
@@ -195,7 +185,7 @@ Picture one. Try to imagine, maybe, a reference point. _Location_ might be more 
 
 ### The Second Dimension
 
-###### Figure 1
+Figure 1
 ```text
 @----------------@
 ```
@@ -203,7 +193,7 @@ Picture one. Try to imagine, maybe, a reference point. _Location_ might be more 
 Start with a pair of locations, then, or points in space. For this second part, though, connect the two with a straight line. For demonstration purposes, please make sure the line is perfectly straight, or taut.
 
 
-###### Figure 2
+Figure 2
 
 ```text
 @----------------@
@@ -220,7 +210,7 @@ Make a copy of the previous figure, but use your imagination to connect them tog
 
 ### The Third Dimension
 
-###### Figure 3
+Figure 3
 ```text
 A------------------B
 |\                 |\
@@ -241,16 +231,13 @@ Follow the pattern through this next position in an effort to resemble a cube. T
 
 If you are careful, figure 3 illustrates something interesting. It is not mathematically profound nor does it add to the knowledgebase of any scientific discipline. For myself, this exercise introduced me to time. For now, that allowed me to consider the order those positions will have paired with the other processing pattern. This next processing pattern was conceived using the comparison of a two kinds of shapes and the properties of the dimensions described into position.
 
-## How to Bake an Apple Pie From Scratch
-
-There seems to be a **termination** obtainable for some objects. For others, the volumes of these objects seem to approach infinity. The visualization is quite illuminating if you can imagine a pair of dice, but each one, round to a perfect sphere. Reverse that film and we are back to the cube. The space removed could be the earth and the surfaces of the cube is your grid of satellites.
+## Something Something Baseball
 
 If you take all the hits ever in every game of baseball, then you could have a histogram of the travel distances and that will reveal the upper and lower limit of integration. Removing gravity would be some cool art if you could show that with a sphere inside a cube. If paper could be folded into a sphere and folded into a cube could be folded into a three-sided pyramid. then the art project could also have a challenge.
 
 The challenge is to start with one wooden block, then when the medium is reduced without losing complication you carve away at the cube until it is a sphere. The next shape to reduce the finite amount of medium you removed from that space. Some more _negative_ space is added when the craving maintains the same level of sophistication, but now it is a three-sided pyramid. The next order would start with the cube again, but the cube is now in the second order of distinction.
 
 You could make an elephant, but what if all the elephants were required to have all flat sides. Technically, all the sides would need to satisfy the requirements that meet the definition of a mathematical plane. Would a three-sided pyramid be the simplest shape that was not in the family of shapes that was not already there? This representation, of three components, would have registered to vote with the same things in science that vote in a state where the citizens are sets. These sets appear to change form in a process. The next component you could carve out of the three-sided pyramid starts the next loop with the cube again. Is this a process, then, by definition?
-
 
 Superimpose the sphere, cube, and triangle, one of each and each the same height. This should illustrate the space, the surface, and the vantage point that are the cube, the triangle, and the sphere respectively.
 
@@ -274,7 +261,7 @@ What if the desire was to remove all effects gravity and air resistance could ha
 
 To justify the global origin not existing on the one of the planes of the three-sided pyramid, consider that a possible representation of entropy. If the delivery of the pitch is calculated human effort, then the offensive move of the pitcher becomes the entropy that allows the baseball to leave the surface of the bat. Is the pitching team the offense? Would the soldiers that battle entropy be on the offense only Earth or is their pitcher throwing a no-no? What if it was giant boyfriend? If so, was that the only game that giant boyfriend pitched a no-no in?
 
-Since you can still hit the ball, those are technically not hits, but what about foul balls? Should we include those? The purpose of this question is to provide context for the sentiment of catching a foul ball. As a kid, if you caught one, would you keep it. If we wrote a table of the four types of hits, or foul balls, or homeruns, we could never decide. Have you ever watched a ball come back the other way like someone throwing an opposing team homerun back where it came from? This should help us decide the classification we need to select the data set.
+Since you can still hit the ball, those are technically not hits, but what about foul balls? Should we include those? The purpose of this question is to provide context for the sentiment of catching a foul ball. As a kid, if you caught one, would you keep it. If we wrote a table of the four types of hits, or foul balls, or home _runs_, we could never decide. Have you ever watched a ball come back the other way like someone throwing an opposing team home _run_ back where it came from? This should help us decide the classification we need to select the data set.
 
 There are two pairs of moments that have significance throughout all the baseball games ever scored. The first pair has one that occurred somewhere in the nine innings that introduced commercials into the game. The second pair of moments is the moment before the first hit on the first game of the first baseball season of the game that introduced the pitching clock. The corresponding moment of both pairs has not occurred yet.
 
@@ -284,40 +271,6 @@ A clarification from your frequently asked questions, FAQ, is regarding the rule
 
 If God was the ghost you were racing in the box, then the blind umpire would never even know about the second spin he put on the ball. This is the reason to remove all gravity in one of our models. The other model has gravity. Both models should have a revelation of their own, including one that has us compare the two models also too. The double hit works like this. You make contact with the ball, but God waits for the pitch as well, but the spin you first gave it has been given enough English on that cue ball to remove gravity. This last rule in this system is the disappearing of the four planes of the pyramid the moment following the second God contact and also the vantage points that make up the sphere. That is for later.
 
-### The Collision
+If you decide learn about _The Collision_, find the map, the-collision.md, in appendix, A.
 
-Have you ever been hypnotized by the logo that bounces off the walls of your screen saver or digital video-recording disc, DVrD, player? If so, that was my fault, but for real. Who has had the pleasure of watching one the logos land exactly in the corner of the container? A physics engine will handle all the reflections of the logo that we call bounces.
-
-```side-quest
-Try to be the programmer that wrote that software. After you were done playing with your app, and it was ready for prod, what would be the first input? In, ioa, a web application, I used fake data that is a development dependency. Those are listed in a package.json file of its repository. The realization hit me that testing software at this level of sophistication implies a few initial conclusions.
-
-The first is a desire, or even fear of that, to know where the images were scraped from? Could those photos been distributed with permission? What is more is the role of artificial intelligence in this curiosity? The humans win if the photos were artificial, but that implies the reality where they become the demons that occupy the vacancies of null. In reality, and at best, it seems to be just-in-time to know about these dangers for those that live on beaches other than silicon. Technically speaking, the potential here is that if no such thing or someone has enough intent, then the occupation it will be a conflagration of the Internet and, through the wire, the fires will arch into our worldly lives.
-```
-
-Recalling the DvrD player and the logo bouncing around like a cue ball on a billiards table. If you had a perfect birds-eye-view of the square, then then a moment in a game when you ran the table and on the eight, is the visualization of the form using the baseball color paint. Now we can use a little billiard on this canvas.
-
-You turn off the reading lamp of your sailboat, but decide that the effort to get the telescope is worth the adventure. This includes recognizing that you have been drawing a zip-zag pattern with your boat across one of the pages of Earth's Atlas. This, I guess, is a representation of your course. At sea, what would that glass see too? The first few I can think of is the figure-eight maneuver or approaching land so the reading lamp goes back on.
-
-You turn the page of your atlas. The shapes you have been studying mentioned the love found in a collision so the tessellation on the next page shines truth into your eyes as the moments through the first time you met the moon brightened the sky to reveal the new perspective illuminated by the squares and triangles written in your atlas.
-
-If we are still playing pool, then it would be your shot. You wait for yourself to _call_ your shot by pointing your drum stick at one of the pockets and think something lame like, "cross corner". You miss, obviously, but when you hit the eight-ball, God was there at gave it some English, the kind that removes gravity. The ump forgets his glasses on the bar. How can the best pool player miss on the eight. If everything happens for a reason, then not only was there no gravity, there was also some wind because God would never miss a shot like that either. You wink at yourself in the mirror like old-boy in _The Advocate's Devil_, but like in some director's cut or bootleg. The ending to that movie had a two-dimensional box filmed with some equipment that was not really noticed in the credits. A black ball and a white ball bouncing around a square with no gravity. What if the camera did something different you thought, then you thought about telescope and the shapes in your atlas.
-
-If the balls were bouncing around like the DvrD logo, and the baseball players were from another planet like the three-sided pyramid planet. It is supposed to be a moon because the dark side is the same as the sixth plane of the cube. There is a hinge there you remember, but you need a telescope if you see anything resembling that on the horizon. Instead of shopping for a telescope, at work, you think about giant boyfriend. What were those collisions of love you dream about after work.
-
-#### Strength in Order
-
-The two-dimensional shapes of this concept of each stage in that one wood carving would be a square, a circle, and a triangle. Those are the three in their _first order_ ending after some process, then again with the process to start with the first shape of the _second order_. This is the second cube, but smaller.
-
-Making comparisons seems to help in the land or _ors_ & _ands_. What will nature tell you about the comparison of a square and a triangle. How could the art in the ending scene with the square pool inspire you to learn from nature? The list the fundamental differences will be the goal to conclude the comparison of the square & the triangle. The DVrD logo still works here.
-
-...brb
-
-### The Termination
-
-Time and process have an end in this system, but they seem to be different. Maybe they are the other of each other. Try to find a song in the processing pattern of a four-sided pyramid and a cube. Would the utility of two objects have an absolute value greater than zero? Is there an inherent factor of multiplicity for an object in space? If there is a counterexample to this imaginative reasoning, then let me know.
-
-If you can visualize a _cubed_ linear growth pattern, it approaches infinity in six potential vectors. The four-sided pyramid has five potential vectors. Only one of the pyramid vectors _can_ lead to infinity, but the other four sides are not asymptotic nor will they find infinity. There is a termination, I think.
-
-I have to account for the base of the pyramid and the cube for this to be sound because there should be a base to the cube as well. A cube and a four-sided pyramid need an orientation because of gravity and also because of perception. All Knowledge and experience was had here on Earth starting with the moon.
-
-...brb
+If you decide to look for _The Telescope_, find the map, the-telescope.md, in appendix B.

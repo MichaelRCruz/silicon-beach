@@ -1,15 +1,43 @@
-# Silicon Beach
-
 ![Silicon Beach](assets/IMG_1180.jpeg)
 
-[How To](https://github.com/MichaelRCruz/silicon-beach/blob/master/01-how-to.md)
+# Silicon Beach
 
-[The Buffer](https://github.com/MichaelRCruz/silicon-beach/blob/master/02-the-buffer)
+Authored by:
 
-[The ID](https://github.com/MichaelRCruz/silicon-beach/blob/master/03-the-id.md)
+The News
 
-[Wind Chime](https://github.com/MichaelRCruz/silicon-beach/blob/master/04-wind-chime.md)
+## The Dedication
 
-[Inverse Regex](https://github.com/MichaelRCruz/silicon-beach/blob/master/05-inverse-regex.md)
+## The Preface
 
-[Metal Halide](https://github.com/MichaelRCruz/silicon-beach/blob/master/06-metal-halide.md)
+[00-the-preface](https://github.com/MichaelRCruz/silicon-beach/blob/master/01-the-preface.md)
+
+. . .
+
+## The Acts
+
+### Act i
+
+### Act ii
+
+### The Centerfold
+#### Photographs
+#### Videos
+#### Music
+#### Paintings
+
+### Act iii
+
+### Act iiii
+
+## The Appendix
+
+## The Index
+
+. . .
+
+## The Credits
+
+## The Metadata
+
+Fin
