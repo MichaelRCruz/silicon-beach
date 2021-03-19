@@ -1,8 +1,8 @@
-![robo-plane](assets/PANO_20191211_141523.jpg)
+![parabolic-or-hyperbolic](assets/PANO_20191211_141523.jpg)
 
-# The Simplest Form of Beauty
+# How Odd
 
-## How Odd, I Can't Even?
+## I Can't Even
 
 0. It's so beautiful.
 
@@ -174,6 +174,8 @@ If you wanted to contemplate the logic of love, then try to define an action tha
 
 Your telescope is fun to look at, but if you really want to know how to see, then we have to work through these thought experiments first.
 
+...brb
+
 ## The Simplest Form
 
 ###### Figure 0
@@ -235,18 +237,59 @@ Follow the pattern through this next position in an effort to resemble a cube. T
 
 If you are careful, figure 3 illustrates something interesting. It is not mathematically profound nor does it add to the knowledgebase of any scientific discipline. For myself, this exercise introduced me to time. For now, that allowed me to consider the order those positions will have paired with the other processing pattern. This next processing pattern was conceived using the comparison of a two kinds of shapes and the properties of the dimensions described into position.
 
-#### The Comparison
+## How to Bake an Apple Pie From Scratch
+
+There seems to be a **termination** obtainable for some objects. For others, the volumes of these objects seem to approach infinity. The visualization is quite illuminating if you can imagine a pair of dice, but each one, round to a perfect sphere. Reverse that film and we are back to the cube. The space removed could be the earth and the surfaces of the cube is your grid of satellites.
+
+If you take all the hits ever in every game of baseball, then you could have a histogram of the travel distances and that will reveal the upper and lower limit of integration. Removing gravity would be some cool art if you could show that with a sphere inside a cube. If a wooden block could be carved into a sphere and a sphere could be carved into a three-sided pyramid, then what could a three-sided pyramid be carved in to?
+
+You could make an elephant, but what if all the elephants were required to have all flat sides. Technically, all the sides would need to satisfy the requirements that meet the definition of a mathematical plane. Would a three-sided pyramid be the simplest shape that was not in the family of shapes that was not already there? This representation, of three components, would have registered to vote with the same things in science that vote in a state where the citizens are sets. These sets appear to change form in a process. The next component you could carve out of the three-sided pyramid starts the next loop with the cube again. Is this a process, then, by definition?
+
+
+Superimpose the sphere, cube, and triangle, one of each and each the same height. This should illustrate the space, the surface, and the vantage point that are the cube, the triangle, and the sphere respectively.
+
+The cubed space allows for no input resembling the walls of logical systems, but movement is allowed and all the known laws of physics apply.
+
+The three-sided pyramid and, its base, allow no input. The laws of physics inside the pyramid are irrelevant because the three sides represent three boundaries that serve this system as a set of boundaries. The base of the pyramid will be subtracted from any value that attempts to be the total surface area of the space. If possible, the same would go for the six points of the sphere that scratch the inner surface of the cube.
+
+To visualize the space, and the only that can have a volume, superimpose only the three-sided pyramid and the cube. If you superimpose the sphere, then that new surface that appears is the plane that contains the _vantage points_.
+
+With these three categories of surfaces, the ballplayers are crushing these baseballs off the surface of the three-surfaced pyramid. I mean, technically, there are ball players that crush them off the base of the pyramid, but all the game stats for every game on that base are meaningless. There is no space in between the base and the sixth side of the cube.
+
+Sides five, four, three, two, and one of the cube, when unfolded, is the total math plane of the upper something, not sure yet. The lower something not sure yet is the sum total planes of the unfolded pyramid.
+
+You are allowed to cut along the paper you may have imagined, but just pretend each surface was a piece of glass held together at the seems with glue. Only the cube and the three-sided pyramid have a hinge. The hinge for the cube is one of the seams of the sixth plane. The base of the three-sided pyramid has a hinge as well. The base of the three-sided pyramid is a double paned window of glass because of the sixth plane.
+
+As these baseball players are crushing these baseballs off the surface of planet pyramid, you are recording the distances of travel each baseball would make, but along the surface of origin. As each hit is recorded, the distance traveled is thrown into the function on the scoreboard and the value is calculated. This must be true for the first hit of opening day and the last hit of the series.
+
+The graphic we want is one that looks like the Cartessian Coordinate System, but only the first quadrant. The point of rest, for each ball traveled, is the point where the ball first touches the ground. That point of second contact corresponds with the point of first contact that might be where the ball touches the bat. How will we account for this?
+
+What if the desire was to remove all effects gravity and air resistance could have on the ball? Imagine a slugger that could spin around so fast as to create a second point of contact? Since that is theoretically possible on Earth, then that must be allowed. If two contact points exist, then those two points can connect a straight line. Those lines might be important, but how could we not pretend and say each baseball player was racing their ghost and that justified the inclusion of the second point of contact for the baseball. Do we have statistics on the global positioning satellite information that records the origin and destination of each distance traveled? Good.
+
+To justify the global origin not existing on the one of the planes of the three-sided pyramid, consider that a possible representation of entropy. If the delivery of the pitch is calculated human effort, then the offensive move of the pitcher becomes the entropy that allows the baseball to leave the surface of the bat. Is the pitching team the offense? Would the soldiers that battle entropy be on the offense only Earth or is their pitcher throwing a no-no? What if it was giant boyfriend? If so, was that the only game that giant boyfriend pitched a no-no in?
+
+Since you can still hit the ball, those are technically not hits, but what about foul balls? Should we include those? The purpose of this question is to provide context for the sentiment of catching a foul ball. As a kid, if you caught one, would you keep it. If we wrote a table of the four types of hits, or foul balls, or homeruns, we could never decide. Have you ever watched a ball come back the other way like someone throwing an opposing team homerun back where it came from? This should help us decide the classification we need to select the data set.
+
+There are two pairs of moments that have significance throughout all the baseball games ever scored. The first pair has one that occurred somewhere in the nine innings that introduced commercials into the game. The second pair of moments is the moment before the first hit on the first game of the first baseball season of the game that introduced the pitching clock. The corresponding moment of both pairs has not occurred yet.
+
+These were chosen because they are the only two I can think of that had the most influence on the pace of the game. The suggestion I am making is that the concept of time into the game of baseball had an effect on the entropy and that opposing force in our model. The entropy here is the hit off any pitch and the opposing force is giant boyfriend, the pitcher. Some other essay describes my thoughts on the opposing force to human effort as entropy. If human effort requires divine intervention by nature and nature is created by God, then would opposition make sense. What if God was entropy as well? What if it was God crushing those baseballs with double contact.
+
+A clarification from your frequently asked questions, FAQ, is regarding the rule about the a ball that hits the bat before hitting the ground. Whatever the resulting score has recorded is still valid.
+
+If God was the ghost you were racing in the box, then the blind umpire would never even know about the second spin he put on the ball. This is the reason to remove all gravity in one of our models. The other model has gravity. Both models should have a revelation of their own, including one that has us compare the two models also too. The double hit works like this. You make contact with the ball, but God waits for the pitch as well, but the spin you first gave it has been given enough English on that cue ball to remove gravity. This last rule in this system is the disappearing of the four planes of the pyramid the moment following the second God contact and also the vantage points that make up the sphere. That is for later.
+
+### The Collision
+
+Have you ever been hypnotized by the logo that bounces off the walls of your screen saver or digital video disc player? If so, that was my fault, but for real. Who has had the pleasure of watching one the logos land exactly in the corner of the container.
+
+...brb
+
+### The Termination
 
 Time and process have an end in this system, but they seem to be different. Maybe they are the other of each other. Try to find a song in the processing pattern of a four-sided pyramid and a cube. Would the utility of two objects have an absolute value greater than zero? Is there an inherent factor of multiplicity for an object in space? If there is a counterexample to this imaginative reasoning, then let me know.
 
-#### The Termination
+If you can visualize a _cubed_ linear growth pattern, it approaches infinity in six potential vectors. The four-sided pyramid has five potential vectors. Only one of the pyramid vectors _can_ lead to infinity, but the other four sides are not asymptotic nor will they find infinity. There is a termination, I think.
 
-If you can visualize a _cubed_ linear growth pattern, it approaches infinity in six potential vectors. The four-sided pyramid has five potential vectors. Only one of the pyramid vectors _can_ lead to infinity, but the other four sides are not asymptotic nor will they find infinity. There is a termination, I think. I have to account for the base of the pyramid and the cube for this to be sound. Because of this, there should be a base to the cube as well. A cube and a four-sided pyramid need an orientation kind of because of gravity and also because of perception. Knowledge and experience was had here on Earth.
-
-There seems to be a **termination** obtainable for some objects. For others, the volumes of these objects seem to approach infinity. The visualization is quite illuminating if you can imagine a pair of dice, but round both to perfection so basically a sphere to place inside each of the two objects. Each sphere has these assumed properties allowing them no friction unless there you could consider a quarell at bounce.
-
-#### The Juxtaposition
-
-If you take all the hits ever in every game of baseball, then
+I have to account for the base of the pyramid and the cube for this to be sound because there should be a base to the cube as well. A cube and a four-sided pyramid need an orientation because of gravity and also because of perception. All Knowledge and experience was had here on Earth starting with the moon.
 
 ...brb
