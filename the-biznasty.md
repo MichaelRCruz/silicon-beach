@@ -20,6 +20,8 @@ What is the difference between reparations and indemnification? Will a new oppor
 
 #### The Tuition
 
+#### The Job.
+
 . . .
 
 ### Banks in America
