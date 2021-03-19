@@ -1,3 +1,5 @@
+![centerfold > lolphotos > assets how-to](centerfold/lol-photos/assets/the-collision.jpg)
+
 # The Collision
 
 Have you ever been hypnotized by the logo that bounces off the walls of your screen saver or digital video-recording disc, DVrD, player? If so, that was my fault, but for real. Who has had the pleasure of watching one the logos land exactly in the corner of the container? A physics engine will handle all the reflections of the logo that we call bounces.

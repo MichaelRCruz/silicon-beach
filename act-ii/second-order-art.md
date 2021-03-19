@@ -1,4 +1,4 @@
-]![centerfold > lolphotos > assets / second-order-art](../centerfold/lol-photos/assets/second-order-art.jpg)
+]![centerfold / lolphotos / assets / second-order-art](../centerfold/lol-photos/assets/second-order-art.jpg)
 
 # Second Order Art
 
