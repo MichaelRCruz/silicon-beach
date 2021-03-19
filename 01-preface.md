@@ -22,3 +22,5 @@ If you are reading this, know that I received your message, but I may have forgo
 March 10, 2021
 07:12
 43°01'26''N, 87°55'02''W
+
+TODO: photograhy

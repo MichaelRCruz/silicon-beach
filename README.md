@@ -18,15 +18,13 @@ The News
 
 ### Act ii
 
+### Act iii
+
 ### The Centerfold
 #### Photographs
 #### Videos
 #### Music
 #### Paintings
-
-### Act iii
-
-### Act iiii
 
 ## The Appendix
 

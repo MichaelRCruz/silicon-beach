@@ -1,4 +1,4 @@
-![Shriner](assets/IMG_0463.JPG)
+![centerfold > lol-photos > assets > the-breeze](centerfold/lol-photos/assets/the-breeze.jpg)
 
 # The Breeze
 

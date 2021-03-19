@@ -1,4 +1,4 @@
-![centerfold > lolphotos > how-to](assets/how-to.jpg)
+![centerfold > lolphotos > assets how-to](../centerfold/lol-photos/assets/how-to-2.jpg)
 
 # How To
 

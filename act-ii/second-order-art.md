@@ -1,10 +1,22 @@
-![centerfold > lolphotos > second-order-art](assets/second-order-art.jpg)
+]![centerfold > lolphotos > assets / second-order-art](../centerfold/lol-photos/assets/second-order-art.jpg)
 
 # Second Order Art
 
 ## Objective
 
-In search of The _Second Order Art_.
+In search of the second order of art.
+
+## Synopsis
+
+> * Objective
+* Synopsis
+* I Can't Even
+* The Simplest Form
+* The First Dimension
+* The Second Dimension
+* The Third Dimension
+* Something Something Baseball \
+sorted*
 
 ## I Can't Even
 
