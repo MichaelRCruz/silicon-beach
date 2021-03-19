@@ -144,6 +144,6 @@ n. imagine your absorption of sun light by contrast of hue
 
 ### Actual Perception
 
-You should practice while you can before you see land on the horizon. The last map in the back of your atlas is your telescope - the only page with the perforated edge. The lens you have is now a a mosaic of static colors. Looking carefully for patterns grants the perspectives.
+You should practice while you can before you see land on the horizon. The last map in the back of your atlas is your telescope - the only page with the perforated edge. The lens you have is now a a mosaic of static colors. Looking carefully for patterns grants the perspectives.  Have you ever saw a pile of scrolls in a cartoon or just one scroll on a pedestal? They bulge off to the side with some kind of seal towards the center. Yours kinda looks like that scroll.
 
-Have you ever saw a pile of scrolls in a cartoon or just one scroll on a pedestal? They bulge off to the side with some kind of seal towards the center.
+...brb
