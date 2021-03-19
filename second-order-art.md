@@ -1,4 +1,4 @@
-![parabolic-or-hyperbolic](assets/PANO_20191211_141523.jpg)
+![centerfold > lolphotos > second-order-art](assets/second-order-art.jpg)
 
 # Second Order Art
 

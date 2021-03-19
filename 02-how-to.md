@@ -1,3 +1,5 @@
+![centerfold > lolphotos > how-to](assets/how-to.jpg)
+
 # How To
 
 Learning to sail a vessel requires a dilated perception of the utility of time, the movement through space, and the shadow of illumination.

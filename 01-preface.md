@@ -1,4 +1,6 @@
-# preface
+![centerfold > lolphotos > preface](assets/preface.jpg)
+
+# Preface
 
 Some of these essays will be abstracted from the diary I kept throughout my travels in the United States during the global pandemic of 2020. The method I hope to share these drafts with you are brought to you via GitHub, my current sponsor. They were there for my work as a software engineer in Los Angeles and I hope they remain supportive in my efforts to obtain further financial support to finish this book. Before I needed to write these essays, there was a diary I kept of my travels. The laptops used to write that diary were stolen out of my bag at a Chicago train station last September in 2020.
 

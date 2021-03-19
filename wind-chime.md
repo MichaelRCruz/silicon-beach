@@ -1,3 +1,5 @@
+![centerfold > lolphotos > wind-chime](assets/wind-chime.jpg)
+
 # wind chime
 
 I can tell you everything about the baseball game in front of us, but that still leaves you suspicious of my score card.
