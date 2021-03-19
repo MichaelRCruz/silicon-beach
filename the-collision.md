@@ -1,4 +1,4 @@
-![centerfold > lolphotos > assets how-to](centerfold/lol-photos/assets/the-collision.jpg)
+![centerfold / lolphotos / assets how-to](centerfold/lol-photos/assets/the-collision.jpg)
 
 # The Collision
 
