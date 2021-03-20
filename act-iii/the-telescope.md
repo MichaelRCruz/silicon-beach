@@ -152,3 +152,5 @@ If you tune you telescope with the correct parameters, then that's it.
 Hold your telescope at eye level, but about an arms-length, or less. Make sure you can see everything else safely. Once you find the best orientation with your eyes, both of them if you can. This display in your field-of-vision now makes you the first cyborg on your own planet! The technology you are wielding is enough to make you dangerous. The difference in hue, from the telescope's perspective is different, but if you maneuver through the eye-of-the-wind, then you have to maneuver with your telescope, or do we? What if you could adjust the scope to see things clearer or find the perfect frequency on an AM radio.
 
 How do those new frames fit? Are they tight in the ears? I can always adjust them for you if you would like. Stop in any time? What is time, though?
+
+...brb
