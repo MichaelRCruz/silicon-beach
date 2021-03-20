@@ -50,8 +50,8 @@ figure 2
 
 ### Poetic Abstraction
 
-Figure 3
-
+figure 3
+```text
 |#|*|#*|port & starboard|*#|*|#|
 |-|:-:|-|||||
 |n|n|tack|||||
@@ -66,11 +66,12 @@ Figure 3
 |.|.|.|||||
 |n|n|tack|n||||
 ||||||Z|Z|
-
-## Abstract, n
-
-Figure 4
 ```
+
+## n, Abstract
+
+figure 4
+```text
 |#|*|#*|
 port & starboard
 |*#|*|#||-|:-:|-||
@@ -84,66 +85,6 @@ n|n|tack|n||||||
 ||||Z|Z|
 ```
 
-## Beta Test
-
-### Recipe Template
-
-###### Image
-
-```
-                                      /@\
-                                     / | \
-```
-```
-                            /@\     /@   @\     /@\
-                           / | \   / |   | \   / | \
-```
-
-```
-         @\    /@    /@\   \ | /   \ |   | /   \ | /   /@\   @\     /@
-         | \  / |   / | \   \@/     \@   @/     \@/   / | \  | \   / |
-```
-```
-         | /  \ |   \ | /   /@\     /@   @\     /@\   \ | /  | /   \ |
-         @/    \@    \@/   / | \   / |   | \   / | \   \@/   @/     \@
-```
-```
-                           \ | /   \ |   | /   \ | /
-                            \@/     \@   @/     \@/
-```
-```
-                                     \ | /
-                                      \@/
-```
-
-###### Title
-#
-Telescopic Apple Salad
-###### Description
-> Human meal. Serves two.
-###### Ingredients
-*
-one map
-
-*
-one seal
-
-*
-one star
-
-###### Steps
-n. roll map with reflective side inwards and contain with seal
-
-n. detract the scope by turning clockwise in all directions
-
-n. position the scope at eye-level to observe the projection
-
-n. line the scope parallel with the horizon for aim
-
-n. imagine your absorption of sun light by contrast of hue
-
-### Actual Perception
-
-You should practice while you can before you see land on the horizon. The last map in the back of your atlas is your telescope - the only page with the perforated edge. The lens you have is now a a mosaic of static colors. Looking carefully for patterns grants the perspectives.  Have you ever saw a pile of scrolls in a cartoon or just one scroll on a pedestal? They bulge off to the side with some kind of seal towards the center. Yours kinda looks like that scroll.
+## The Figure-Eight Maneuver
 
 ...brb
