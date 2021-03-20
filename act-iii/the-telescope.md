@@ -153,4 +153,77 @@ Hold your telescope at eye level, but about an arms-length, or less. Make sure y
 
 How do those new frames fit? Are they tight in the ears? I can always adjust them for you if you would like. Stop in any time? What is time, though?
 
+### The Gift Horse
+
+If you are riding a horse a you begin to imagine galloping through an open field after you experienced something spooky in normal forest because if you say _enchanted_ forest, then no one will believe you. A sudden valley appears, but the surface has concavity hyperbolic in nature or is it the other way? The profile of the image on the little telescopes, that resemble a marching bad, looks like spinning wheels that would behave like Interstate I-90.
+
+If you open you atlas to the appendix, or index, or page 205 in Essential Calculus, authored by James Stewart, The Riemann Sum appears to be the place to begin again with the fundamentals of calculus. For myself, calculus has been the greatest discovery and favorite human endeavor. This goes for the language's utility of practical functionality. The stories of its origin resembles the laws of nature in the light of the _or_ world.
+
+As you glide down the slope of that mountain you begin to wonder if you could run as fast one day, but then you realize the friction involved. We can forget about that until we talk about traveling the speed of light without rocket fuel. Gravity is _very_ special to you on this mountain or the boat you are sailing this moment. If I could describe, then the preference is with sailing.
+
+### The Mechanics of Time Travel
+
+Gravity is special. It is so special that if we put your mom in outer space, she would orbit, but then the boyfriend giant would have to deal with that and, yeah. That's it.
+
+For real, though. Space ships, airplanes, and your car all rely on gravity just like your sailboat. A racecar around the turn has to follow the God limit otherwise the driver dies. Space ships cannot ship if it was not for gravity. Yikes, could you imagine how a sailboat might use gravity?
+
+Gravity does all the heavy lifting for you on your way with no direction home directory. When the wind is blowing from the twelve o'clock direction on your wind-clock, your bow should be poiinted at two o'clock. This is a nice place to be if you can handle it when the wind intensifies. The key on your map will describe the zig-zag pattern along your route to your destination.
+
+### The Zig-Zag Pattern
+
+Paired zs adequately superimposed with caps lock or not. Either way I win.
+
+or Figure 2, conveniently amplified or exaggerated for marketing purposes. Not actual size.
+
+figure 2
+Wind always originating from twelve o'clock.
+
+|10|wind|2|
+|-|:-:|-|
+||v|/||
+|\\|v|||
+||v|/||
+
+The alternating two o'clock and ten o'clock positions of the bow of your ship will bring you to an origin if and only if the wind does not shift nor any shift along the course you're headed. Maintain a bearing that is held at your twelve o'clock position. If not, then the zig-zag pattern will be meaningless unless it is amplified. Remember move the tiller starboard or port depending on the side of the boat that is lowest above water when your sail is full of wind.
+
+### Another Beta Test
+
+Get familar with the feel of the tiller. Listen to the vibration with your hands and let go of the tiller only to grab it again to learn the orientation the boat _wants_ to be in. Your bow will tell you the direction that it wants. When your tiller is parallel with the length of the, ship with the bow following nothing with you at the stern sitting high-side. High-side is port at two o'clock and high-side is starboard at 10 o'clock of the wind.
+
+### The Turntables
+
+```text
+The News
+
+
+
+
+
+
+
+
+ ___________________
+|                   |
+| Parental Advisory |
+|-------------------|
+| Explicit Lyrics   |
+|___________________|
+```
+
+The profile of the spinning wheel is actually just two turn tables. The gravity of both record players allows the vinyl to rest on their respective mats. The one up-side down has gravity in the other direction. When you are sailing, the wind that fills your sails is countered by the weight hanging off the bottom of your boat. If you swim underneath the boat, it is large enough to hug it like a bear. Give it a kiss for me while you are down there because that is your engine and if you could call the wind fuel, then call me. The weight of the keel falls with gravity as the sailboat tilts with the wind. The fulcrum is the water of the sea.
+
+When you are sailing, imagine being the needle on one of the turntables along a track of the vinyl that spins the same direction of the other turn table or it spins the same direction. One is upside-down. Once you finish your track, the vinyl goes back in the sleeve, but have now scooped into the ice cream cone that became one when the record player fell off it. If you look inside the ice cream cone, there you are. Were you not just in my kitchen admiring my clock?
+
+To dream within in a dream is much like the laws of physics. There are Russian Dolls everywhere and I mean the full stack kind. A more poetic description can be the concentric circles when you drop your cell phone in the water. What if you dropped your friend in the water? What would you do? What is their favorite record?
+
+
+### The Figure Eight Maneuver
+
+figure 3
+```text
+&
+```
+
+If your friend falls off the boat or you dropped your cell phone in the sea, then the figure-eight maneuver will be crucial to its survival.
+
 ...brb
