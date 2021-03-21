@@ -2,6 +2,10 @@
 
 # The Painting
 
+Would you rather answer the telephone to hang on a momennt or would you rather learn from a painting?
+
+The observation of state is a measurement and we make in make-believe _Land Ampersand_.
+
 ## The Synopsis
 
 1. The Preface

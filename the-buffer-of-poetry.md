@@ -90,7 +90,11 @@ towards the conflagration
 
 following the one last chime.
 ```
-###### Length Seventy-Two
-```text
-a~b!c@d#e$f%g^h&i*j(k)l_m-n=o+p\q|r{s}t[u]v'w'x"y"z:1;2?3/4<5>6.7,8`9`0
-```
+###### The W Ligature
+
+~~a
+~b!c@d#e$f%g^h&i*j(k)l_m-n=o+p\q|r{s}t[u]v'w'x"y"z:1;2?3/4<5>6.7,8/``90~~
+
+###### The Ask
+
+> Would you rather answer the telephone to hang on a moment or would you rather learn from a painting?
