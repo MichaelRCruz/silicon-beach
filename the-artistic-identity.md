@@ -1,5 +1,7 @@
 # The Artistic Identity
 
+> If two angels sing a song in the same moment, then the artistic identity of man would be a message across a river and over the walls in the mountains slaying ears to hear distinction in sound during another moment in space.
+
 This be real, but the other way in the same time.
 
 If the language of discrete math provides clarity, then a cute way to say this would be to say it explains everything. To have never studied this kind of math is unfortunate, but look at its nature. Are there infinite places of rest or is there a countdown? What are those moments tessellating lift off? A number system with infinitely divisible spaces has _PI_, and _e_, and _i_. If these locations, rather than anything else, could describe the area of a circle, then what can they tell us about our identities?

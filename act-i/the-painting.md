@@ -9,7 +9,7 @@
 3. The Background
 4. The Conclusion
 
-## The Preface
+## The Ask
 
 If the painting could ask for a feeling calling you to reflect the lights beyond the moments of nostalgia during the yearly moments before death, then there is a landscape painting of five three-dimensional objects like the one I drew one day when I used my imagination. The depth of this painting, in presentation of my own, have similarities discussed in this essay.
 
@@ -34,16 +34,6 @@ The orchestra of the human endeavor is painted from the first chairs of silicon 
 |rivers|1|null|
 |---|**subtotal**|6 + n|
 
-###### Figure 2, Specification
-
-|**fig. 2**||||||
-|:---:||||||
-|---|---|---|---|---|---|
-|**_illusion_**|the objects|the people|the tree|the water|the stone|
-|shadow|x||||
-
-\***cummulative**
-
 The presence of the objects in the painting have a peculiar effect on the trees from the human perspective. Similar to a surveying stone a tree serves as a landmark along the river. The surveying stone has grown into the earth like the tree. The tree, unlike the stone on the opposing shore, does not vanish from gravity.
 
 Perhaps this is the reason for the presence of the two objects of similar form. They do not grow like the tree and the rock on the other shore of the river and appear to help the tree mark a land as location.
@@ -56,21 +46,34 @@ If you look close enough, the objects have an **illusion of form** personified b
 
 The objects of like form resemble the human artist that spun them on a potting wheel. Is the utility of the tree or the illusions of the objects greater than the comparison? If reason is gained from inference and inference is gained from **comparison of relativity** and the comparison of relativity requires illusions of form to reason, then is reason deluded?
 
-###### Foreground Conclusion
-_The curves of the painting sing. The song they sing is a reflection of human sophistication. The melodies in their song emote feelings of love and grace._
-
-. . .
-
 ## The Background
 
-Orientation has echoes in the moutains from the songs of amgeles singing a duet in the same space & in the same moment. The light shines a premonition when you are lost. When you are art, the light shines a perspective of relativety & shines a perspective of location. If the perspectives of light relative to the other natural phenomonons like gravity & like sound. Would a mountain be a space of perspecive if the foothills across the river could amplify a song over the mountain wall? The songs of angeles would be echoed by stone and valleys. What would this echo sound like in your rocky space of perspective? What if the echo could be identified even inside an opposing space to the foreground of the painting. If two angels sing a song in the same moment, then the artistic identity of man would be a message across a river and over the walls in the mountains slaying ears to hear distinction in sound during another moment in space.
+Orientation arrives to its origin as echoes in the mountains from the songs of angels singing a duet at the same space & at the same moment. This light in your imagination shines a premonition into your ears when you are lost. When you are art, the light shines a premonition. Are premonitions the perspective of relativity. Does Albert Einstein have a corresponding _other_ like Issac Newton & Gottfried Leibniz prior to their discoveries of the derivative & the integral.
+
+###### Figure 2, Specification, in draft
+\***cummulative**
+
+|**fig. 2**||||||
+|:-:||||||
+|**illusion**|the objects|the people|the tree|the water|the stone|
+|shadow|x|x|x||x|
+|imagination||x||||
+
+###### Figure 3, Perspective, in draft
+\***cummulative**
+
+|**fig. 3**|||||
+|:-:|||||
+|**perspective**|you|myself|the reader|God|
+|you||||||
+|myself||||||
+|the reader||||||
 
 
-
-The colors in perspective, by illumination in light, give presentation to three optical illusions. The first two are opositoinal forms and shapes in illuminaiton from a horizontal light source. The dark side of the moon & the light side of the moon are the first two optical illusions. The third is shadow. If the moon were singing for you under that tree and on your sailboat because you cannot listen to music on your phone, then I got you, but check this out. The moon only has one of its optical illusions exposed to us because it is, supposedly, locked in orbit. If that is true, then I have shown two things that I have learned today. First, the moon is an emodiment of worldly illusion. Second, if giant boyfriend was only showing one of his optical illuisions, does that mean he is hiding the only way he knows how or since he does not use the other two optical illusions of mother nature and father time, he then should be considered efficient since the other two domains just need to wake up. When your eyes follow the depths of the lines of the perspective of distance, the seams are carefully lined like lipstick. The stone against the water and itself, the object and the water, the woman and the shadow, and the Earth and the sky.
-
-The color of the leaves suggest more about location. If this is true then the message is further amplified by the tree. Adfditionally, the nature of the leaves, compared to the snow on top of the mountainis in the backgroud suggest a worldly proximatey often found in an arid climate. Since the color of the leaves suggest this, then the scope must be dialwed out if there is a desire to continue. The color of the leaves, in their shared color scheme within that space of the painting, speaks of a moment much more sacred than any found with nostalgia. If nostalgia was not the right word if the moment was not now, then what word? Timeless.
-
-. . .
+If the moon were singing for you because you lost your phone, then I feel you. Giant boyfriend though he learned these optical illusions from father time, but he might not exist. The dark side of the moon & the light side of the moon are the first two optical illusions. The third is the shadow of your sail on the sea. When your eyes follow the depths of the lines of the perspective of distance, the seams are carefully lined like lipstick. The stone & the water. The object & the water, and the people & the shadow.
 
 ...brb
+
+##### Summary
+
+The curves of the painting sing. The song is a reflection of human sophistication. The melody emotes a feeling of love and grace. If nostalgia is not felt, then timeless is an emotion that tells the truth told by omission. The painting has no lights of electricity. That is it.
