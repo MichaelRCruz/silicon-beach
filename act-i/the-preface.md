@@ -23,4 +23,4 @@ March 10, 2021
 07:12
 43°01'26''N, 87°55'02''W
 
-**this textbook should come with an answer key and a perforated telescope.**
+**This textbook should come with an answer key for the problem set and a perforated telescope for perspective.**
