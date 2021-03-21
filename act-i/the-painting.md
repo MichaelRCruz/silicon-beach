@@ -57,20 +57,32 @@ Orientation arrives to its origin as echoes in the mountains from the songs of a
 |:-:||||||
 |**illusion**|the objects|the people|the tree|the water|the stone|
 |shadow|x|x|x||x|
-|imagination||x||||
+|reflection||x||x|x|
 
-###### Figure 3, Perspective, in draft
+###### Figure 3, Perspectives, in draft
 \***cummulative**
 
 |**fig. 3**|||||
 |:-:|||||
-|**perspective**|you|myself|the reader|God|
-|you||||||
-|myself||||||
-|the reader||||||
+|**perspective**|you|myself|the reader|
+|distance|||x|
+|time|||x|
+|light|||x|
+|form|||x|
+|location|||x|
+|presence|||x|
+|light|||x|
+|---|
+|you|x||||
+|myself||x|||
+|the reader|x|x|x|
 
 
-If the moon were singing for you because you lost your phone, then I feel you. Giant boyfriend though he learned these optical illusions from father time, but he might not exist. The dark side of the moon & the light side of the moon are the first two optical illusions. The third is the shadow of your sail on the sea. When your eyes follow the depths of the lines of the perspective of distance, the seams are carefully lined like lipstick. The stone & the water. The object & the water, and the people & the shadow.
+If giant boyfriend were singing for you because you lost your phone, then I feel you. The dark side of the moon & the light side of the moon are the first two optical illusions. The third is the shadow of your sail projected on the sea.
+
+When your eyes follow the depths of the lines of the perspective of distance, the seams are carefully lined like lipstick. The stone & the water. The object & the water, and the people & the shadow.
+
+
 
 ...brb
 
