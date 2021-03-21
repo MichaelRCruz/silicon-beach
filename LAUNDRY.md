@@ -86,3 +86,5 @@ a~b!c@d#e$f%g^h&i*j(k)l_m-n=o+p\q|r{s}t[u]v'w'x"y"z:1;2?3/4<5>6.7,8`9`0
 * Opensource textbooks - formatting,
 
 * the abstraction of English into the lexicon
+
+* The benefits of publishing a text book would provide an answer key for you and a problem set for me. The most obvious being editions.
