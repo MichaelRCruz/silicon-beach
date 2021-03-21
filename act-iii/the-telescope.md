@@ -228,12 +228,42 @@ If your friend falls off the boat or you dropped your cell phone in the sea, the
 
 ### The Painting
 
-There is a landscape painting of five three-dimensional objects like the one I drew. There are mountains in the background along a river. In the foreground, two objects in a form and shape not common in nature except it is.
+If the painting could ask for a feeling calling you to reflect the lights beyond the moments of nostalgia during the yearly moments before death, then there is a landscape painting of five three-dimensional objects like the one I drew one day when I used my imagination. The depth of this painting, in presentation of my own, have similarities discussed in this essay.
 
-##### The Foreground
+Human intervention will appear antagonistic, like the moon, if you are not careful suggesting there is a heavenly presentation of two and the worldly appeal of choice. This deterministic luxuries of choice are evidenced by the human _condition_ that is more appropriately described as a human _process_. These words are tasked to reveal a more suitable perspective of life. In light of the contrast between the definitive human _process_ to the definitive human _condition_, I hope this hypothetical lesson pleases God. Our faith handles the rest. The _locations_ of similar interest of the elements on Earth appear to the result of intent rather than entropy.
 
-One tree, two objects, and two women. The women have different color hair. The tree has leaves. The objects are appear identical in form. The tree is important or wise or well-known because if its reach and location along a river. The two objects, with no distinguishable characteristics between them, found a landmark vicariously through the trees. The location of _similar interest_ of the objects and the tree suggest human intervention as a path of least resistance. The presence of the objects have a strange effect on the trees from a human perspective. If the tree once served as a natural landmark to help in identifying a location along the river, then could we say that nature, by human intervention, equiped the trees with technology? Does the computer the tree is not using suggest the tree is insufficient for the same purposesof the objects? What classification do humans have that label those in a particular simbiotic relatiionship with technology as cyborgs. Is the tree now a cyborg? If the other way could suggest something, then perhaps it is two cameras that describe the actual relationship with the tree and the two objects. The wisdom of the tree has a siloughette at sunrise. From a distance, it is reasonbale to define it as a known location. The objects have the same purpose. They also mark a prefered location along the river. The foreground presents the object as the closest in perspective. The corresponding object of similar form is opposed to the like along a line of dilineation. In that oppositional orientation, the two objects stand as guards of a door. The door is for a ship. The personification of the objects have an illusiion if you look close enough. The potter shaped these two objects with the same hands. That explains the duplicated form. The illusion is the abstraction of the sillouette of the objects curve like that of the women under the branches of the tree. This suggests the foreground represents amplification of a signal from home. The curves of the women and their body language sing. The song they sing is a reflection of human sophistication. The melodies in their song emote feelings of a species only found at this location. The orchestra of the human endeavor is painted on the same trajectory as the aplified message broadcasted from the first chairs of silicon and carbon. They all shelter under the wisdom of tessellated branches.
+#### Perspective
 
+found a landmark vicariously through the trees.
+
+##### The Painting's Foreground
+
+###### elements
+Unlike the other known pairs, the objects have no distinguishable characteristics between them.
+
+|Precense|||
+|:-:|-|-|
+|_elements_|_enumeration_|_pair?_|
+|trees|1|null|
+|objects|2|yes|
+|humans|2|yes|
+|mountains|n|yes|
+|rivers|1|null|
+|figure 7|**subtotal**|6 + n|
+
+The presence of the objects in the painting have a peculiar effect on the trees from the human perspective. Similar to a surveying stone a tree serves as a landmark along the river. The surveying stone has grown into the earth like the tree. The tree, unlike the stone on the opposing shore, does not vanish from gravity.
+
+Perhaps this is the reason for the presence of the two objects of similar form. They do not grow like the tree and the rock on the other shore of the river and appear to help the tree mark a land as location.
+
+Do the two objects reveal an insufficiency of the tree by virtue of the role of the objects. If not, then are the identical roles of the tree and the objects better understood in perspective of comparative form. To that end, consider the symbiotic relationship of the trees and the objects. If the inanimate objects assist the trees by _amplifying_ the message detailing a location. Technically, the trees use computers if the objects of the painting contribute to the amplified message.
+
+The objects of identical form also provide utility to the river The sophistication of them is exemplified by their paired state as the two, with a distance, can represent two points in space connected by a line. If the river is a line, then the paired state of the objects suggest that they complete the first step in the process of form. The important realization is that they have completed this step as a pair and are inanimate.
+
+The personification of the objects have an illusiion if you look close enough. In that orientation, the two objects stand like guards locking a door. The door is for a ship sailing in the mountains across the river. The personification of the objects is the curavature of the object's silouete projected into your imagination by God and projected on to the ground by light. One may be observed with your eyes, the other allows you to observe with your imagination. Of those two choices, the preference for imaginative reasoning is revealed.
+
+. . .
+
+This foreground represents amplification of a signal from home. The curves of the women and their body language sing. The song they sing is a reflection of human sophistication. The melodies in their song emote feelings of a species only found at this location. The orchestra of the human endeavor is painted on the same trajectory as the aplified message broadcasted from the first chairs of silicon and carbon. They all shelter under the wisdom of tessellated branches.
 
 The colors in perspective via illumination in light give presentation to the three opticall illusions that I know of. The first two are opositoinal forms and shapes in illuminaiton from a horizontal light source. The dark side of the moon & the light side of the moon are the first two optical illusions. The third is shadow. If the moon were singing for you under that tree and on your sailboat because you cannot listen to music on your phone, then I got you, but check this out. The moon only has one of its optical illusions exposed to us because it is, supposedly, locked in orbit. If that is true, then I have shown two things that I have learned today. First, the moon is an emodiment of worldly illusion. Second, if giant boyfriend was only showing one of his optical illuisions, does that mean he is hiding the only way he knows how or since he does not use the other two optical illusions of mother nature and father time, he then should be considered efficient since the other two domains just need to wake up. When your eyes follow the depths of the lines of the perspective of distance, the seams are carefully lined like lipstick. The stone against the water and itself, the object and the water, the woman and the shadow, and the Earth and the sky.
 
@@ -244,4 +274,15 @@ Lastly, the perspectibes in presentation with the object was a reminder of the s
 
 ##### The Background
 
+Orientation has echoes in the moutains from the songs of amgeles singing a duet in the same space & in the same moment. The light shines a premonition when you are lost. When you are art, the light shines a perspective of relativety & shines a perspective of location. If the perspectives of light relative to the other natural phenomonons like gravity & like sound. Would a mountain be a space of perspecive if the foothills across the river could amplify a song over the mountain wall? The songs of angeles would be echoed by stone and valleys. What would this echo sound like in your rocky space of perspective? What if the echo could be identified even inside an opposing space to the foreground of the painting. If two angels sing a song in the same moment, then the artistic identity of man would be a message across a river and over the walls in the mountains slaying ears to hear distinction in sound during another moment in space.
 
+
+
+
+### The Shadow Illusion
+
+The shadow cast by the object is one-to-one according to the height of its shadow along the ground. What does that say about the shadow cast by you?
+
+##### The Amplification
+
+Do the angels of amplification sing a duet? If two spaces caannot occupy the same space at the same time, then cuold they sing a duet occupy the same space at the same moment?
