@@ -13,7 +13,7 @@ That somebody thinks they really found you"
 
 In the words of myself. "Just tell her, dude. Just go and tell her, Michael. Please, just tell her. You have to. Just go up there and tell her. She has to know. You have to do this. Just go!" Those thoughts eventually became my own voice, out-loud, as I paced back and forth crying in despair.
 
-Finally, Chicago sent enough trains down the Blue Line to snap me out of that hypnotic misery, but still. Who was she? Was there someone out there experiencing as much pain I was in that night? Was she, too, longing for a complete unknown? Was she also suffering from this awful despair of mysterious origin? Was she just as heart-broken? Were those her prayers I was hearing? Could she hear mine? The strength of that emotion brought an end to all travels, finished my walkabout, and brought my odysee to its final chapter.
+Finally, Chicago sent enough trains down the Blue Line to snap me out of that hypnotic misery, but still. Who was she? Was there someone out there experiencing as much pain I was in that night? Was she, too, longing for a complete unknown? Was she also suffering from this awful despair of mysterious origin? Was she just as heart-broken? Were those her prayers I was hearing? Could she hear mine? The strength of that emotion brought an end to all travels, finished my walkabout, and brought my odyssey to its final chapter.
 
 I know you were there with me since the day I left Los Angeles for that trip on October 31st, 2019. Your winds shook my car as I traveled over those mountaintops on my way through the wildfires of California. Your illusion of presence caught my eye as I searched for that river in the depths of the Grand Canyon. Your beauty in the mountains of Colorado refused to let me go as desired another look at your shapes along the stretch of interstate 90. The colors of your sunrise in the fields of Nebraska brought me tears of excitement as I sped along those dirt roads through the midwest. Your calling over the thunder and trains of Chicago now have my attention and brought me comfort in my moment of total despair.
 
@@ -23,4 +23,4 @@ March 10, 2021
 07:12
 43°01'26''N, 87°55'02''W
 
-TODO: photograhy
+**this textbook should come with an answer key and a perforated telescope.**
