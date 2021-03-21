@@ -14,13 +14,13 @@
 
 ...brb
 
-## The Preface
+## The Ask
 
 You are on your sailboat.
 
 ## The Essay Untold
 
-What _is_?
+_Is_?
 
 ## The Disclosure
 
@@ -37,4 +37,4 @@ What _is_?
 
 ## The Conclusion
 
-Neither leading to a firm conclusion nor ending doubt or dispute.
+Neither leading to a conclusion nor ending doubt or dispute.

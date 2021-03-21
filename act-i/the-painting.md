@@ -4,7 +4,7 @@
 
 Would you rather answer the telephone to hang on a momennt or would you rather learn from a painting?
 
-The observation of state is a measurement and we make in make-believe _Land Ampersand_.
+The observation of state is a measurement and we make in make-believe michaelville.
 
 ## The Synopsis
 
@@ -25,7 +25,7 @@ The orchestra of the human endeavor is painted from the first chairs of silicon 
 
 #### Figure 1, Enumeration
 \***not exhaustive**\
-\***unordered**
+\***not sorted**
 
 |fig. 1|||
 |:---:|||
@@ -92,4 +92,4 @@ Orientation arrives to its origin as echoes in the mountains from the songs of a
 
 ## Summary
 
-The curves of the painting sing. The song is a reflection of human sophistication. The melody emotes a feeling of love and grace. If nostalgia is not felt, then timeless is an emotion that tells the truth told by omission. The painting has no lights of electricity. That is it.
+If nostalgia is not felt, then timeless is a word that tells the truth untold by omission.
