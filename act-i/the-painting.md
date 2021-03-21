@@ -78,14 +78,14 @@ Orientation arrives to its origin as echoes in the mountains from the songs of a
 |the reader|x|x|x|
 
 
-If giant boyfriend were singing for you because you lost your phone, then I feel you. The dark side of the moon & the light side of the moon are the first two optical illusions. The third is the shadow of your sail projected on the sea.
 
-When your eyes follow the depths of the lines of the perspective of distance, the seams are carefully lined like lipstick. The stone & the water. The object & the water, and the people & the shadow.
+
+
 
 
 
 ...brb
 
-##### Summary
+## Summary
 
 The curves of the painting sing. The song is a reflection of human sophistication. The melody emotes a feeling of love and grace. If nostalgia is not felt, then timeless is an emotion that tells the truth told by omission. The painting has no lights of electricity. That is it.

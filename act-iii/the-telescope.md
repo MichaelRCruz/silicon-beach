@@ -225,3 +225,30 @@ figure 3
 ```
 
 If your friend falls off the boat or you dropped your cell phone in the sea, then the figure-eight maneuver will be crucial to its survival. With your sailing position at two o'clock, if you "let off" the tiller when sitting high-side, then the bow of the ship will want to turn towrds irons. This is the direction of the wind. That is to say, an mored boat with flaked sails will point into the wind. Since you have hoisted your main sail with the main sheet, the thing dangling in front of you called the block, will absorb half the energy you would without the help of all the blocks on your boat. Some people do not think physics be like it is, but it do.
+
+
+### The Lipstick
+
+If giant boyfriend were singing for you because you lost your phone, then you must be bored. If you keep a tube of lipstick in your clutch, then use that. If not, then black and pink paint will work. If you do not have any of that, then nature will have to do. When your eyes follow the depths of the lines on a canvas, the distances are also the seams of space that are carefully lined with lipstick. The lipstick is where you will find the castle on the horizon. Look up at your sail and you will see the shape of a pennant at the top of the mast. If the the surface area is a blank canvas, then the requirements to meet design expectations is as follows.
+
+###### Minimum ~~Requirements~~ Expectations
+
+* Have fun like every one else is doing
+* Deadlines are loose and dynamic estimated by the golden ratio.
+* Your job includes a timely discussion with the client
+
+###### Terms of ~~Service~~ Life
+* No reference to time is allowed on your pennant.
+* The styling of the graphic must represent your team
+* Any existing team must represent every style of every team that shares your city origin as well as any other teams by another name that once lived in that city.
+* Representation in style must be exact including the possibility of blending the official team's hexadecimal index with any former team.
+
+###### The Golden Ratio
+
+Half of one ~~minus~~ plus the square root of five.
+
+
+
+. . .
+
+Are your sails projected as shadows on the surface of the sea?
