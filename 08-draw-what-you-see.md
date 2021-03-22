@@ -1,3 +1,10 @@
+
+
+[![robo-plane](https://img.youtube.com/vi/Dt0DjIel7zs/0.jpg)](centerfold/lol-photos/assets/film-what-you-see.mp4)
+
+
+
+
 # Draw What You See
 
 The first time I witnessed my bank account, C-Money, give a subtle and false account on my behalf was during the days of these therapy sessions we went to as a child and also when a psychologist asked me to, "draw what I see".

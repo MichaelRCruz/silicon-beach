@@ -1,10 +1,13 @@
-![silicon beach > lol-photos > assets > the-telescope.jpg](../centerfold/lol-photos/assets/the-telescope.jpg)
+![silicon beach > centerfold > lol-photos > assets > media > the-painting](/centerfold/lol-photos/assets/media/the-painting.jpg)
 
 # The Painting
 
-Would you rather answer the telephone to hang on a momennt or would you rather learn from a painting?
+## The Images
 
-The observation of state is a measurement and we make in make-believe michaelville.
+## The Thought
+
+Would you rather answer the telephone to hang on a moment or would you rather listen to an orchestra, and the easels, and the cellos, and the little birds that told me about this girl, and about this room, and about these Nick Drake records I found that makes me want to marry her.
+
 
 ## The Synopsis
 
@@ -15,28 +18,23 @@ The observation of state is a measurement and we make in make-believe michaelvil
 
 ## The Ask
 
-If the painting could ask for a feeling calling you to reflect the lights beyond the moments of nostalgia during the yearly moments before death, then there is a landscape painting of five three-dimensional objects like the one I drew one day when I used my imagination. The depth of this painting, in presentation of my own, have similarities discussed in this essay.
+## The Paintings
 
-Human intervention will appear antagonistic, like the moon, if you are not careful suggesting there is a heavenly presentation of two and the worldly appeal of choice. This deterministic luxuries of choice are evidenced by the human _condition_ that is more appropriately described as a human _process_. These words are tasked to reveal a more suitable perspective of life. In light of the contrast between the definitive human _process_ to the definitive human _condition_, I hope this hypothetical lesson pleases God. Our faith handles the rest. The _locations_ of similar interest of the elements on Earth appear to the result of intent rather than entropy.
+If you are not careful, intervention will appear antagonistic. To say this is to hope my lessons please God. I will then say there are two paintings. The paintings brought me to the sky of stone and clouds in search of a door. The other side was an empty room with a view, but why did I prefer to draw from my imagination rather than draw what they asked of me? For myself, it was as if there was potential disappointment. What does it mean to disappoint somebody? I feel like the avoidance of disappointment is a very peculiar temptation.
 
-The orchestra of the human endeavor is painted from the first chairs of silicon and carbon. They are also painted in a painting.
+Could we argue against that consideration since disappointment could come at the cost of a forgotten jacket. If your date had something nice planned, but your efforts were not her own, then is there disappointment? Is that not syncopation instead?
 
-## The Foreground
+Perhaps it was the fear of disappointing myself because I did not look good enough. If beauty is seen with our eyes, then what is music? If I were to say rather that beauty is in the mind of the beholder, then what is a beholder? My ultimate concern is missing the truth. Was the truth maintained with that drawing in that therapy session? What was that flash of emptiness? The psychologist asked me to draw exactly what I saw when I opened the door, but the empty room was like a canvas.
 
-#### Figure 1, Enumeration
-\***not exhaustive**\
-\***not sorted**
+## The Return
 
-|fig. 1|||
-|:---:|||
-|---|---|---|
-|**_elements_**|**_enumeration_**|**_isPair_**|
-|trees|1|null|
-|objects|2|yes|
-|humans|2|yes|
-|mountains|n|yes|
-|rivers|1|null|
-|---|**subtotal**|6 + n|
+Functional programming does this thing where it can build a castle. Imagine a concierge desk on the ground floor of a hotel. That is the parent process responsible for all other subprocesses and just how they manage things at this hotel. Imagine the desk in your hotel room. The application is building a hotel, but each of those desks, including your own, renders as a concierge desk too. This process continues until the signal. A computer does this without concern for the physical space needed for this kind of hotel on Earth.
+
+Think of being a hotel guest sitting at one of those desk. They did not have to bring the bed with them. The desk was also there when you arrived. To understand _statefulness_ just understand what it is like to be too full to do anything because you ate too much. You desire so few things that you do not even want to replicate. This means that all the home pages of the websites you visit at are all too full to fuck. Maybe that is why nobody gives a fuck about anybody. What is the state we consume? Is it only food that fills you up? Maybe that is why hotel rooms have complementaries. Its just that simple.
+
+Maybe there really are angels in the architecture. The one was drawn as a boy. The other is admired as a man.
+
+### The Foregrounds of Both
 
 The presence of the objects in the painting have a peculiar effect on the trees from the human perspective. Similar to a surveying stone a tree serves as a landmark along the river. The surveying stone has grown into the earth like the tree. The tree, unlike the stone on the opposing shore, does not vanish from gravity.
 
@@ -50,9 +48,11 @@ If you look close enough, the objects have an **illusion of form** personified b
 
 The objects of like form resemble the human artist that spun them on a potting wheel. Is the utility of the tree or the illusions of the objects greater than the comparison? If reason is gained from inference and inference is gained from **comparison of relativity** and the comparison of relativity requires illusions of form to reason, then is reason deluded?
 
-## The Background
+### The Backgrounds of Both
 
 Orientation arrives to its origin as echoes in the mountains from the songs of angels singing a duet at the same space & at the same moment. This light in your imagination shines a premonition into your ears when you are lost. When you are art, the light shines a premonition. Are premonitions the perspective of relativity. Does Albert Einstein have a corresponding _other_ like Issac Newton & Gottfried Leibniz prior to their discoveries of the derivative & the integral.
+
+---
 
 ###### Figure 2, Specification, in draft
 \***cummulative**
@@ -81,14 +81,30 @@ Orientation arrives to its origin as echoes in the mountains from the songs of a
 |myself||x|||
 |the reader|x|x|x|
 
+---
 
+###### The Tessellation
 
+\* **in draft**
 
+||||||||
+|-|-|-|:---:|-|-|-|
+|iiii art|||`f(n)`|||art i|
+|~~is~~|is||||is|~~is~~|
+|||enumeration||enumeration||
+||||people||||
+||||moon||||
+||||earth||||
+||||`f(x)`|||
+||||you||||
+||||myself||||
+||||reader||||
+|||enumeration||enumeration||
+|~~is~~|is||||is|~~is~~|
+|!!! art|||`f(n)`|||art !!|
+|||||||
 
-
-
-
-...brb
+---
 
 ## Summary
 

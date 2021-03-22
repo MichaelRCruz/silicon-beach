@@ -1,3 +1,5 @@
+![silicon beach > centerfold > lol-photos > assets > the-telescope.jpg](./centerfold/lol-photos/assets/the-biznasty.jpg)
+
 # The Biznasty
 
 Gentlemen, I must say that if we lose everything or never will have anything, it will be work. We own that in a sense. Is it not our domain? I know there will be many people mad at me for saying some of this, but then your friend will tell you otherwise and you will be all like, ah.

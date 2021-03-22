@@ -2,9 +2,10 @@
 
 # Silicon Beach
 
-Authored by:
+## Artist
 
-The News
+Authored by, The News.
+![centerfold / lolphotos / assets / other](./centerfold/lol-photos/assets/the-mirror.jpg)
 
 ## The Dedication
 
