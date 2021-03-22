@@ -1,13 +1,10 @@
-![silicon beach > centerfold > lol-photos > assets > media > the-painting](/centerfold/lol-photos/assets/media/the-painting.jpg)
+*![silicon beach > centerfold > lol-photos > assets > media > the-painting](/centerfold/lol-photos/assets/media/the-painting.jpg)
 
 # The Painting
 
+Would you rather answer the telephone to hang on a moment or would you rather hang on an orchestra, and the easels, and the cellos, and the little birds that told me about this girl, and about this room, and about these Nick Drake records I found that makes me want to marry her.
+
 ## The Images
-
-## The Thought
-
-Would you rather answer the telephone to hang on a moment or would you rather listen to an orchestra, and the easels, and the cellos, and the little birds that told me about this girl, and about this room, and about these Nick Drake records I found that makes me want to marry her.
-
 
 ## The Synopsis
 
@@ -16,21 +13,17 @@ Would you rather answer the telephone to hang on a moment or would you rather li
 3. The Background
 4. The Conclusion
 
-## The Ask
+## The Preface
 
-## The Paintings
+There are two paintings. On the other side was an empty room with a view. The walls were made of stone and the window framed no glass.
 
-If you are not careful, intervention will appear antagonistic. To say this is to hope my lessons please God. I will then say there are two paintings. The paintings brought me to the sky of stone and clouds in search of a door. The other side was an empty room with a view, but why did I prefer to draw from my imagination rather than draw what they asked of me? For myself, it was as if there was potential disappointment. What does it mean to disappoint somebody? I feel like the avoidance of disappointment is a very peculiar temptation.
+...br
 
-Could we argue against that consideration since disappointment could come at the cost of a forgotten jacket. If your date had something nice planned, but your efforts were not her own, then is there disappointment? Is that not syncopation instead?
-
-Perhaps it was the fear of disappointing myself because I did not look good enough. If beauty is seen with our eyes, then what is music? If I were to say rather that beauty is in the mind of the beholder, then what is a beholder? My ultimate concern is missing the truth. Was the truth maintained with that drawing in that therapy session? What was that flash of emptiness? The psychologist asked me to draw exactly what I saw when I opened the door, but the empty room was like a canvas.
-
-## The Return
+. . .
 
 Functional programming does this thing where it can build a castle. Imagine a concierge desk on the ground floor of a hotel. That is the parent process responsible for all other subprocesses and just how they manage things at this hotel. Imagine the desk in your hotel room. The application is building a hotel, but each of those desks, including your own, renders as a concierge desk too. This process continues until the signal. A computer does this without concern for the physical space needed for this kind of hotel on Earth.
 
-Think of being a hotel guest sitting at one of those desk. They did not have to bring the bed with them. The desk was also there when you arrived. To understand _statefulness_ just understand what it is like to be too full to do anything because you ate too much. You desire so few things that you do not even want to replicate. This means that all the home pages of the websites you visit at are all too full to fuck. Maybe that is why nobody gives a fuck about anybody. What is the state we consume? Is it only food that fills you up? Maybe that is why hotel rooms have complementaries. Its just that simple.
+To understand _statefulness_ just understand what it is like to be too full to do anything because you ate too much. You desire so few things that you do not even want to replicate. This means that all the home pages of the websites you visit at are all too full to fuck. Maybe that is why nobody gives a fuck about anybody. What is the state we consume? Is it only food that fills you up? Maybe that is why hotel rooms have complementaries. Its just that simple.
 
 Maybe there really are angels in the architecture. The one was drawn as a boy. The other is admired as a man.
 
@@ -107,5 +100,7 @@ Orientation arrives to its origin as echoes in the mountains from the songs of a
 ---
 
 ## Summary
+
+If you _are not_ careful, intervention will appear antagonistic. If you _are_ careful, intervention will appear antagonistic. How do we know with certainty? If you are not careful intervention will _appear_ antagonistic. If you are careful intervention will _not appear_ antagonistic.
 
 If nostalgia is not felt, then timeless is a word that tells the truth untold by omission.
