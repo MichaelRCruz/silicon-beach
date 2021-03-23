@@ -1,6 +1,6 @@
 # Inverse Regular Expression
 
-An working theory.
+A working theory.
 
 ## did
 
