@@ -1,6 +1,6 @@
 # Inverse Regular Expression
 
-A working theory.
+Some working theory.
 
 ## did
 
@@ -40,7 +40,8 @@ If _No One Asked For This_, then could the reader?
 ```
 
 ## can
-```textIf _No One Asked For This_, then can you.
+```text
+If _No One Asked For This_, then can you.
 
 If _No One Asked For This_, then can myself.
 
@@ -48,9 +49,12 @@ If _No One Asked For This_, then can the reader?
 ```
 
 ## will
+```text
 If _No One Asked For This_, then will you.
 
 If _No One Asked For This_, then will myself.
 
 If _No One Asked For This_, then will the reader?
 ```
+
+...brb
