@@ -3,21 +3,21 @@
     When I wrote part of this in my motel room, November 23 in 2020, you, the reader, and myself must return to the search for completion that led to these moments. This make-believe story is still all facts. These events really did happen. Allow me to begin with Larry David and that day I woke up from a nap on the home-field bench of that baseball diamond in Wicker Park.
 </p>
 <p>
-    Last summer, in 2020, I really was at a point in my life that could relate to Bradley Cooper's character in _The Silver Linings Playbook_. There really is a _silver lining_ in life, but it took a little _make-believe_ to see it, but also something else.
+    Last summer, in 2020, I really was at a point in my life that could relate to the characters in _The Silver Linings Playbook_. There really is a silver lining in life, but it took a little make-believe to see it, but also something else.
 </p>
 <p>
-    In my jouranl I account for this thought, but my mind still brings me to Wicker Park and hopefully can serve as a bridge to the choice I made regarding the title of this chapter. My make-believe would not make sense wihtout Larry David, a protagonist in my story, and that is why we start there. Please do not forget this is a love story. It could also be a romantic comedy, but in that movie, would I be the baker or the street performer? Maybe it was all just the tale of my pursuit of happiness where sincerity promised to tell you when I do not understand something.
+    In my diary I account for this thought, but my mind still brings me to Wicker Park and hopefully can serve as a bridge to the choice I made regarding the title of this chapter. Please do not forget this is a love story. It could also be a romantic comedy, but in that movie, would I be the baker or the street performer? Maybe it was all just the tale of my pursuit of happiness where sincerity promised to tell you when I do not understand something.
 </p>
 <p>
-    That same afternoon, and in an effort to maintain my sanity, I tried to figure out the area under the curve of a baseball diamond. I needed something like that to keep myself occupied, I probably thought. I tried a little bit, but I messed up one of the parameters when doing the arithmetic in my head. For some reason I assumed it was ninety feet from the pitching mound to home. A little bird told me my nunmbers were off so I got tired and took a nap.
+    That same afternoon, and in an effort to maintain my sanity, I tried to figure out the area under the curve of a baseball diamond. I needed something like that to keep myself occupied, I probably thought. I tried a little bit, but I messed up one of the parameters when doing the arithmetic in my head. For some reason I assumed it was ninety feet from the pitching mound to home. A little bird told me my numbers were off so I got tired and took a nap.
 </p>
 <p>
-    I layed on my back on the right-field banch and unintentionally fell asleep. When I woke up, I had my weed with me, so I had that going for me, which is nice. However, what really pissed me off was the guy pacing out this distance for me as if he was listening to everything I was saying. After all, it was not until that Airbnb, again in Chocago, where I started talking to myself. That story is for later, but let me finish telling you about the time my future wife was supposed to meet me in that park. If she did, and I was not there at 11am or Noon every day like I said I would, I am sorry, sincerely.
+    I laid on my back on the right-field bench and unintentionally fell asleep. When I woke up, I had my weed with me, so I had that going for me, which is nice. However, what really pissed me off was the guy pacing out the distance between home plate and the pitching mound. Was he was listening to everything I was saying. After all, it was not until that Airbnb, again in Chicago, where I started talking to myself. That story is for later, but let me finish telling you about the time my soul mate was supposed to meet me in that park. If she did, and I was not there at 11am or Noon every day like I said I would, I am sorry, sincerely.
 </p>
 <p>
     I woke up crabby. I was still traveling, although I did not feel that was because I was very lost. He was wearing a hat that was not a baseball cap and a blue surgical mask. For some reason, there was Larry. I said, "fuck you" right away because I did not know who it was and that is just what I did that summer. Apologies to any fratricide. Please know that I love you very much, but was it not hilarious that day outside of that pizza place in Logan. None of you subscribed to my YouTube channel. I thought that was thew deal? Whatever it was, I was pretty crabby. Anyways, he said, "fuck you." right back, but with much more intent so I ran.
 
-    On the way out of there, I slowed down a bit to ask myself if that was really Larry so I sat by the water fountain and opened up my laptop. I do not think I wrote anything in the park _that_ day, but Larry showed up again, but this time with a guitar. You played a song and even sang a little, maybe, but I do rememeber that vividly. I owe you an explanation because it felt like you were there to see _me_. People play guitars in parks and might overhear you doing math, but I did not get an RSVP.
+    On the way out of there, I slowed down a bit to ask myself if that was really Larry so I sat by the water fountain and opened up my laptop. Larry showed up again, but this time with a guitar. You played a song and even sang a little, maybe, but I do remember that vividly. I owe you an explanation because it felt like you were there for a reason.
 
 <p>
     On the way out, I very much wanted it to be you so when I finally made it to the convenience store, I thought it would be nice to get us some sodas and snacks. I settled on two Pepsis and two Hershey bars with almonds. There were two other things I bought with those snacks. That information, I guess, is there for Cazzie because I have this feeling she is as confused as I was and still
@@ -54,3 +54,5 @@
 <p>
     Maybe you actually did get my signal and this is how I am supposed to find you. Would you like to get coffee some day?
 </p>
+
+...brb
