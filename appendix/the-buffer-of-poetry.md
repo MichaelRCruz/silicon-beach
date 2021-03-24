@@ -41,7 +41,7 @@ what's in
 a space?
 ```
 
-###### Memory
+###### Memory, in draft
 ```text
 This beach has a silicon memory.
 
@@ -55,7 +55,7 @@ This title has a reserved space.
 
 This space has an untold story.
 
-This story has a love letter.
+This story is a love letter.
 
 This love letter is a story.
 
@@ -117,4 +117,110 @@ two spinning
 in infinity
 closer to
 the heart.
+```
+
+
+```html
+<figure>
+    <blockquote>
+        <p>
+            I can
+            <br></br>
+            tell you
+            <br></br>
+            everything I
+            <br></br>
+            know about
+            <br></br>
+            the baseball game
+            <br></br>
+            in front
+            <br></br>
+            of us,
+            <br></br>
+            but you remain
+            <br></br>
+            suspicious of
+            <br></br>
+            the same facts
+            <br></br>
+            you would
+            <br></br>
+            tell me
+            <br></br>
+            in a stereo
+            <br></br>
+            opposite. Suspicion
+            <br></br>
+            may be
+            <br></br>
+            confused with
+            <br></br>
+            the index
+            <br></br>
+            I am
+            <br></br>
+            running on
+            <br></br>
+            my priorities.
+            <br></br>
+            Slow motion
+            <br></br>
+            lets me see
+            <br></br>
+            those, like we
+            <br></br>
+            all do,
+            <br></br>
+            as they are
+            <br></br>
+            sorted in
+            <br></br>
+            real time.
+            <br></br>
+            Since I am
+            <br></br>
+            able to
+            <br></br>
+            do with
+            <br></br>
+            an unknown fetch
+            <br></br>
+            and the results
+            <br></br>
+            of this search
+            <br></br>
+            are the people
+            <br></br>
+            I love, thus
+            <br></br>
+            God really is
+            <br></br>
+            taking care of me.
+            <br></br>
+            Since 33
+            <br></br>
+            in 100
+            <br></br>
+            chimes thrice,
+            <br></br>
+            then one rose
+            <br></br>
+            is three:
+            <br></br>
+            my oblivion,
+            <br></br>
+            my awareness,
+            <br></br>
+            and a constant
+            <br></br>
+            God.
+            <br></br>
+            " ~ i
+          </p>
+    </blockquote>
+    <figcaption>
+        <cite>The News</cite>
+    </figcaption>
+</figure>
 ```
