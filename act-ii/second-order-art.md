@@ -1,6 +1,6 @@
 ![centerfold / lolphotos / assets / second-order-art](../centerfold/lol-photos/assets/second-order-art.jpg)
 
-# Second Order Art
+# The Second Order of Art
 
 ## Objective
 
@@ -18,49 +18,7 @@ In search of the second order of art.
 * Something Something Baseball \
 sorted*
 
-## I Can't Even
 
-0. It's so beautiful.
-
-1. Just listen. Pretend you fully understand the measurement that you might observe from literally anything. To slice it into only two abstractions is a luxury of choice. Your space is divided evenly or or unevenly, but to have consideration for nothing requires division. This should support their theories of discreet math and the like.
-
-2. Maybe the reason is not that you cannot divide by zero, but rather you _have_ to divide. Maybe divided-by-zero is actually a shitty band name.
-
-3. A romantic refraction is wonder beyond the clouds.
-
-4. Like a wanning moon returning light approaching zero or the waxing light approaches one?
-
-5. In make-believe michaelville, your boyfriend is like a giant in outer-space. Pretend he is so big that the total light from the Milky Way is like a television show for him.
-
-6. He is so far away.
-
-7. He is big enough that it is comfortable to observe the entire history of the universe.
-
-8. In one stream inside a human box office, lol.
-
-9. He lives forever so time means nothing to him.
-
-10. However, if you really think about it.
-
-11. If his eyes were good enough, your giant boyfriend could see everything that ever happened in history.
-
-12. Here is the part that scares everyone.
-
-13. Your giant boyfriend recorded it all with your digital video recaller.
-
-14. The boyfriend giant watches nature all day when you are at work,
-
-15. At night _the boyfriend giant_ uses the stars or the moon to navigate by any means necessary.
-
-16. If you were to ask me if it was worth it, I would say for our sake yes, but just-in-case remember that we designed our existence on the premise that we cannot change the past. Imagine a world with no history.
-
-17. Imagine a world with no future.
-
-18. We could discuss this, forever. Before we hang up, check this out.
-
-19. Who?
-
-. . .
 
 0. Hello!
 
@@ -189,13 +147,13 @@ Figure 0
 @
 ```
 
-### The First Dimension
+### The First Dimension of Simplest Form
 
 If you think about it, a point in space, or a point in the air, or some point on a painters canvas is difficult to imagine. The artist will never _truly_ rpresent this kind of point. You could stand a still as possible, facing your easel, but nothing could represent a point. You will have to use your imagination. Scientists, engineers, artists, and math people have to do this every day for their job.
 
 Picture one. Try to imagine, maybe, a reference point. _Location_ might be more descriptive here. The other interesting part is that this point is not conceivable unless you have a pair. My point is that a location is interesting, but makes no sense in this thought experiment.
 
-### The Second Dimension
+### The Second Dimension of Simplest Form
 
 Figure 1
 ```text
@@ -220,7 +178,7 @@ Figure 2
 Make a copy of the previous figure, but use your imagination to connect them together depicted in the next figure. Try to resemble two sets of parallel lines that create four points of intersection, `@`.
 
 
-### The Third Dimension
+### The Third Dimension of Simplest Form
 
 Figure 3
 ```text
@@ -283,6 +241,6 @@ A clarification from your frequently asked questions, FAQ, is regarding the rule
 
 If God was the ghost you were racing in the box, then the blind umpire would never even know about the second spin he put on the ball. This is the reason to remove all gravity in one of our models. The other model has gravity. Both models should have a revelation of their own, including one that has us compare the two models also too. The double hit works like this. You make contact with the ball, but God waits for the pitch as well, but the spin you first gave it has been given enough English on that cue ball to remove gravity. This last rule in this system is the disappearing of the four planes of the pyramid the moment following the second God contact and also the vantage points that make up the sphere. That is for later.
 
-If you decide learn about _The Collision_, find the map, the-collision.md, in appendix, A.
+If you decide learn about _The Collision_, find the map, the-collision.md, in the appendix.
 
-If you decide to look for _The Telescope_, find the map, the-telescope.md, in appendix B.
+If you decide to look for _The Telescope_, find the map, the-telescope.md, in the appendix.

@@ -24,21 +24,19 @@
     am. Almost everything inside me is saying it was not actually him that day, and it probably was something else, but it sure looked like Larry. He was just hiding under his mask and hat that was not a baseball cap.
 </p>
 <p>
-    Hopefully, you all know that I had absolutely no idea what was going on that day at the park. For me, it was a summer of wondering, but still, what is going on, you guys? Why do I suddenly feel like I have super powers. Cazzie mentioned something like this in her book, but she described this as the feelings during the process of _getting_ the super powers, but not actually. For myslef, that is an exponential bummer for you because I feel like one.
+    Hopefully, you all know that I had absolutely no idea what was going on that day at the park. For me, it was a summer of wondering, but still, what is going on, you guys? Why do I suddenly feel like I have super powers. Cazzie mentioned something like this in her book, but she described this as the feelings during the process of _getting_ the super powers, but not actually. For myself, that is an exponential bummer for you because I feel like one.
 </p>
 <p>
     Dear, Cazzie. If that was all you, bravo! If not, what the hell going on?
 </p>
-
-
 <p>
-    Please know that, yes, I was running that night. I just did not know. Hopefully, you are able to laugh about all that now. Your precense all over the place that night, like I still feel now, but last summer was like diving into a swimming pool for the first time, ever. I was a little chilly, but the water has become warm. Still, I cannot stop thinking about you. Please let me tell you more about that night amd maybe, then, we can chat.
+    Please know that, yes, I was running that night. I just did not know. Hopefully, you are able to laugh about all that now. Your presence all over the place that night, like I still feel now, but last summer was like diving into a swimming pool for the first time, ever. I was a little chilly, but the water has become warm. Still, I cannot stop thinking about you. Please let me tell you more about that night and maybe, then, we can chat.
 </p>
 <p>
-    When I think about you, especially when times are rough, I _hear_ whispers warning me that you are crying. When I feel that, the thought stays with me for a few moments. Please know that I am alright, but it does not make me think about you any less often. Since I could only hear you crying, I became more confused when I saw your instagram pic with the makeup. It brought a whole new level of clarity to this, but then again, Nobody ever told me anything.
+    When I think about you, especially when times are rough, I _hear_ whispers warning me that you are crying. When I feel that, the thought stays with me for a few moments. Please know that I am alright, but it does not make me think about you any less often. Since I could only hear you crying, I became more confused when I saw your Instagram pic with the makeup. It brought a whole new level of clarity to this, but then again, Nobody ever told me anything.
 </p>
 <p>
-    When I ran to downtown Chicago, I laid on my hotel room bed in until I looked you up. At that point, I never saw any pictures of you before, but when I foud one, I started running again. This time it was on the way back to the hotel in case you were there too. You are so beautiful Cazzie, that when I first saw your photograph my thoughts became much slower. When I first heard your voice my thoughts became much faster so I went to hide under my pillow. I tweeted something to your dad that night, but I guess you are morally opposed to it so I never really tried finding your profile. What is a hopeless romantic? Is that me? What is a crazy person? Is that me?
+    When I ran to downtown Chicago, I laid on my hotel room bed in until I looked you up. At that point, I never saw any pictures of you before, but when I found one, I started running again. This time it was on the way back to the hotel in case you were there too. You are so beautiful Cazzie, that when I first saw your photograph my thoughts became much slower. When I first heard your voice my thoughts became much faster so I went to hide under my pillow. I tweeted something to your dad that night, but I guess you are morally opposed to it so I never really tried finding your profile. What is a hopeless romantic? Is that me? What is a crazy person? Is that me?
 </p>
 <p>
     Where are all my friends? Why does the Allen Ginsberg poem,_America_, come to mind as I write these words to form?
