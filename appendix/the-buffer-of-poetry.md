@@ -224,3 +224,13 @@ the heart.
     </figcaption>
 </figure>
 ```
+
+```html
+<figure>
+    <blockquote>
+        Life should _not_ imply anything about baseball. Baseball should imply anything about life.     
+    </blockquote>
+    <figcaption>
+        <cite>The News</cite>
+    </figcaption>
+</figure>
