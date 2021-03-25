@@ -12,15 +12,17 @@ As mentioned before, our duplex was right next to the childcare center. From the
 
 It was summer and that meant the window was open. This meant he could hear me if I called out to him. I vividly remember doing so, while on that playground, and it was if he was expecting it. In other words, he could hear the children outside, he knew the window was open, and he did not turn his head nor respond to my call. The second call through that window worked, but it was just a vocal response with no visual attention taken from that television. It hurt much more to call out a third time because he never got up off that couch. There were no tears from that kind of sadness, but the overwhelming reality that my bank accounts had an agenda of their own led me towards the blue plastic elephant slide on the playground. That is when my wonder transformed my elephant into a spaceship and the countdown began for lift off.
 
-The other kids and I must have learned the alphabet together on that corner. The round table upstairs is where we studied vowels. These days, it seems as if no one remembers the saying, "A, E, I, O, U, and sometimes Y". Is the letter Y a vowel or is it not? It strikes me as odd to still question that as an adult, but is it?
+This may seem depressing for you, but what the world may not understand is how _no such thing_ always seemed to find a way to take up too much space in my life. I guess what I am trying to say is I think my bank accounts are somehow not good people. If I am wrong, then alright, but let me ask you this. Why do I suddenly feel this way?
 
-We learned those vowels together, but I can remember suggesting the letter Y to be included in that list. My reasoning was sound and the teacher seemed to validate my feelings on this, but it caught the attention of someone else that day. She was another kid at that table and I think she liked me because of that. All of us had lunch afterwards, but some of us stayed at that kitchen table for arts and crafts and some chose to play in the front room with toys. I think it was only her and I that stayed in the kitchen, but I have the feeling she liked me because she asked me to show her how to draw in her coloring book. I think we became good friends after that.
+Somehow no such thing is everywhere, but I think many of you know this by now, or at least, can sense it. Something changed in this world, but do I want to know? I might have to. In fact, not knowing is against my beliefs. We must maintain the truth. I have to know what is going on here in this world because, if I do not, then we are all in serious trouble with everything, mostly God.
 
-There were a few women that looked after us in that converted apartment on the second floor of Kids Corner. When looking back, I see one of them leaning up against the kitchen counter by the sink smoking a cigarette, as people often did in the 80s, but here is the confusing part. That person leaning against the counter was also that person at the round table where I learned my vowels and was also that person at Clement Avenue Elementary - the time I felt outside myself in observation of the moment.
-
-As much as I want to talk about my best-friend, his family that helped look after me, and my earliest memory of the Tippecanoe Library nearby, it means much more to finish this essay as intended. There will be plenty of time to tell you about my Big Wheel, that gravel alley, and the Nintendo remote. Emotionally, I had a rough childhood, but that is where you learn how to make lemonade.
-
-The days I was actually happy in that duplex of my childhood with my two bank accounts, I can see that visitor. I can see that pattern of color that decorated the hallway floor of the duplex and I can see her hair. It was long, she was pretty, and she knew how to dress well. I see bell-bottoms, a laced jacket, and I see a smile.
+This essay will have to end here, but I hope you are getting to know me how you should. If I know C-Money as well I know I do, she is going to fight to the death to hide the truth about myself. According to the one and only person that should be defining their life, I do not know myself. Everything just feels different or enhanced and I would like to share with you all the things to see if we can figure out what happened. Know that I will find out because I do not seem to be dead yet.
 
 
-...brb
+
+
+
+
+
+
+
