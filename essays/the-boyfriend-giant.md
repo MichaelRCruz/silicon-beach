@@ -73,10 +73,8 @@ The Golden Ratio
 
 ## How to Time Travel
 
-In make-believe michaelville, your boyfriend is like a giant in outer-space. Pretend he is so big that the total light from the Milky Way is like a television show for him. He is so far away. He is close enough to observe the entire history of the universe inn one stream inside a human box office. He lives forever so time means nothing to him. Here is the part that scares everyone. Your giant boyfriend recorded it all with his phone that uses light in addition to sound.
+A romantic refraction is wonder beyond the clouds like a wanning moon shinning its light that approaches zero or the waxing light that approaches two.
 
-He just observes his nature shows all day. At night _the boyfriend giant_ uses the stars or the moon to navigate by any means necessary. If you were to ask me if it was worth it, I would say for our sake yes. Imagine a world with no history. Imagine a world with no future.
-
-A romantic refraction is wonder beyond the clouds like a wanning moon shinning its light that approaches zero or the waxing light that approaches one.
+In make-believe michaelville, your boyfriend is like a giant in outer-space. Pretend he is so big that the total light from the Milky Way is like a television show for him. He is so far away, but he is close enough to observe the entire history of the universe in one stream inside a human box office. He lives forever so time means nothing to him. Here is the part that scares everyone. Your giant boyfriend recorded it all with his phone, but his phone is special. He can send his the sound of his voice and the lights he sees with his eyes through the phone line. He just observes his nature shows all day. At night _the boyfriend giant_ uses the stars or the moon to navigate by any means necessary.
 
 ...brb

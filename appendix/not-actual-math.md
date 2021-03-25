@@ -99,3 +99,5 @@ o ~ (40+0+1) ~ z | x ~ (4+0+1/10) ~ z
 ### Limited reduction
 
 Now what you see above is a pretty straightforward way to represent some sort of meta-like substate "gauging" up or "gauging" down the scope. Take a look at the first lifecycle. You cannot gauge base unit, 10. 10 is the _least_ complex state can be.
+
+...brb
