@@ -68,7 +68,7 @@ If we have a sum total space of 10 and if no such thing cannot occupy the same s
 09   0.90 --- 0.00
 
 
-###### Figure 1.9, Reverse Twist & Inverse Twist
+###### Figure 1.9, Reverse Twist & Inverse Reverse Twist
 ```text
 _____________________________________________________________________________________________________________________________
          1      |     3      |     5     |   7      |     9     |     0     |     8     |     6     |     4     |     2
