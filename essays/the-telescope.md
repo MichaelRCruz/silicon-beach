@@ -1,47 +1,51 @@
 # The Telescope
 
-```
-                                      /@\
-                                     / | \
-                            /@\     /@   @\     /@\
-                           / | \   / |   | \   / | \
-         @\    /@    /@\   \ | /   \ |   | /   \ | /   /@\   @\     /@
-         | \  / |   / | \   \@/     \@   @/     \@/   / | \  | \   / |
-         | /  \ |   \ | /   /@\     /@   @\     /@\   \ | /  | /   \ |
-         @/    \@    \@/   / | \   / |   | \   / | \   \@/   @/     \@
-                           \ | /   \ |   | /   \ | /
-                            \@/     \@   @/     \@/
-                                     \ | /
-                                      \@/
-```
-
-What is this? Before I put it together it looked like this.
-
-```
-                                      /@\
-                                     / | \
-
-                            /@\     /@   @\     /@\
-                           / | \   / |   | \   / | \
-
-         @\    /@    /@\   \ | /   \ |   | /   \ | /   /@\   @\     /@
-         | \  / |   / | \   \@/     \@   @/     \@/   / | \  | \   / |
-
-         | /  \ |   \ | /   /@\     /@   @\     /@\   \ | /  | /   \ |
-         @/    \@    \@/   / | \   / |   | \   / | \   \@/   @/     \@
-
-                           \ | /   \ |   | /   \ | /
-                            \@/     \@   @/     \@/
-
-                                     \ | /
-                                      \@/
-```
+First, I imagined one telescope.
 
 Before it looked like that, it started as one telescope.
 
 ```
  | /
  @/
+```
+
+That moment of wonder assumed a pattern.
+
+```
+                                      /@\
+                                     / | \
+
+                            /@\     /@   @\     /@\
+                           / | \   / |   | \   / | \
+
+         @\    /@    /@\   \ | /   \ |   | /   \ | /   /@\   @\     /@
+         | \  / |   / | \   \@/     \@   @/     \@/   / | \  | \   / |
+
+         | /  \ |   \ | /   /@\     /@   @\     /@\   \ | /  | /   \ |
+         @/    \@    \@/   / | \   / |   | \   / | \   \@/   @/     \@
+
+                           \ | /   \ |   | /   \ | /
+                            \@/     \@   @/     \@/
+
+                                     \ | /
+                                      \@/
+```
+
+When I fit those moments of creation accordingly, my imagination looped to this completion.
+
+```
+                                      /@\
+                                     / | \
+                            /@\     /@   @\     /@\
+                           / | \   / |   | \   / | \
+         @\    /@    /@\   \ | /   \ |   | /   \ | /   /@\   @\     /@
+         | \  / |   / | \   \@/     \@   @/     \@/   / | \  | \   / |
+         | /  \ |   \ | /   /@\     /@   @\     /@\   \ | /  | /   \ |
+         @/    \@    \@/   / | \   / |   | \   / | \   \@/   @/     \@
+                           \ | /   \ |   | /   \ | /
+                            \@/     \@   @/     \@/
+                                     \ | /
+                                      \@/
 ```
 
 ## Light in Space
@@ -124,10 +128,6 @@ When all this started in 2020, I was trying desperately to contact the federal g
 
 Last year when I actually knew where C-Money lived, she snarled at me in her brand new home that she owned for less than a year, only to move into an apartment when all this started, and then back into a brand new home again. She snarled and said, "they are going to think you are crazy you know". Imagine telling your mother you just witnessed a crime and you need to contact someone in the government as soon as possible only for her to respond with that? The conversation ended there. She was not interested in anything else. No curiosity about any of the details and was fine with just the statement of curiosity.
 
-Dear POLICE, I want to be your friend and I want to put all this behind us, but remember that I need you because I really feel like you know, but your boss does not if that makes sense. This goes for all the tech companies. Unless all the money here is mine? Wow, I did not expect that. If Bank of America can send me the $1400 owed to me, then it will increase the likelihood that you will be able to pscho me into more peace and less anger.
-
-However, I can feel some of you crying now, but the thing is someone is going to die and it is not me or you. I cannot see the real bad bad guys shedding a tear over this. They were prepared for this war and I was not. I guess Goliath falls again, bitch.
-
-
+Dear POLICE, I want to be your friend and I want to put all this behind us, but remember that I need you because I really feel like you know, but your boss does not if that makes sense. This goes for all the tech companies. Unless all the money here is mine? Wow, I did not expect that. If Bank of America can send me the $1400 owed to me, then it will increase the likelihood that you will be able to ~~persuade~~ _psycho_ me into more peace and less anger. However, I can feel some of you crying now, but the thing is someone is going to die and it is not me or you. I cannot imagine evil shedding a tear over this. There was preparation for this war and, for myself, was more prepared than any one thought. I guess Goliath falls again, bitch.
 
 

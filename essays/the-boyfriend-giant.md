@@ -10,15 +10,25 @@ The shape of this dimension is like the shadow of fifty-two playing cards. The s
 
 ## The Outfield
 
-It's so beautiful. To divide a choice into only two abstractions is a gift from the heavens despite the guarantee of those two choices by the laws of nature. To elaborate, imagine a bunch of bananas of three bananas or more. The reader might see each banana as a possibility, but the illusion of choice is hidden by nothing. What if you choose no such thing and there is no banana selected at all? This is how the natural duality of the Earth is for us. Your space is divided evenly, but to have consideration for nothing, still requires division. Mathematically speaking, maybe the reason we cannot divide by zero is because we are required to divide. The range from `0` to `1` is said to be infinitely divisible. This claim is demonstrated by a ceaseless division of a number greater than one. That method will get you to infinity. To get beyond that, consider the following.
+It's so beautiful. To divide a choice into only two abstractions is a gift from the heavens despite the guarantee of those two choices by the laws of nature. To elaborate, imagine a bunch of bananas of three bananas or more. The reader might see each banana as a possibility, but the illusion of choice is hidden by nothing. What if you choose no such thing and there is no banana selected at all? This is how the natural duality of the Earth is for us. Your space is divided evenly, but to have consideration for zero, still requires division. Mathematically speaking, maybe the reason we cannot divide by zero is because we are required to divide. The range from `0` to `1` is said to be infinitely divisible. That method will get you to infinity. To get beyond that, consider the following.
 
-The number, `5`, is significant because it is half of the base unit, `10`. That is our number system, _base ten_. If the range of `0` to `10` represented the sum total of existence, then to have exactly half of that is quite remarkable, but to show why, begin by thinking of the number `5` as a subspace carved out from the multispace array defined as the array containing this universe plus at least one other universe that can do whatever. The number `5` represents the space occupied by our universe and the other _half_ of that space is that other universe. The base unit, `10`, is our _God array_, i.e., the total sum space of universal history.
+The number, `5`, is significant because it is half of the base unit, `10`. That is our number system, _base ten_. If the range of `0` to `10` represented the sum total of existence, then to have exactly half of that is quite remarkable, but to show why, begin by thinking of the number `5` as a subspace carved out from the multi-space array defined as the array containing this universe plus at least one other universe that can do whatever. The number `5` represents the space occupied by our universe and the other _half_ of that space is that other universe. The base unit, `10`, is our _God array_, i.e., the total sum space of universal history.
 
-###### Figure 1
+There is justification in these choices that may be revealed when looking further into the Fibonacci sequence. The addition of the square root of five divided by a noteworthy amount of two yields two halves whereby each maintain the space required for the thickness of the blade, but also not absolutely. These are thoughts that draw me closer to the notion of the human condition that is of an artistic nature represented by a factor of five. In the year of our Lord, 2019.
 
-`[six, eight, four, one, zero, one, three, five, seven, nine]`
+###### Figure 1, 
 
 If we have a sum total space of 10 and if no such thing cannot occupy the same space in the same moment, then consider a sum total space as a list of data types rather than numbers. If each item of that list is its own universe, then we should call each item an object. For example, consider the baseball universe as an object found in a list. Programming languages have lists, but in that universe they call them arrays.
+
+
+...brb
+
+###### Figure N, Riemann Sum 
+
+
+
+S = (i, n)E f(x_i) ([x_i - x_(i - 1)]) x_i  
+
 
 ###### Figure 2
 
