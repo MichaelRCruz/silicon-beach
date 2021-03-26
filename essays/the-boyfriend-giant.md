@@ -21,7 +21,31 @@ There is justification in these choices that may be revealed when looking furthe
 If we have a sum total space of 10 and if no such thing cannot occupy the same space in the same moment, then consider a sum total space as a list of data types rather than numbers. If each item of that list is its own universe, then we should call each item an object. For example, consider the baseball universe as an object found in a list. Programming languages have lists, but in that universe they call them arrays.
 
 
-...brb
+###### Figure 1
+
+```
+// the baseball subset
+[
+
+. . .
+
+    "baseball": {
+        "8": "center field",
+        "6": "third base",
+        "4": "first base",
+        "2": "the catcher",
+        "0": "the batter",
+        "1": "the pitcher",
+        "3": "the shortstop",
+        "5": "second base",
+        "7": "left field",
+        "9": "right field"
+    },
+
+. . .
+
+]
+```
 
 ###### Figure N, The Twist
 
@@ -69,6 +93,7 @@ If we have a sum total space of 10 and if no such thing cannot occupy the same s
 
 
 ###### Figure 1.9, Reverse Twist & Inverse Reverse Twist
+
 ```text
 
 440/1000
@@ -96,34 +121,6 @@ ________________________________________________________________________________
  9                ##########  ##########  ##########  ##########               ##########  ##########  ##########  #### #####
  9   ##### ####   ##########  ##########  ##########  ##########               ##########  ##########  ##########  ########## ____________________________________________________________________________________________________________________________
           9     |     7      |     5     |     3     |     1     |     0     |     2     |     4       |     6    |     8
-```
-
-
-
-###### Figure 2
-
-```
-// the baseball subset
-[
-
-. . .
-
-    "baseball": {
-        "8": "center field",
-        "6": "third base",
-        "4": "first base",
-        "2": "the catcher",
-        "0": "the batter",
-        "1": "the pitcher",
-        "3": "the shortstop",
-        "5": "second base",
-        "7": "left field",
-        "9": "right field"
-    },
-
-. . .
-
-]
 ```
 
 An array in JavaScript is a list of entities of various data _types_. Most programming languages only allow one data type per list or per array. In our example, the _God array_ is a list of objects. Each object has a set of key-value pairs where the  key-value pairs are one-to-one, for now. If you cherry-picked the baseball subset of moments out of the _God array_, then `Figure 2` would be the universal baseball moments. This is to exemplify a category in life that is well-defined.
