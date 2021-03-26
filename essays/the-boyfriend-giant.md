@@ -94,7 +94,7 @@ If we have a sum total space of 10 and if no such thing cannot occupy the same s
 
 ###### Figure 1.9, Reverse Twist & Inverse Reverse Twist
 
-420 / 1000, maybe
+42 / 200, 42 / 290
 ____________________________________________________________________________________________________________________________
          1      |     3      |     5     |   7      |     9     |     0     |     8     |     6     |     4     |     2
     ________________________________________________________________________________________________________________________
@@ -118,6 +118,11 @@ ________________________________________________________________________________
  8    ..........  ##########  ##########  ##########  ##########              ##########  ##########  ##########  ##########
  9    ##########  ##########  ##########  ##########  ##########              ##########  ##########  ##########  ########## ____________________________________________________________________________________________________________________________
           9     |     7      |     5     |     3     |     1     |     0     |     2     |     4       |     6    |     8
+
+V = 4/3 PIr^3
+
+A = 4PIr^2
+
 
 
 An array in JavaScript is a list of entities of various data _types_. Most programming languages only allow one data type per list or per array. In our example, the _God array_ is a list of objects. Each object has a set of key-value pairs where the  key-value pairs are one-to-one, for now. If you cherry-picked the baseball subset of moments out of the _God array_, then `Figure 2` would be the universal baseball moments. This is to exemplify a category in life that is well-defined.
