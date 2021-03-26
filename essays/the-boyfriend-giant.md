@@ -24,11 +24,32 @@ If we have a sum total space of 10 and if no such thing cannot occupy the same s
 ...brb
 
 ###### Figure N, Riemann Sum 
-
-
+0  center-field third-base first-base the-catcher the-batter the-pitcher the-shortstop second-base left-field right-field 9
+18
+27
+36
+45
+54
+63
+72
+81
+90
 
 S = (i, n)E f(x_i) ([x_i - x_(i - 1)]) x_i  
 
+###### Figure 1.5, Base Ten _Justified_
+```
+  9
+  8
+  7
+  6
+  5
+  4
+  3
+  2
+  1
+  0
+```
 
 ###### Figure 2
 
