@@ -28,8 +28,6 @@ You are on your sailboat with no land on the horizon. As you look up, the numera
 
 . . .
 
-For myself, the pursuit of happiness is everything all at once, but that was my struggle and my negligence. To say that _everything_ is the total conceptualization of all that you may know is inaccurate. How can we describe that total conceptualization to include our creator? Can there be a concept?
-
 For myself, the relentless desire to succeed by _any means necessary_, brought me all that I could hope for. The splendor of my potential was joy. I kept working to build my home on the mountain. All anxieties felt throughout my life moved out. The vacancies of null invited _no such thing_ to move in, but then I woke up. Introspection had no intruding sadness and the sense of impending doom were only a pile of my bones.
 
 Beyond that initialization, my internal process began behaving in strange and unexpected ways that were difficult to understand. The vacancies of null are the rooms of my castle. Those castle doors have no locks and were closed, but for a moment, there was an illusion that shrouded my eyes. After the eviction of _no such thing_, the angels of heaven occupied their spaces. Like you, I am now at sea with only my sailboat of intuition, the choices of nature, and the winds of God.
