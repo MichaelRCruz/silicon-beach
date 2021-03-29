@@ -1,6 +1,6 @@
 ![centerfold / lolphotos / assets / second-order-art](../centerfold/lol-photos/assets/second-order-art.jpg)
 
-# The Second Order of Art
+# The Subsequent Order of Art
 
 ## Objective
 
