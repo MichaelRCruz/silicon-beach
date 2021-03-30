@@ -1,4 +1,4 @@
-![centerfold / lolphotos / assets / second-order-art](../centerfold/lol-photos/assets/haunted-backyard.jpg)
+![centerfold / lol-photos / assets / high-pressure-sodium-a](../centerfold/lol-photos/assets/high-pressure-sodium-a.jpg)
 
 # High Pressure Sodium, A
 
