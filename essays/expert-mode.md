@@ -32,4 +32,28 @@ There is this level I have reached that revealed so much about the world that mo
 
 Today, for example, someone left some stuff for me to find. It was cool the first time I saw it, but even then, I still did not know what it meant to me until much later. I may never know what it meant to them, but it reminded me of the comments I used to get on social media. Half of them made no sense and the other half I was anticipating. Perhaps the comments my neighbors have made about the weblog post I made in my backyard should be appreciated a little more and not thrown back over the fence in frustration. After all, until today, I have forgotten how to socialize in real life.
 
-...brb
+. . .
+
+This brings us to the middle once again because _balance_, amirite? I should not joke about this much because we, as people from where I am from, have a severe issue with privacy. For those that forgotten how much the lack of privacy destroyed my life, this is your reminder. As 72 and sunny as I made that weather in my back yard, there was still an interaction that has implications of truth.
+
+1. How do you know what I know?
+
+2. How did you get into my backyard?
+
+3. Did you have a plan for how you would react if I liked it and how you would react if I hated it?
+
+4. Since I can always handle both sides of the crap you pull, then how are you ever going to beat me?
+
+5. If you love me so much, why are you all wearing masks?
+
+6. How would you like it if I lived vicariously through you?
+
+7. Have you all forgotten about all the money that was stolen from me?
+
+8. Raise your hand if you think I am so cool that you have forgotten about the attempted murders of my life?
+
+9. If my neighbor is so inclined to forget such attempts to end my life, then is does that not make them an accomplice if they know more than I do about it?
+
+10. Should I continue or is _expert mode_ too difficult for you?
+
+###### To Be Continued
