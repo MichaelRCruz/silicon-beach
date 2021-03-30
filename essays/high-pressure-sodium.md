@@ -1,4 +1,6 @@
-# High Pressure Sodium
+![centerfold / lolphotos / assets / second-order-art](../centerfold/lol-photos/assets/haunted-backyard.jpg)
+
+# High Pressure Sodium, A
 
 One day I suggested to a friend that I may have a near perfect memory. He asked why. After describing to him about how deep my feelings are in any conversation, the recollection of those emotions are what allowed me to remember them so well. The suggestion, then, was that my memory might be _audiographic_ as opposed to _photographic_. Take that as you will.
 
@@ -20,51 +22,46 @@ There was a coat rack just in case someone wanted to hang their jacket, a bucket
 
 That same night the owner walked downstairs to greet me. I thanked him for the place to stay and mentioned that I would be smoking herb outside in the backyard most of the time. He was fine with this, but wanted to make sure I knew to keep it quiet with the back door since it squeaked so much.
 
-The door was so poorly hung that I had to think this was on purpose. I mean, to tell me that and for me to notice the beautiful wood table in the kitchen was a conflict I my brain was not liking in the least. The owner went upstairs. I smoked my herb and then went to bed.
+The door was so poorly hung that I had to think this was on purpose. I mean, to tell me to keep it quiet and then turn to look at this beautiful wood table in the kitchen was a conflict that my brain was not liking in the least. I could not tell you the tree the table was made from, but you could see the pieces were carefully selected, well stained, and held together with a minimal metal frame.
 
-...brb
+As I admired the this table, the decision to go with the metal frame made sense because anything else that long and heavy would have took a different shape after a few Chicago winters. Perhaps that is why the builder chose that design. Those pieces of wood will last a few generations and the frame could always be replaced. That furniture fit well in that part of the kitchen as if that was the house it was built for. They must have assembled everything indoors. Along with the table, the wooden floors were very well done, the bathroom was remodeled and clean, and they had a modern HVAC system that did its job well. That was all I was able to observe inside.
 
+The three twin-beds had one that was empty in the middle. The dude that stayed in the other bed never slept there any of the nights that I did, but he did hang out once. We did not talk too much, but he did introduce himself, mentioned he was a trainer, and we exchanged phone numbers. I guess he knew I was going to be there a few days because he said it was a good idea to do so just in case. The second odd thing about him, that really was not that weird, was the phone charger of his that he left in the middle of the walkway. It was hard plastic and the kind that would make a loud enough noise if you dropped it on that wooden floor. The charger remained there on the floor and at the foot of his bed the whole day. I stepped over it each time because it was obvious he wanted me to pick it up, but nah. Dude was cool though. He sold me a bag of weed when I needed it, since, according to the owner, they did not deliver weed like they do in Los Angeles.
 
+This guy was fit. In fact, he mentioned he was a trainer of some kind. He made dinner once and encouraged me to hang out in the kitchen if I needed a place to work. I considered it because he was watching _Curb Your Enthusiasm_, but I did not bother because what was going on in this house. Did they know who I was or something? If so, I was not aware they knew. Not that they should, I thought, but I just got back from fighting this battle back in California and maybe people were finally talking about me.
 
+The next morning I was awake when the other owner of the house, or at least the other person that lived upstairs, walked by the three beds in her blue bathrobe to let the dog out. What I think she was really doing was getting a look at myself and also trying to get a sense of what I was like. When she walked by, I sort of recoiled not at the sight of her, but for some reason unknown to me in that moment. I mean, I was still recovering from post apocalyptic stress disorder and any new people nearby worried me.
 
+After she walked past, trying not to make eye contact, she got to that poorly hung back door. The door squealed as she opened it, but there was this weird feeling I had that seemed like she was telepathically asking me if I liked what I saw. For you, myself, and the reader, we know how ridiculous that sounds, but while I was still hiding in my mind, she seemed to try and provoke an interest. The message was so strong that I had to get up to peak around the corner. If she had telepathic powers, then she must have been practicing because she did it in a way that could have easily been blamed on an interaction with the dog. That set the tone for the rest of my stay. If you are still with me, then brace yourselves because this is going to get much more concerning, because if there was some encounter with the supernatural, then that was the first one.
 
+Character development, I hear, is a thing people like so I will try to make this as polite as possible. I must give you my take on the dude of the house. The bedroom downstairs was empty and they both shared the upstairs as if it was their separate apartment. I can only assume they were together for one other reason. She brought him a plate of food from the kitchen all the way upstairs and looked at me as she walked by to make sure I saw that. That was the obvious part, but considering the effort that went into the table, as well as that awful door, I would not be surprised if that was planted in my mind as well just for fun. Since they were together, I have to apologize for the confusion you caused. I will get into why that is in part, B, of this essay.
 
+As far as ol' boy is concerned, that back yard scared me so much that heaven itself walked down a ladder in that backyard of yours and had much to say about _no such thing_. The backyard was so unsafe it was a work of art. The Edison bulbs were a nice touch, but the way ol' boy strung one of the lines will either fall, shattering glass everywhere, or start a fire.
 
+**protip:** when you find that your extension cord is not long enough, you can actually use two tied together. The outlets are designed to fit together with enough click to hold them in place, but what if something happened especially if you want to hang them in the air. You cannot just dangle them like that.
 
+**protip:** When shopping for a door know the kind you are buying. Do not put a door with a lock that could potentially lock someone on the balcony. What happens if your dog bumped into it and your family was outside and was locked out while you were napping?
 
+**protip:** If you do not fix the slope of that backyard, then you are going to damge the house permanently. The patio seemed fine as it sloped down and away from the house, but the dirt and grass were sloped the other direction towards the house. I was there in the summer, but I can only imagine the huge puddle of water that collects in the middle.
 
+**protip:** The house has an add-on or some kind of serious modification that appears to have converted it from a store front of some kind. The windows of your neighbors house have signs that it was on fire at one point so that could be why the house needed such a major repair. If all this is true, then know this. When you cut that wooden structure down you also lost the option of keeping the patio. How do you plan on getting that wood out of there without breaking out that original concrete.
 
+**protip:** Why is there a beautiful aluminum ladder stored along the side of the house where it will get rained on and destroyed. You have a outdoor stairwell, where I left my APC rawz, btw, that leads to the cellar that you could have carried that ladder downstairs easily.
 
+**protip:** Do not repair the front gate. It has this unique sound to it when someone tried to close it and probably does a better job than the ADT sign you have stuck in the front lawn.
 
+**protip:** You can remnove the plastic from the windows during the summer. In fact, they are not even effective since they lost their seal however long ago.
 
+**protip:** Why have you converted the entire living room into a bed and breakfast to only charge $35 / night. You could have made way more than that if you would have fixed the flat tire on the car in the parking space, got that thing out of there, and rented the parking spaces. This way you have a nice house inside for you and your lady. How can the two of you even consider a family with that kind of atmosphere?
 
+**protip:** You need a better garden hose. That is all.
 
+**protip:** The grill in the backyard looks like garbage. Did you drop it out of a truck because that is the worst looking grill to have at any party. Eachone of your guests will remember the grill from your party because people are terrible like that, but dude, you cannot have parties back there now.
 
+**protip:** What is the deal with the water pressure. There is an entire kitchen full of pots and pans. How are you going to cook with no water pressure? Lastly, did I see a cast iron skillet in the sink or am I just getting carried away now?
 
+There is more, but I will spare you the embarrassment. Know that this is what you get for calling the police on me for taking your light bulb and that other wifi device you had plugged into the front of the house. Yes, I snagged it because what are you doing with that thing? There were a few moments I felt like someone sent me there to take a look at the place and I have to say, the way your lady set those three chairs up in the backyard looked like she wanted some kind of confrontation or someone to say something to you. Here it is.
 
+Oh, and one last thing. I could tell you knew who I was by the conversation you were having on the phone, that one day, when you brought yourself downstairs so that I could overhear how good of a web developer you think you are. I mean, you might be, but why did I have to know? Were you, maybe, showing off for one of your friends? I know it was not your lady because that conversation would have already happened on purpose. There was a camera in the kitchen where I told you a nice little story for you to record, was there one pointed at my bed as well? Know that, even if they have been removed, I can still find out if I was filmed without my consent. Airbnb is going to be pretty upset.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-The driver dropped me off, I grabbed some weed at a dispensary, bought a copy of the Chicago Tribune, and made my way to Milwaukee Avenue for a place to go. I had enough money to buy myself dinner, but instead, I sat on the sidewalk and rolled a joint. The front page of the paper, that day, told a story about this thing called _Operation Legend_. Apparently, the federal government made some changes that had people worried. What worried me was the story that journalist told about a guy in a traffic stop that was charged with some gun crime, but the feeling I got was that it was a set-up.
-
-Russ was not there to meet me that night, nor was he for more than a week. I was pretty upset with him because of that, but we still talk. I mean, as of now, he is the only friend I have and that is a little concerning if you consider how happy I was with all the friends and family I had my entire life. Russ and I almost got an apartment together, but he weirded me out enough one day that I decided against it. That was a difficult choice because of how much distance I wanted between myself and my family. This is how the adventure started in Chicago the second time. All of it was like the the chase in Los Angeles that you will eventually read about in these essays. Unless, of course, you prefer to believe what you have already heard.
-
-At $35 per night, the Airbnb I found was almost too affordable. but there I was at that place on Maplewood just down the street from that facade.
-
-
-
-
-...brb
+Again, that is what you get for calling the police on me for that stupid light bulb.
