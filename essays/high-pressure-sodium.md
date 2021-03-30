@@ -10,4 +10,6 @@ The driver dropped me off, I grabbed some weed at a dispensary, bought a copy of
 
 Russ was not there to meet me that night, nor was he for more than a week. I was pretty upset with him because of that, but we still talk. I mean, as of now, he is the only friend I have and that is a little scary considering how happy I was with all the friends and family I had my entire life. Him and I almost got an apartment together, but he weirded me out enough one day that I decided against it. That was a difficult choice because of how much distance I wanted between myself and my family. This is how the adventure started in Chicago that resembled the chase in Los Angeles that you will eventually read about in these essays. Unless, of course, you prefer to believe what you have already heard.
 
+On Milwaukee Avenue there is this restaurant called Sea and Olive. Russ took me there once and I really liked it. When I was there it felt like that was where I was supposed to be. The first time there, Russ and I sat at the bar, and down the way, was a man that looked like he was the kind of guy that called the shots. To be real, he looked g af. We maybe made eye contact once, but the vibe he had told me I was alright. That is why I always went back there and that is where I was headed after I got up off the sidewalk from reading the paper.
+
 ...brb
