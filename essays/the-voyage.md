@@ -1,7 +1,5 @@
 # The Voyage
 
-// ## Integration Oriented Architecture
-
 The bookstore, for myself as a kid, had their opening in the suburb where I grew up and when I walked in their that day there were no shelves because the tables they used held their books until the furniture arrived. The other day, for myself as an adult, the most recent book made me browse the rest of the store before I was allowed to take it home. The register rang up what I could afford and that was the moment I knew it was special. Science Fiction was alright mostly, but not to imply any favoritism, the movie is a longer read compared to the book version of _2001 a space odyssey_. This is to say that after the first sentence my life was never the same. The novel, by Arthur C. Clarke, taught me something that we may never see the entire picture of because how could we? The format could have been what allowed me to get enough of a glimpse regarding what is required for a turning point along the path we move.
 
 In the land on earth, as it appears through a lens, played a scene with an object that eventually made another appearance when humans explored the dark side of the moon. Those two locations in space were bent in a way that set the pace for this progress I imagined as my interpretation settled at the end of the chapter. The author found a way to send his signal and I found a way to catch that wind.
