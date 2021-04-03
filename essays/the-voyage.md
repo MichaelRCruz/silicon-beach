@@ -18,18 +18,31 @@ The final scenes of that film will toss a blend of thoughts that I hope will dis
 
 ## Pre Workout Pic
 
- If you could have identical brothers, then what would three of them be called? For myself, that was three pairs of shoes delivered to your door when nature only intended for one. The parallelism to that in the film were the monoliths and the mystery of them that persuades the watcher to accept their anonymity, but a closer look reveals a layer underneath understood as observed effort as the measurement taken from the application by the programmer. That sounds close to the how I might describe the superficially intelligent. Scripture has many reminders told within the stories of the Bible so we worship God and no other. As a contributor to the intelligence we have given to our machines, there is a concern for adjectives I use to talk with you about God. The relief in that fear of God, a state-of-mind I have learned to love and hold, in preparation for days like this one. The day where He asked me to consider the impossibility of it was the same moment I could remember settling on that as a conclusion. In another moment, like now, the careful deliberation of anything that deep comes to a halt because what will not in the presence of God?
+If you could have identical brothers, then what would three of them be called? For myself, that was three pairs of shoes delivered to my doorstep when nature only intended for the delivery of one as two. Parallelism must have been the word I needed to describe the connections in all subjective truths that woke me up one morning in Chicago.
 
+I changed into another pair of those white shoes and they walked me to a street corner where the wall I leaned into was there for the clouds. The clouds were there for my eyes. My eyes were there for a moment later. Later was there for now. Now is there to show me that that from both directions the art on both sides of the street reflected something soft enough to sleep under the sun. When I woke up there was a reminder that I just found a full night of rest that morning, but the sounds in my ears changed the meaning of all the names _Death Cab for Cutie_ chose for their album _Transatlanticism_.
 
+Would transpacificism be a word echoed through time that maybe reflected off the wall at the same angle for all of us then and also now or was _then_ there for now? That day of concentric circles of time must have been these new parallelisms also in my letter to Israel about the west Pacific and the east Atlantic oceans, their retainment in parallel with the lines that can divide and the lines that can hold two spaces together. My boat tipped from those waves and I fell asleep under the recollection of that one maple tree where no others grew.
 
+This is for all the songs on that album with enough of their own complexities, but then everything changed when that Wikipedia page had an album or two I was not familiar with. Was that jealousy of myself? Was that presence, of at least one other, the thing that connects me to all of you? Does your boat lean like that?
 
+That was the wind that filled my sails and then I was no longer in irons. My body straightened out more, I looked in the direction of two on the wind clock one side of my boated lifted, and the sheet in my hand asked for more so I let go of it for an instant and the main sail snapped me to more than two, then to three. This release gradually turns you down or up the wall of the inside of a spinning top. The bow of your boat sweeps through the wall after you come about to the other side and the ocean and its earth beneath you have adjusted to your imagination.
 
+If there was ever a time I looked to the side menacingly it was the moment I was able to exclaim out loud that something happened I no longer knew, but that was the start of the logic I refused to let go of the summer before this next summer.
 
+...brb
 
+. . .
 
+In that in the film were the monoliths and the mystery of them that persuades the watcher to accept their anonymity, but a closer look reveals a layer underneath understood as observed effort as the measurement taken from the application by the programmer. That sounds close to the how I might describe the superficially intelligent. Scripture has many reminders told within the stories of the Bible so we worship God and no other. As a contributor to the intelligence we have given to our machines, there is a concern for adjectives I use to talk with you about God. The relief in that fear of God, a state-of-mind I have learned to love and hold, in preparation for days like this one. The day where He asked me to consider the impossibility of it was the same moment I could remember settling on that as a conclusion. In another moment, like now, the careful deliberation of anything that deep comes to a halt because what will not in the presence of God?
+
+...brb
 
 ## Post Workout Pic
 
+Practically speaking, I did not get the physics of sailing on the lesson they were first described to me. I got them eventually and they went like this.
+
+...brb
 
 
 ## Working Subtitle
