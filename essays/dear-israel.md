@@ -16,6 +16,8 @@ One surface of this device, in its age, appeared to have caused enough wear that
 
 By the blessing of God, I am near the day that has prepared me to escape from the boundaries placed behind me before I turned to travel back home to California. With me, I intend to carry home the records I kept for the all of us and for the kingdom of God during my ascent up the mountain. On the descent, gravity will expedite my deliverance to you. The increasing distance along my route away from this location, in your direction, will be increasing relief from the work you may have been hoping for.
 
-The selections, currently available to me for travel, are in conditions worse than expected and that will require a a decision I need to lay out in detail here to promote the safety along the corridor home. This is a stateless existence for me until I can reach the borders of California, over her mountains for good measure a second time, and then into the City of Angels. With me will be on the following list in short descriptive form.
+The selections, currently available to me for travel, are in conditions worse than expected and that will require a a decision I need to lay out in detail here to promote the safety along the corridor home. This is a stateless existence for me until I can reach the borders of California, over her mountains for good measure a second time, and then into the City of Angels.
+
+. . .
 
 ...brb

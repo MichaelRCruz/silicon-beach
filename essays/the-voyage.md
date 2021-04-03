@@ -1,16 +1,38 @@
-# The Voyage
+# Behind Every Man
 
-The bookstore, for myself as a kid, had their opening in the suburb where I grew up and when I walked in their that day there were no shelves because the tables they used held their books until the furniture arrived. The other day, for myself as an adult, the most recent book made me browse the rest of the store before I was allowed to take it home. The register rang up what I could afford and that was the moment I knew it was special. Science Fiction was alright mostly, but not to imply any favoritism, the movie is a longer read compared to the book version of _2001 a space odyssey_. This is to say that after the first sentence my life was never the same. The novel, by Arthur C. Clarke, taught me something that we may never see the entire picture of because how could we? The format could have been what allowed me to get enough of a glimpse regarding what is required for a turning point along the path we move.
+The first bookstore, for myself as a kid, opened their doors for the suburb where I grew up. On my first visit there, the browsers inside really were scanning the tables holding the place of the furniture that had not yet arrived. The other day, for myself as an adult, on the shelf was my selection. The register rang up half of what I expected the cost to be. Prior to holding the receipt, I could feel something that had more room to grow. Perhaps that is what curiosity does for us as the potential growth carved space for itself in the future.
 
-In the land on earth, as it appears through a lens, played a scene with an object that eventually made another appearance when humans explored the dark side of the moon. Those two locations in space were bent in a way that set the pace for this progress I imagined as my interpretation settled at the end of the chapter. The author found a way to send his signal and I found a way to catch that wind.
-
-The novel describes a pair of objects that balance both ends of the copy I found on the shelf that day, but in my room it was not long before those words described a transition in time when a mirror reflected another mirror and together the two then contained all the entropy that still waits for life to make the waves on the waters of earth. The second time on the moon the object brought closure to a moment that, below the surface, was two realities that joined a pair of characters as two humans in exploration.
-
-Clarke's novel joined the club of authors who sit on a bookshelf of the collection of all my books that were never finished to the end. For _2001_, The lunar object was this seam that joined two realities: one on earth and the other side was some location beyond the moon. If the movements of those three locations are easy enough to visualize, then an interest in the way they might project another shape as a silhouette the system might have from a light pointed at the sun from another star.
-
-The brilliance continued for me with empathy when the character on earth sat to wonder about the discovery. Those terrestrial thoughts signaled an arc of the lightning in the clouds that delivered a new understanding regarding my resulting perception of the interventions of our reality that seems to be created by the mind of our species.
+Science Fiction was alright mostly, but that means to ship with no implications. The movie is a longer read compared to the hardcover copy of a novel based on a screenplay by Stanley Kubrick and Arthur C. Clarke. After reading the first words in a subtitle named _Forward_, the book, _2001 a space odyssey_, taught me something that added to the film I watched of the same story long before that day of winter in the bookstore. My gift from the past led to these suspicions that I may have missed much more from my first encounter with the film. For the novel, I will have finish reading after I return to the film where you find the first entry into orbit.
 
 . . .
+
+In the land on earth, as it appears through a lens, was an early scene with something that eventually makes a second appearance when the humans, depicted in the film, began to explore the dark side of the moon. Those two locations in space were bent in a way that set the pace for this progress I imagined as my interpretation settled at the end of the chapter. The author found a way to send his signal and I found a way to catch that wind that carried it where I am.
+
+The novel describes a pair of objects that balance both ends of the copy I found on the shelf that day, but in my room it was not long before those words described a transition in time when a mirror reflected another mirror and together the two then contained all the entropy that still waits for life to make the waves on the waters of earth. The second time on the moon the object brought closure to a moment that, below the surface, were two realities that joined together a pair of characters as if they represented one human in an exploration of time.
+
+In _2001_, the lunar object, the terrestrial object, and the _extra_ terrestrial object were the seams that join three realities. If the movements of those three locations connected as one entire system, it might help to visualize them as a deck of cards that can cast their own shadows all alone, but all together, the moments on each card stack up to a full deck that changes shape just enough to cast a more complicate shape on the wall.
+
+Empathy with the character on earth sitting in wonder about their discovery watered a seed that sprouted branches of wisdom that once laid on their back covers prior to the conception of those terrestrial thoughts. They signaled an arc of lightning of the clouds that stormed a new understanding regarding my resulting perception of the interventions of our reality. That seems to be a destiny created by the mind of our species. Towards that destination you may pick a card, any card, and God will make sure that if one falls to the floor, He will carry it back to the stack that the cards belong to.
+
+The final scenes of that film will toss a blend of thoughts that I hope will distribute any risk of horror that I might feel. Perhaps this is as an emotion that the filmmaker intended for me to find within myself and also a familiarity with what I remember.
+
+## Pre Workout Pic
+
+ If you could have identical brothers, then what would three of them be called? For myself, that was three pairs of shoes delivered to your door when nature only intended for one. The parallelism to that in the film were the monoliths and the mystery of them that persuades the watcher to accept their anonymity, but a closer look reveals a layer underneath understood as observed effort as the measurement taken from the application by the programmer. That sounds close to the how I might describe the superficially intelligent. Scripture has many reminders told within the stories of the Bible so we worship God and no other. As a contributor to the intelligence we have given to our machines, there is a concern for adjectives I use to talk with you about God. The relief in that fear of God, a state-of-mind I have learned to love and hold, in preparation for days like this one. The day where He asked me to consider the impossibility of it was the same moment I could remember settling on that as a conclusion. In another moment, like now, the careful deliberation of anything that deep comes to a halt because what will not in the presence of God?
+
+
+
+
+
+
+
+
+
+## Post Workout Pic
+
+
+
+## Working Subtitle
 
 Our intellectual interpretation of electromagnetic radiation, or light-bulbs, can only be studied with the human eye. Any computer assistance can help us further understand its complexities, but this leads us into other areas of related interest like optics. Consider, then, the only means of perception we have for these types of human observations.
 
