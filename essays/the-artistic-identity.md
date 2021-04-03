@@ -1,18 +1,12 @@
 # The Artistic Identity
 
-> If two angels sing a song in the same moment, then the artistic identity of man would be a message across a river and over the walls in the mountains slaying ears to hear distinction in sound during another moment in space.
+For all of history, including everyone waiting for heaven, know these words to be a center. If two angels sing a song in the same moment, then the artistic identity of man would be a message across a river and over the walls in the mountains slaying ears to hear distinction in sound during another moment in space.
 
-This be real, but the other way in the same time.
-
-If the language of discrete math provides clarity, then a cute way to say this would be to say it explains everything. To have never studied this kind of math is unfortunate, but look at its nature. Are there infinite places of rest or is there a countdown? What are those moments tessellating lift off? A number system with infinitely divisible spaces has _PI_, and _e_, and _i_. If these locations, rather than anything else, could describe the area of a circle, then what can they tell us about our identities?
+If the language of discrete math provides clarity, then a cute way to say this would be to say it explains everything. To have never studied this kind of math is unfortunate, but look at its nature. Are there infinite places-of-rest or is there a countdown? What are those moments tessellating lift off? A number system with infinitely divisible spaces has _PI_, and _e_, and _i_. If these locations, rather than anything else, could describe the area of a circle, then what can they tell us about our identities?
 
 How could we consider of the idea to leave for any other planet if we cannot maintain a source of truth here on Earth? Imagine space travel. Would you trust _anything_ you heard from home? What guarantee is it that the math behind our signals are is sound?
 
 If song could be copied and autonomously created by machine, where is the human identification? Do our artificially intelligent friends have a vibe? What does their music sound like? Could we find a signature to go along with our signals. Does the universe require certificates of authority? What if we started using one, just in case?
-
-This be real, but the other way in the same time.
-
-So for all of history with everyone alive know these words to be a center. The words you are reading now are have reached everybody reading this now. They are much like your own. There appears to be a comparative available for fun regarding consistency or by some extension, certainty. If the moon does not appear to have an absolute nature, then does it by your word? Does this imply that time is the square roots we plow. Mine was a carrot? Am I gay now? Is that not a sincere question because of the snowmen joke? This directly prefaces the story untold.
 
 Writing this in one paragraph is boring, but I will try. If our art has an identity then the quickest way to show this is in difference and always something else.
 
