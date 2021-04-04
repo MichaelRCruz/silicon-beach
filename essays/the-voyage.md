@@ -1,14 +1,12 @@
 # Behind Every Man
 
-The first bookstore, for myself as a kid, opened their doors for the suburb where I grew up. On my first visit there, the browsers inside really were scanning the tables holding the place of the furniture that had not yet arrived. The other day, for myself as an adult, on the shelf was my selection. The register rang up half of what I expected the cost to be. Prior to holding the receipt, I could feel something that had more room to grow. Perhaps that is what curiosity does for us as the potential growth carved space for itself in the future.
+The first bookstore, for myself as a kid, opened their doors for the suburb where I grew up. On my first visit there, the browsers inside were scanning the tables holding the place of the furniture that had not yet arrived. This time, the register rang up half of what I expected the cost to be. Prior to holding the receipt, I could feel something that had more room to grow. Perhaps that is what curiosity does for us as the potential growth carved space for itself in the future.
 
-Science Fiction was alright mostly, but that means to ship with no implications. The movie is a longer read compared to the hardcover copy of a novel based on a screenplay by Stanley Kubrick and Arthur C. Clarke. After reading the first words in a subtitle named _Forward_, the book, _2001 a space odyssey_, taught me something that added to the film I watched of the same story long before that day of winter in the bookstore. My gift from the past led to these suspicions that I may have missed much more from my first encounter with the film. For the novel, I will have finish reading after I return to the film where you find the first entry into orbit.
+Science Fiction was alright mostly, but, that means no such thing to a ship without such implications. A film is a longer read compared to a hardcover copy based on a screenplay by Stanley Kubrick and Arthur C. Clarke. After reading the first words of, _2001 a space odyssey_, the suspicions may have missed myself much of something else, but science fiction was alright mostly.
 
-. . .
+In the land of earth, as it appears through a lens, was an early scene with something that eventually makes a second appearance when humans explored the dark side of the moon. Why who when what we waved was wattage when whole wraps with wire whereby weaved world wide webs?
 
-In the land on earth, as it appears through a lens, was an early scene with something that eventually makes a second appearance when the humans, depicted in the film, began to explore the dark side of the moon. Those two locations in space were bent in a way that set the pace for this progress I imagined as my interpretation settled at the end of the chapter. The author found a way to send his signal and I found a way to catch that wind that carried it where I am.
-
-The novel describes a pair of objects that balance both ends of the copy I found on the shelf that day, but in my room it was not long before those words described a transition in time when a mirror reflected another mirror and together the two then contained all the entropy that still waits for life to make the waves on the waters of earth. The second time on the moon the object brought closure to a moment that, below the surface, were two realities that joined together a pair of characters as if they represented one human in an exploration of time.
+The novel describes three objects that brings balance to the beginning, the middle, and the end of the copy I found on the shelf that day, but in my room it was not long before those words described a transition in time when a mirror reflected another mirror and together the two then contained all the entropy that still waits for life to make the waves on the waters of earth. The second time on the moon the object brought closure to a moment that, below the surface, were two realities that joined together a pair of characters as if they represented one human in an exploration of time.
 
 In _2001_, the lunar object, the terrestrial object, and the _extra_ terrestrial object were the seams that join three realities. If the movements of those three locations connected as one entire system, it might help to visualize them as a deck of cards that can cast their own shadows all alone, but all together, the moments on each card stack up to a full deck that changes shape just enough to cast a more complicate shape on the wall.
 
@@ -16,18 +14,17 @@ Empathy with the character on earth sitting in wonder about their discovery wate
 
 The final scenes of that film will toss a blend of thoughts that I hope will distribute any risk of horror that I might feel. Perhaps this is as an emotion that the filmmaker intended for me to find within myself and also a familiarity with what I remember.
 
-## Pre Workout Pic
+## carbon copy
 
-Parallelism must have been the word I needed to describe the connections in all subjective truths that woke me up one morning in Chicago when I changed into another pair of those white shoes and they walked me to a street corner where the wall I leaned into was there for the clouds. The clouds were there for my eyes. My eyes were there for a moment later. Later was there for now. Now is there to show me that that from both directions the art on both sides of the street reflected something soft enough to sleep to under the sun. When I woke up there was a reminder that I just found a full night of rest that morning, but the sounds in my ears changed the meaning of all the names _Death Cab for Cutie_ chose for their album _Transatlanticism_. Would "transpacificism" be a word echoed through time that maybe reflected off the wall at the same angle for _all of us then_ and also _all of us now_ or was actually _then_ there for the actual now?
+Parallelism must have been the word I needed to describe the connections in all subjective truths that woke me up one morning in Chicago when I changed into another pair of those white shoes that walked me to a street corner where the wall I leaned into was there for the clouds. The clouds were there for my eyes. My eyes were there for a moment later. Later was there for now. Now is there to show me that that from both directions the art on both sides of the street reflected something soft enough to sleep to under the sun. When I woke up there was a reminder that I just found a full night of rest that morning, but the sounds in my ears changed the meaning of all the names _Death Cab for Cutie_ chose for their album _Transatlanticism_. Would "transpacificism" be a word echoed through time that maybe reflected off the wall at the same angle for _all of us then_ and also _all of us now_ or was actually _then_ there for the actual now?
 
 That day of concentric circles of time must have been these new parallelisms also in my letter to Israel about the west Pacific and the east Atlantic oceans. Their retainment with the lines that divide and the lines that bind. My boat tipped from one of those waves and I fell asleep under the one of those recollections of that maple tree where no others grew.
 
-
-## Post Workout Pic
+## blank carbon copy
 
 Practically speaking, I did not get the physics of sailing on the lesson they were first described to me. I got them eventually and they went like this.
 
-That was the wind that filled my sails and then I was no longer in irons. My body straightened out more, I looked in the direction of two on the wind clock one side of my boated lifted, and the sheet in my hand asked for more so I let go of it for an instant and the main sail snapped me to more than two, then to three. This release gradually turns you down or up the wall of the inside of a spinning top. The bow of your boat sweeps through the wall after you come about to the other side and the ocean and its earth beneath you have adjusted to your imagination.
+That was the wind that filled my sails and then I was no longer in irons. My body straightened out more, I looked in the direction of two on the wind clock one sid e of my boated lifted, and the sheet in my hand asked for more so I let go of it for an instant and the main sail snapped me to more than two, then to three. This release gradually turns you down or up the wall of the inside of a spinning top. The bow of your boat sweeps through the wall after you come about to the other side and the ocean and its earth beneath you have adjusted to your imagination.
 
 A boat not under any wind power is like it looks. If you can see it just sitting there when the wind blows how does the boat move because I wondered what the first person that kinda figured it all out was feeling. Some one put the whole thing together and a miracle happened. What else is there except one more thing. When you finally built the boat would you say if the number of iterations meant anything to you? I can almost see you getting there fewer than expected because you must have could already see the twist of the boat against another twist the other way. If they braid, then those must be the two sides to take for one path. Through the eye of the wind, your bow goes back to the side across what you read as 2 and then 1 and then you read it back to yourself as 1 and then 2. So the third is twelve and 21 just in case.
 
@@ -36,7 +33,6 @@ A turntable will allow an object to rest while the surface underneath is moving 
 The details of both descriptions have similar and different subtleties that just just close it up for you if you let them. The first example I see myself on the boat and can feel a tug on the sheet telling me to let out as the bow fought for the side where it was. The other way is the earth somehow much more than I can understand. Is the ocean almost negative in friction on its surface while the light that travels deep below will meet a resistance to where there is complete darkness.
 
 Gravity is the weight that pulls down on a sailboat fighting to bring balance into perspective and the wind allows that. The lean of the boat, the boat with opposing forces, along opposing paths of travel, react to each other. If that makes sense, then that is how I imagine the physics of sailing to be.
-
 
 ## Working Subtitle
 
@@ -66,7 +62,7 @@ I thought, then, if the next step would have consideration for any superiority o
 
 . . .
 
-
+...brb
 
 . . .
 
