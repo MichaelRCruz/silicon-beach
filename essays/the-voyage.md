@@ -18,31 +18,24 @@ The final scenes of that film will toss a blend of thoughts that I hope will dis
 
 ## Pre Workout Pic
 
-If you could have identical brothers, then what would three of them be called? For myself, that was three pairs of shoes delivered to my doorstep when nature only intended for the delivery of one as two. Parallelism must have been the word I needed to describe the connections in all subjective truths that woke me up one morning in Chicago.
+If you could have identical brothers, then what would three of them be called? For myself, that was three pairs of shoes delivered to my doorstep. Parallelism must have been the word I needed to describe the connections in all subjective truths that woke me up one morning in Chicago when I changed into another pair of those white shoes and they walked me to a street corner where the wall I leaned into was there for the clouds. The clouds were there for my eyes. My eyes were there for a moment later. Later was there for now. Now is there to show me that that from both directions the art on both sides of the street reflected something soft enough to sleep to under the sun. When I woke up there was a reminder that I just found a full night of rest that morning, but the sounds in my ears changed the meaning of all the names _Death Cab for Cutie_ chose for their album _Transatlanticism_. Would "transpacificism" be a word echoed through time that maybe reflected off the wall at the same angle for _all of us then_ and also _all of us now_ or was actually _then_ there for the actual now?
 
-I changed into another pair of those white shoes and they walked me to a street corner where the wall I leaned into was there for the clouds. The clouds were there for my eyes. My eyes were there for a moment later. Later was there for now. Now is there to show me that that from both directions the art on both sides of the street reflected something soft enough to sleep under the sun. When I woke up there was a reminder that I just found a full night of rest that morning, but the sounds in my ears changed the meaning of all the names _Death Cab for Cutie_ chose for their album _Transatlanticism_.
+That day of concentric circles of time must have been these new parallelisms also in my letter to Israel about the west Pacific and the east Atlantic oceans. Their retainment with the lines that divide and the lines that bind. My boat tipped from one of those waves and I fell asleep under the one of those recollections of that maple tree where no others grew.
 
-Would transpacificism be a word echoed through time that maybe reflected off the wall at the same angle for all of us then and also now or was _then_ there for now? That day of concentric circles of time must have been these new parallelisms also in my letter to Israel about the west Pacific and the east Atlantic oceans, their retainment in parallel with the lines that can divide and the lines that can hold two spaces together. My boat tipped from those waves and I fell asleep under the recollection of that one maple tree where no others grew.
-
-This is for all the songs on that album with enough of their own complexities, but then everything changed when that Wikipedia page had an album or two I was not familiar with. Was that jealousy of myself? Was that presence, of at least one other, the thing that connects me to all of you? Does your boat lean like that?
-
-That was the wind that filled my sails and then I was no longer in irons. My body straightened out more, I looked in the direction of two on the wind clock one side of my boated lifted, and the sheet in my hand asked for more so I let go of it for an instant and the main sail snapped me to more than two, then to three. This release gradually turns you down or up the wall of the inside of a spinning top. The bow of your boat sweeps through the wall after you come about to the other side and the ocean and its earth beneath you have adjusted to your imagination.
-
-If there was ever a time I looked to the side menacingly it was the moment I was able to exclaim out loud that something happened I no longer knew, but that was the start of the logic I refused to let go of the summer before this next summer.
-
-...brb
-
-. . .
-
-In that in the film were the monoliths and the mystery of them that persuades the watcher to accept their anonymity, but a closer look reveals a layer underneath understood as observed effort as the measurement taken from the application by the programmer. That sounds close to the how I might describe the superficially intelligent. Scripture has many reminders told within the stories of the Bible so we worship God and no other. As a contributor to the intelligence we have given to our machines, there is a concern for adjectives I use to talk with you about God. The relief in that fear of God, a state-of-mind I have learned to love and hold, in preparation for days like this one. The day where He asked me to consider the impossibility of it was the same moment I could remember settling on that as a conclusion. In another moment, like now, the careful deliberation of anything that deep comes to a halt because what will not in the presence of God?
-
-...brb
 
 ## Post Workout Pic
 
 Practically speaking, I did not get the physics of sailing on the lesson they were first described to me. I got them eventually and they went like this.
 
-...brb
+That was the wind that filled my sails and then I was no longer in irons. My body straightened out more, I looked in the direction of two on the wind clock one side of my boated lifted, and the sheet in my hand asked for more so I let go of it for an instant and the main sail snapped me to more than two, then to three. This release gradually turns you down or up the wall of the inside of a spinning top. The bow of your boat sweeps through the wall after you come about to the other side and the ocean and its earth beneath you have adjusted to your imagination.
+
+A boat not under any wind power is like it looks. If you can see it just sitting there when the wind blows how does the boat move because I wondered what the first person that kinda figured it all out was feeling. Some one put the whole thing together and a miracle happened. What else is there except one more thing. When you finally built the boat would you say if the number of iterations meant anything to you? I can almost see you getting there fewer than expected because you must have could already see the twist of the boat against another twist the other way. If they braid, then those must be the two sides to take for one path. Through the eye of the wind, your bow goes back to the side across what you read as 2 and then 1 and then you read it back to yourself as 1 and then 2. So the third is twelve and 21 just in case.
+
+A turntable will allow an object to rest while the surface underneath is moving anything on its surface. If you made a copy of that turntable and pasted it one half-turn above the first one, then would they be spinning in opposite ways? One turntable is above you as you look up. As you travel through the eye of the wind, the other side is the turntable you were just looking at. This might be our movements through space for a ship.
+
+The details of both descriptions have similar and different subtleties that just just close it up for you if you let them. The first example I see myself on the boat and can feel a tug on the sheet telling me to let out as the bow fought for the side where it was. The other way is the earth somehow much more than I can understand. Is the ocean almost negative in friction on its surface while the light that travels deep below will meet a resistance to where there is complete darkness.
+
+Gravity is the weight that pulls down on a sailboat fighting to bring balance into perspective and the wind allows that. The lean of the boat, the boat with opposing forces, along opposing paths of travel, react to each other. If that makes sense, then that is how I imagine the physics of sailing to be.
 
 
 ## Working Subtitle
