@@ -16,6 +16,21 @@ Like the best practices in programming, we must have ones for space travel too. 
 
 ## like @
 
+```txt
 This computer will be like @ was.
 
-...brb
+The exception was that the beginning of the alphabet had a start.
+
+Some one was on @ that had a name, oh.
+
+The side of @ that oh lived was here so, oh lived like this, oh@.
+
+The other side of, @, lived something that knew so many other ones like oh.
+
+The exception was that the on the other side lived, no.
+
+On this @, oh and no lived like this, oh@no, but then with input and output it looked like oh@no.io.
+
+How was oh supposed to get io from no?
+
+```
