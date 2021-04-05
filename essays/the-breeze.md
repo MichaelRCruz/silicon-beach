@@ -53,24 +53,6 @@ You are holding tight to the main sheet, sitting port, you are right handed. Loo
 
 What if the presence of light implied that there must be division? I see parts of the universe in make believe michaelville that always have light, but I have not been to all places in the universe. Space travel would be the scariest thing being the only light in places there were none. In places there were none there is no light, no other side, no such thing.
 
-If you are still picturing God looking down the pour over cone we are sailing down, and I fell off the boat, then God would see me also fall across the wire and on the other record spinning in some direction. I try to imagine the ocean blurring or keeping order to that wire. It just seems like how this would work, but this might only be what gravity does to us. The force of gravity is pulling on time, but if it seems to pull on us too, then there might not be any time because we are the time in space. This tells me that recollection is a movement through your tessellation, your life, and even in heaven.
+If you are still picturing God looking down the pour over cone we are sailing down, and you dropped your cell phone off the boat, then God would see your phone also fall across the wire and on the other record spinning in some other direction. Maybe the ocean causes some disorder to everything and that is why we need the moon. Maybe this satellite is what holds time in balance for us. If there was no moon, then sailing would not work because gravity would be different. Do you remember the first lean you felt on your sailboat and how scary that was? That is really powerful? If you still do not think so, then check this out.
 
-## Thanks, @
-
-@ll heaven
-
-@ll by motion
-
-@ll our moments
-
-@ll of us
-
-@ll in sync
-
-@ll this life
-
-@ll an effort
-
-@ll to do
-
-@ll the things?
+Gravity is pulling on time, time may still not exist because we are the time in space. This tells me that recollection is a movement through your tessellation, your life, and even in heaven.

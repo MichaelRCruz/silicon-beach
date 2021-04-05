@@ -1,122 +1,200 @@
 # The Poetic Buffer
 
-- - -
+```html
+<figure>
+    <blockquote>
+        <p>
+            The moment
 
-###### Next
-```text
-The moment
+            you wonder
 
-you wonder
+            what's in
 
-what's in
+            a name,
 
-a name,
+            the return
 
-the return
+            is sound,
 
-is sound,
+            by recursion
 
-by recursion
+            the next
 
-the next
+            and only
 
-and only
+            loop around.
 
-loop around.
+            Two chimes
 
-Two chimes
+            are facts.
 
-are facts.
+            The words
 
-The words
+            keep pace.
 
-keep pace.
+            To know,
 
-To know,
+            I wonder,
 
-I wonder,
+            what's in
 
-what's in
-
-a space?
+            a space?
+        </p>
+    </blockquote>
+    <figcaption>
+        <cite>The News</cite>
+    </figcaption>
+</figure>
 ```
 
-###### Memory, in draft
-```text
-This beach has a silicon memory.
+```html
+<figure>
+    <blockquote>
+        <p>
+            This beach has a silicon memory.
 
-This memory has a personal recollection.
+            This memory has a personal recollection.
 
-This recollection has a written record.
+            This recollection has a written record.
 
-This record has a working title.
+            This record has a working title.
 
-This title has a reserved space.
+            This title has a reserved space.
 
-This space has an untold story.
+            This space has an untold story.
 
-This story is a love letter.
+            This story is a love letter.
 
-This love letter is a story.
+            This love letter is a story.
 
-This untold story is a space.
+            This untold story is a space.
 
-This reserved space is a title.
+            This reserved space is a title.
 
-This working title is a record.
+            This working title is a record.
 
-This written record is a recollection.
+            This written record is a recollection.
 
-This personal recollection is a memory.
+            This personal recollection is a memory.
 
-This silicon memory is a beach.
+            This silicon memory is a beach.
+        </p>
+    </blockquote>
+    <figcaption>
+        <cite>The News</cite>
+    </figcaption>
+</figure>
 ```
 
-###### No Water
-```text
-Clarity for us is etched glass
+```html
+<figure>
+    <blockquote>
+        <p>
+            Clarity for us is etched glass
 
-created from the sands within our heartbeats
+            created from the sands within our heartbeats
 
-that bind two facts of life together,
+            that bind two facts of life together,
 
-her and I,
+            her and I,
 
-in rhythm and rhyme
+            in rhythm and rhyme
 
-turning in dance
+            turning in dance
 
-towards the conflagration
+            towards the conflagration
 
-following the one last chime.
+            following the one last chime.
+        </p>
+    </blockquote>
+    <figcaption>
+        <cite>The News</cite>
+    </figcaption>
+</figure>
 ```
-###### The W Ligature
 
-~~a
-~b!c@d#e$f%g^h&i*j(k)l_m-n=o+p\q|r{s}t[u]v'w'x"y"z:1;2?3/4<5>6.7,8/``90~~
+```html
+<figure>
+    <blockquote>
+        <p>
+            Clarity for us is etched glass
 
-###### The Ask
+            created from the sands within our heartbeats
 
-> Would you rather answer the telephone to hang on a moment or would you rather learn from a painting?
+            that bind two facts of life together,
 
-#### They're New Here
-```text
-One moment
-is love
-pitching hues
-inside the
-speaker box
-as factors
-of square
-juxtaposed by
-wind clocks
-to sleep
-and blink
-is us
-two spinning
-in infinity
-closer to
-the heart.
+            her and I,
+
+            in rhythm and rhyme
+
+            turning in dance
+
+            towards the conflagration
+
+            following the one last chime.
+        </p>
+    </blockquote>
+    <figcaption>
+        <cite>The News</cite>
+    </figcaption>
+</figure>
+```
+
+```html
+<figure>
+    <blockquote>
+        <p>
+            ~~a
+            ~b!c@d#e$f%g^h&i*j(k)l_m-n=o+p\q|r{s}t[u]v'w'x"y"z:1;2?3/4<5>6.7,8/``90~~
+        </p>
+    </blockquote>
+    <figcaption>
+        <cite>The News</cite>
+    </figcaption>
+</figure>
+```
+
+
+
+```html
+<figure>
+    <blockquote>
+        <p>
+            Would you rather answer the telephone to hang on a moment or would you rather learn from a painting?
+        </p>
+    </blockquote>
+    <figcaption>
+        <cite>The News</cite>
+    </figcaption>
+</figure>
+```
+
+```html
+<figure>
+    <blockquote>
+        <p>
+            One moment
+            is love
+            pitching hues
+            inside the
+            speaker box
+            as factors
+            of square
+            juxtaposed by
+            wind clocks
+            to sleep
+            and blink
+            is us
+            two spinning
+            in infinity
+            closer to
+            the heart.
+        </p>
+    </blockquote>
+    <figcaption>
+        <cite>The News</cite>
+    </figcaption>
+</figure>
 ```
 
 
@@ -228,9 +306,41 @@ the heart.
 ```html
 <figure>
     <blockquote>
-        Life should _not_ imply anything about baseball. Baseball should imply anything about life.     
+        <p>
+            Life should _not_ imply anything about baseball. Baseball should imply anything about life.
+        </p>
     </blockquote>
     <figcaption>
         <cite>The News</cite>
     </figcaption>
-</figure>zzz
+</figure>
+```
+
+```html
+<figure>
+    <blockquote>
+    <p>
+        @ll heaven
+
+        @ll by motion
+
+        @ll our moments
+
+        @ll of us
+
+        @ll in sync
+
+        @ll this life
+
+        @ll an effort
+
+        @ll to do
+
+        @ll the things?
+    </p>
+    </blockquote>
+    <figcaption>
+        <cite>The News</cite>
+    </figcaption>
+</figure>
+```
