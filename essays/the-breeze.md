@@ -41,4 +41,36 @@ First you have to notice a few things. You have a life jacket on so you can rela
 
 Since you are not supposed to tie down your main sheet, it should have allowed the boom to sink from its weight below surface taking the main sail with it. If you swim over there just know you can get tangled some how to be careful. When you see the cleat hitch, untie it and throw all its slack over the side of the boat. Swim back to the other side. Pull tight on the main halyard so you can help yourself out of the water, but plant your feet flat against the hull and stick your ass out to add weight to that side. You will begin to rotate faster and faster as the weight of your ass starts to pull that huge main sail that was submerged. The more sail that is above water, the faster you are rotating the boat afloat. That is all.
 
-...brb
+. . .
+
+If only I was on an ocean now. Maybe `a` - `up` - `down` - `left` - `select` - `start` was my boat and I at the moment it capsized. Maybe that is how time works, but maybe it is just traveling. Maybe time cannot be what it is without traveling. If we are all traveling through time now and our movement through light paints a film for us, then like a baseball you have to come back down through the arch. When you land, maybe that place is the other side.
+
+What if the wire could be thought of as a piano string with a slight arch to it before it was packaged and strung. Is an unstrung piano string straight or curled when made? If straight, then how difficult is it to make it as straight as possible? The closest you could get is a slight curve. That is the wire of time, maybe. Curl the wire in a way you would, if you could, frame a pour-over coffee cone. If that is what they are called, then picture the inside of one and picture your little sailboat on that line curling down.
+
+The record turn-table, and the one upside down, together move along that wire. In other words, the circumference of the record glides along the one side of that wire and also moving in some direction opposed to or along with the direction in time we are moving. Unless you are the other other side of my other side. That could just be us, though, because the walls might be mirrors. I do not know.
+
+You are holding tight to the main sheet, sitting port, you are right handed. Looking down the cone, God could probably see us curving up or down, but I wonder if he sees the rims on cars these days, because in person and on film, they look like they are spinning backwards. If we are spinning that fast like the wheel, and we can see an illusion to the light, then is that backwards spin getting in tune with nature for our eyes or because of its heart?
+
+What if the presence of light implied that there must be division? I see parts of the universe in make believe michaelville that always have light, but I have not been to all places in the universe. Space travel would be the scariest thing being the only light in places there were none. In places there were none there is no light, no other side, no such thing.
+
+If you are still picturing God looking down the pour over cone we are sailing down, and I fell off the boat, then God would see me also fall across the wire and on the other record spinning in some direction. I try to imagine the ocean blurring or keeping order to that wire. It just seems like how this would work, but this might only be what gravity does to us. The force of gravity is pulling on time, but if it seems to pull on us too, then there might not be any time because we are the time in space. This tells me that recollection is a movement through your tessellation, your life, and even in heaven.
+
+## Thanks, @
+
+@ll heaven
+
+@ll by motion
+
+@ll our moments
+
+@ll of us
+
+@ll in sync
+
+@ll this life
+
+@ll an effort
+
+@ll to do
+
+@ll the things?
