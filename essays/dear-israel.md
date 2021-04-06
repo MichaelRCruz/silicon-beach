@@ -20,16 +20,4 @@ By the blessing of God, I am near the day that has prepared me to escape from th
 
 This is a stateless existence until I can reach the borders of California including an existence in the prayer we can secede once and for all. The selections, currently available for travel are in conditions worse than expected. This will require a decision described in detail before choosing the path home. The end of this winter brings spring and spring is what will bring me home. Until that end, I am writing more that you will find in this repository with a location in the clouds.
 
-Please be confident in the subjective truths you read before they become your identity. This includes my words and who you might think I am. There is a dilemma to consider.
-
-
-###### If `p` then `q`.
-
-###### If `r` then `s`.
-
-###### `p` or `r`.
-
-###### Therefore, `q` or `s`.
-
-
 ...brb

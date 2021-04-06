@@ -1,3 +1,5 @@
+![centerfold / lol-photos / assets / high-pressure-sodium-a](/centerfold/lol-photos/assets/link.jpg)
+
 # Link
 
 Have you ever mistaken Zelda for the hero, looked closer, then learned about Link? Are you familiar with the concept of a url shortener? Lastly, what if I told you about the seemingly infinite value of a domain I purchased some time ago? It took a while for me to see past its aesthetic value and into utility, but it is there.

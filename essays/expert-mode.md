@@ -1,4 +1,4 @@
-![centerfold / lolphotos / assets / second-order-art](../centerfold/lol-photos/assets/expert-mode.jpg)
+![centerfold / lolphotos / assets / second-order-art](/centerfold/lol-photos/assets/sketch.png)
 
 # Expert Mode
 
@@ -56,4 +56,14 @@ This brings us to the middle once again because _balance_, amirite? I should not
 
 10. Should I continue or is _expert mode_ too difficult for you?
 
-###### To Be Continued
+Please be confident in the subjective truths you read before they become your identity. This includes my words and who you might think I am. There is a dilemma to consider.
+
+###### If `p` then `q`.
+
+###### If `r` then `s`.
+
+###### `p` or `r`.
+
+###### Therefore, `q` or `s`.
+
+You can work that out, but I can feel the conclusion you arrive to on any trip.

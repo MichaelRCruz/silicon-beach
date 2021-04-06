@@ -1,4 +1,4 @@
-[![robo-plane](https://img.youtube.com/vi/Dt0DjIel7zs/0.jpg)](centerfold/lol-photos/assets/film-what-you-see.mp4)
+![robo-plane](/centerfold/lol-photos/assets/sketch.png)
 
 # Draw What You See
 

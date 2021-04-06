@@ -1,4 +1,4 @@
-![centerfold / lol-photos / assets / high-pressure-sodium-a](../centerfold/lol-photos/assets/high-pressure-sodium-a.jpg)
+![centerfold / lol-photos / assets / high-pressure-sodium-a](/centerfold/lol-photos/assets/high-pressure-sodium-a.jpg)
 
 # High Pressure Sodium, A
 

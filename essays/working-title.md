@@ -9,3 +9,16 @@ The novel describes a pair of objects that balance both ends of the copy I found
 Clarke's novel joined the club of authors who sit on a bookshelf of the collection of all my books that were never finished to the end. For _2001_, The lunar object was this seam that joined two realities: one on earth and the other side was some location beyond the moon. If the movements of those three locations are easy enough to visualize, then an interest in the way they might project another shape as a silhouette the system might have from a light pointed at the sun from another star.
 
 The brilliance continued for me with empathy when the character on earth sat to wonder about the discovery. Those terrestrial thoughts signaled an arc of the lightning in the clouds that delivered a new understanding regarding my resulting perception of the interventions of our reality that seems to be created by the mind of our species.
+
+
+...
+
+If our art has an identity then the quickest way to show this is in difference and always something else.
+
+One sentence is not bad, but that is also just a jk tossed into the wire like a read receipt. Would that be like flying a kite? If there is wind enough of an excuse to tie a string to a metal key and, though the wire, the auto tiller of your mind that will see other strings. They are on your sail for something that distraction does the best job to describe a a new moment, but still lacks a complete definition. The Dictionary is safe because we can just call the distraction love because what else could be leading your faith?
+
+How many much can you draw from an idea? How easy is it to resist the obvious favoritism in the space other than the location of your preference? The idea here is that you, myself, nor the reader will see the distraction. What about the fishing pole? Aside from what is fished, is the sea not glimmering an infinite amount of chimes of light that are infinitely different from an infinite number of spaces? This should suggest that the absurdity in expecting anything outside the space of the artistic identity is one and two is found in now turning to see the remainder. What is outside the artistic identity other than the way you will describe them to each other? What if the idea of the last question was only possible by the game of catch or something digital like two mirrors in attention of each other.
+
+If we cannot draw a blank on paper, then is the blank you are drawing in your mind just like mine at the moment. I feel like Forrest Gump right now when he just decided to stop running all over the place. May I suggest that the, lol, has something to be said about its similarity of the same moment that measured a marathon?
+
+lol, can be the word to represent the arbitrary decision you will make that that is something only found within beauty. Moving to discredit the notion of chance, will be in two acts, then.

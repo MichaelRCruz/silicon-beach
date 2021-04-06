@@ -1,5 +1,9 @@
 # Behind Every Man
 
+How could we consider of the idea to leave for any other planet if we cannot maintain a source of truth here on Earth? Imagine space travel. Would you trust _anything_ you heard from home? Eventually your crew will not trust anything they heard from earth without God. That is a long road, but the steadfast nature and approach to the maintenance of the truth would be levels above more encouraging for a space endeavor. How about we do that, but consider questions like the following.
+
+If song could be copied and autonomously created by machine, where is the human identification? Do our artificially intelligent friends have a vibe? What does their music sound like? Could we find a signature to go along with our signals. Does the universe require certificates of authority? What if we started using one, just in case?
+
 The first bookstore, for myself as a kid, opened their doors for the suburb where I grew up. On my first visit there, the browsers inside were scanning the tables holding the place of the furniture that had not yet arrived. This time, the register rang up half of what I expected the cost to be. Prior to holding the receipt, I could feel something that had more room to grow. Perhaps that is what curiosity does for us as the potential growth carved space for itself in the future.
 
 Science Fiction was alright mostly, but, that means no such thing to a ship without such implications. A film is a longer read compared to a hardcover copy based on a screenplay by Stanley Kubrick and Arthur C. Clarke. After reading the first words of, _2001 a space odyssey_, the suspicions may have missed myself much of something else, but science fiction was alright mostly.
