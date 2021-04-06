@@ -38,6 +38,12 @@ All the good ones are never yours unless you were born to have it was my experie
 
 ### Banks in America
 
-This is where it gets really bad because I get to let you look at documents. Instead of comments I can just let them speak for themselves. Why did they have two different formats to download them in?
+This is where it gets really bad because I get to let you look at documents. Instead of comments I can just let them speak for themselves.
 
-You can find a zip file of the record of transactions according to Bank of America in this repository in `centerfold/drive-download-20210406T091816Z-001.zip`.
+You can find a zip file of the record of transactions from Bank of America in this repository in `centerfold/drive-download-20210406T091816Z-001.zip`. Let that take down all banks.
+
+### Telecommunications in America
+
+This is where it gets really bad because I get to let you look at documents. Instead of comments I can just let them speak for themselves.
+
+You can find a zip file of information from Wikipedia & Twilio in this repository in `centerfold/drive-download-20210406T094741Z-001.zip`. Let that take down all communications.
