@@ -23,3 +23,5 @@ If the balls were bouncing around like the DvrD logo, and the baseball players w
 The two-dimensional shapes of this concept of each stage in that one wood carving would be a square, a circle, and a triangle. Those are the three in their _first order_ ending after some process, then again with the process to start with the first shape of the _second order_. This is the second cube, but smaller.
 
 Making comparisons seems to help in the land or _ors_ & _ands_. What will nature tell you about the comparison of a square and a triangle. How could the art in the ending scene with the square pool inspire you to learn from nature? The list the fundamental differences will be the goal to conclude the comparison of the square & the triangle. The DVrD logo still works here.
+
+...brb
