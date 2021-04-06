@@ -38,18 +38,6 @@ All the good ones are never yours unless you were born to have it was my experie
 
 ### Banks in America
 
-You fuckers! This is where it gets really bad because I get to let you look at documents. I can number my comments according to a set of bank statements. The more words there the better, but know that I will use the comparison of transactions if that is a thing you all study already, cool, if not, hooray.
+This is where it gets really bad because I get to let you look at documents. Instead of comments I can just let them speak for themselves. Why did they have two different formats to download them in?
 
-...brb
-
-#### The Hold Up
-
-#### The Economics
-
-#### The Interest & The Internet
-
-#### Central Banking
-
-#### The Fiat Currency
-
-#### The Fiat Citizens
+You can find a zip file of the record of transactions according to Bank of America in this repository in `centerfold/drive-download-20210406T091816Z-001.zip`.
