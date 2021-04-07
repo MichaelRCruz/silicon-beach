@@ -22,62 +22,6 @@ According to its silhouette, the form is projected on to the ground by light as 
 
 Orientation arrives to its origin as echoes in the mountains from the songs of angels singing a duet at the same space & at the same moment. This light in your imagination shines a premonition into your ears when you are lost. When you are art, the light shines a premonition. Are premonitions the perspective of relativity. Is Albert Einstein and Nikola Tesla _each-other_ to each other like Issac Newton & Gottfried Leibniz prior to their discoveries of the derivative & the integral.
 
----
-
-###### Figure 2, Specification, in draft
-\***cummulative**
-
-|**fig. 2**||||||
-|:-:||||||
-|**illusion**|the objects|the people|the tree|the water|the stone|
-|shadow|x|x|x||x|
-|reflection||x||x|x|
-
-###### Figure 3, Perspectives, in draft
-\***cummulative**
-
-|**fig. 3**|||||
-|:-:|||||
-|**perspective**|you|myself|the reader|
-|distance|||x|
-|time|||x|
-|light|||x|
-|form|||x|
-|location|||x|
-|presence|||x|
-|light|||x|
-|---|
-|you|x||||
-|myself||x|||
-|the reader|x|x|x|
-
----
-
-###### The Tessellation
-
-\* **in draft**
-
-||||||||
-|-|-|-|:---:|-|-|-|
-|ii art|||`f(n)`|||art i|
-|~~is~~|is||||is|~~is~~|
-|||enumeration||enumeration||
-||||people||||
-||||moon||||
-||||earth||||
-||||`f(x)`|||
-||||you||||
-||||myself||||
-||||reader||||
-|||enumeration||enumeration||
-|~~is~~|is||||is|~~is~~|
-|!!! art|||`f(n)`|||art !!!!|
-|||||||
-
----
-
-If you _are not_ careful, intervention will appear antagonistic. If you _are_ careful, intervention will appear antagonistic. How do we know with certainty? If you are not careful intervention will _appear_ antagonistic. If you are careful intervention will _not appear_ antagonistic.
-
-If nostalgia is not felt, then timeless is a word that tells the truth untold by omission.
+From the perspective of the women, the painting frames you in to `a` - `down` - `right` - `select` - `left` - `start`. How many rivers flow north? To assume the river in the painting is flowing south is one bearing we have on our location. The sun projects light from the east over the river. That would imply sunrise. With that second bearing the location is revealed with the intent of the women in the painting. If they are calling for a return home, does that mean this is actually sunset? If it is sunset, then is this the Nile River? If this is the Nile River, then is this in Egypt. If this is in Egypt, then who are they? If they are, then how did they find me?
 
 ...brb
