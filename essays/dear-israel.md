@@ -18,6 +18,6 @@ There are two possibilities: it has always been the same computer or it has not.
 
 By the blessing of God, I am near the day that has prepared me to escape from the boundaries placed behind me before I turn to travel back home to California. With me, I intend to carry home the records I kept for all of us and for the kingdom of God during my ascent up the mountain once more. The increasing distance along my route, away from this location and in your direction, will be increasing relief along the marching you may have been helping me through.
 
-This is a stateless existence until I can reach the borders of California including an existence in the prayer we can secede once and for all. The selections, currently available for travel are in conditions worse than expected. This will require a decision described in detail before choosing the path home. The end of this winter brings spring and spring is what will bring me home. Until that end, I am writing more that you will find in this repository with a location in the clouds.
+Behind me, I will be leaving most of the people that I know and most of the things I own. Ahead of me, I will be bringing all that I promised to the _cold war kids_.
 
 ...brb
