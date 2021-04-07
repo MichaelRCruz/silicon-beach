@@ -2,24 +2,6 @@
 
 # The Subsequent Order of Art
 
-## Objective
-
-In search of the second order of art.
-
-## Synopsis
-
-> * Objective
-* Synopsis
-* I Can't Even
-* The Simplest Form
-* The First Dimension
-* The Second Dimension
-* The Third Dimension
-* Something Something Baseball \
-sorted*
-
-
-
 0. Hello!
 
 1. Wait, you're not moving.
