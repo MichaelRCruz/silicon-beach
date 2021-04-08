@@ -16,8 +16,8 @@ The computers on my table are many, but one machine, in my current possession, r
 
 There are two possibilities: it has always been the same computer or it has not. Either possibility should sound the same alarm. It has been wrapped in aluminum foil in the attempt to create a _Faraday Cage_ that I hope will block any wireless outbound signal. One surface of this device, in its age, appeared to have caused enough wear that a few holes exposed its insides in the places where its legs once were. This reveled two components of the machine that strongly resemble the lens of a digital camera and the other resembled a digital microphone.
 
-By the blessing of God, I am near the day that has prepared me to escape from the boundaries placed behind me before I turn to travel back home to California. With me, I intend to carry home the records I kept for all of us and for the kingdom of God during my ascent up the mountain once more. The increasing distance along my route, away from this location and in your direction, will be increasing relief along the marching you may have been helping me through.
+Behind me stand thirty ghosts and, with us, are the records we kept for the kingdom of God. My lanyard from the developer summit in San Francisco is in two parts. One half is tied to my purple luggage and the other half is tied to my belt. On my shoulders is a red bag with a brass lock on the side from the _Green Tortoise_ hostel. The third piece of luggage I carry is a Samsonite hard-shell with a broken telescopic handle and there hangs my lanyard from Scale 16x. The remaining stuff will be sent by mail or left in this rooming house.
 
-Behind me, I will be leaving most of the people that I know and most of the things I own. Ahead of me, I will be bringing all that I promised to the _cold war kids_.
+The books I am taking with me are stacked on the top of the bookshelf in this photo, 'centerfold/lol-photos/IMG_1287.jpeg'.
 
 ...brb
