@@ -22,6 +22,10 @@ Behind me stands thirty ghosts. With us are the records we kept for the kingdom 
 
 . . .
 
-After the rain stopped, I left the rooming house. My current location is an Intermodal Station. My preference is the train.
+One day I woke up and the key looked different to me. The key fit better. The surface was aged. The scratches brought me back in time. The first temple of Solomon had lamps that glowed yellow, brown, and orange onto the stone walls, however, that was all I pictured. That is always how I imagined the first temple to look like. This key was placed in my luggage before it was tied to my belt. It was tied to my belt before it was on my hand.
+
+. . .
+
+Amtrak would not sell me a ticket for cash so I used cash for the other option instead - the bus. Leaving for Chitown at forty-five minutes passed the hour of seven o'clock.
 
 ...brb
