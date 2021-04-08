@@ -1,3 +1,5 @@
+![bookshelf](/centerfold/lol-photos/IMG_****.jpeg)
+
 # Dear Israel
 
 These words are my request for the guidance and the support regarding the secession of California. This is an urgent call for identity, a search for domain, and a quest for artistic integrity of all nations.
@@ -18,6 +20,14 @@ There are two possibilities: it has always been the same computer or it has not.
 
 Behind me stand thirty ghosts and, with us, are the records we kept for the kingdom of God. My lanyard from the developer summit in San Francisco is in two parts. One half is tied to my purple luggage and the other half is tied to my belt. On my shoulders is a red bag with a brass lock on the side from the _Green Tortoise_ hostel. The third piece of luggage I carry is a Samsonite hard-shell with a broken telescopic handle and there hangs my lanyard from Scale 16x. The remaining stuff will be sent by mail or left in this rooming house.
 
-The books I am taking with me are stacked on the top of the bookshelf in this photo, 'centerfold/lol-photos/IMG_1287.jpeg'.
+The books along for the trip are stacked on the top of the bookshelf in this photo, '/centerfold/lol-photos/IMG_1287.jpeg' and one other.
+
+* Understanding Symbolic Logic
+* Essential Calculus
+* The Book of Things
+* Zone One
+* Space and Beyond
+* 2001: A Space Odyssey
+* No One Asked For This
 
 ...brb
