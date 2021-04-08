@@ -20,7 +20,7 @@ There are two possibilities: it has always been the same computer or it has not.
 
 Behind me stand thirty ghosts and, with us, are the records we kept for the kingdom of God. My lanyard from the developer summit in San Francisco is in two parts. One half is tied to my purple luggage and the other half is tied to my belt. On my shoulders is a red bag with a brass lock on the side from the _Green Tortoise_ hostel. The third piece of luggage I carry is a Samsonite hard-shell with a broken telescopic handle and there hangs my lanyard from Scale 16x. The remaining stuff will be sent by mail or left in this rooming house.
 
-The books along for the trip are stacked on the top of the bookshelf in this photo, '/centerfold/lol-photos/IMG_1287.jpeg' and one other.
+##### gray luggage
 
 * Understanding Symbolic Logic
 * Essential Calculus
@@ -28,6 +28,76 @@ The books along for the trip are stacked on the top of the bookshelf in this pho
 * Zone One
 * Space and Beyond
 * 2001: A Space Odyssey
-* No One Asked For This
+* Plane Talk
+* modem
+* antenna
+* seven light bulbs
+* harmonica, key of D
+* Chromecast
+* ream of photo paper
+* turntable platform with mat
+* nautical flag
+* pack of Zig-Zags
+* deck of playing cards
+* sling
+* set of Sharpie markers
+* reading lamp
+* sketch book
+* virtual reality headset
+* ethernet cable
+* three-sided measurement stick
+* Apple TV power cord
+* USBc touchbar charger
+* metronome
+* digital tuner
+* wireless mouse
+* McFlurry Spoon
+* pair of drumsticks
+* phone charger iPhone 11
+* electric razor
+* broken spectacles
+* wireless keyboard
+
+##### person
+
+* earbuds
+* 4TB external hard drive
+* iPhone Xr
+* wallet
+* keys
+* space pen
+* Bic pen
+* stylus
+* identification card
+* bank cards
+* California MediCal card
+* personal hotspot
+
+##### red bookbag
+
+* deodorant
+* razor
+* toothbrush and paste
+* the old & the new testament
+* _No One Asked For This_
+* my diaries (4)
+* Google Pixel Slate
+* Apple iPad
+* wireless keyboard
+* wired keyboard
+* external battery
+* birth certificate
+* sim cards
+* jump drive
+* spoke card
+* dongles
+
+##### purple luggage
+
+* the stuff
+* Apple TV
+* two Phillips bridges
+* old-school cell phones
+* TI-83 Plus and cable
 
 ...brb
