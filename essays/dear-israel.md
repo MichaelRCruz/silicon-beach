@@ -19,3 +19,9 @@ The computers on my table are many, but one machine, in my current possession, r
 There are two possibilities: it has always been the same computer or it has not. Either possibility should sound the same alarm. It has been wrapped in aluminum foil in the attempt to create a _Faraday Cage_ that I hope will block any wireless outbound signal. One surface of this device, in its age, appeared to have caused enough wear that a few holes exposed its insides in the places where its legs once were. This reveled two components of the machine that strongly resemble the lens of a digital camera and the other resembled a digital microphone.
 
 Behind me stands thirty ghosts. With us are the records we kept for the kingdom of God. My lanyard is in two parts. One half is tied to luggage and the other half is tied to my belt. On my shoulders is a red bag with a brass lock on the side. The third piece of luggage I carry is a gray hard-shell with a broken telescopic handle. My other lanyard from Pasadena is tied to that one. The remaining stuff will be left in this rooming house.
+
+. . .
+
+After the rain stopped, I left the rooming house. My current location is an Intermodal Station. My preference is the train.
+
+...brb
