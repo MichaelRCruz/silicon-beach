@@ -28,4 +28,6 @@ One day I woke up and the key looked different to me. The key fit better. The su
 
 Amtrak would not sell me a ticket for cash so I used cash for the other option instead - the bus. Leaving for Chitown at forty-five minutes passed the hour of seven o'clock.
 
-...brb
+. . .
+
+I did not take the bus. The number above the door did not have an "IL" like the other one. I am at the train station in the city north of Chicago set to depart at 7:10 in the morning.
