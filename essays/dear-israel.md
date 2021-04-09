@@ -20,15 +20,9 @@ There are two possibilities: it has always been the same computer or it has not.
 
 Behind me stands thirty ghosts. With us are the records we kept for the kingdom of God. My lanyard is in two parts. One half is tied to luggage and the other half is tied to my belt. On my shoulders is a red bag with a brass lock on the side. The third piece of luggage I carry is a gray hard-shell with a broken telescopic handle. My other lanyard from Pasadena is tied to that one. The remaining stuff will be left in this rooming house.
 
-. . .
+My destination is Pasadena, my origin is Milwaukee, and my stop is Chicago. The bus leaves at 07:10 AM, CT for Chicago. Posting pictures of tickets to social media.
 
-Amtrak would not sell me a ticket for cash so I used cash for the other option instead - the bus. Leaving for Chitown at forty-five minutes passed the hour of seven o'clock.
+https://instagram.com/thenews_is
 
-. . .
-
-I did not take the bus. The number above the door did not have an "IL" like the other one. I am at the train station in the city north of Chicago set to depart at 7:10 in the morning.
-
-. . .
-
-22:26
-There is a second, ~~ed25519~~ SHA256, created for my GitHub account set up approximately one third of approximately one twenty-fourth of a day ago. This brings the total of two ~~ed25519~~ SHA256s.
+Love,
+Michael

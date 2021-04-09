@@ -1,8 +1,5 @@
 # The Key
 
-One day, this key looked different. This key fit different. This key felt different. This key is different. For myself, all is different. If my key and myself were a paired representation, guess the difference maker. If you guessed that _the key_ was the difference maker, then will you draw what you see? If you guessed that _I_ was the difference maker, then will you draw what you see? If you guessed _no such thing_ was the difference maker, then will I draw what I see? The answer is yes, but are you still watching a paired representation of this key and myself or are you still watching this key and myself?
-
-
-. . .
+There is a key that I wear on my left hand that showed me this pattern. Some days I look at my hands. I look at my legs. I look at my feet. I look at my teeth. I look at my elbows. I look at my lungs. I look at my shoulders. I look at my nostrils. I look at ears. I look at my thumbs. I look at my knee caps. I look at my arms. I look again at my hands and I see art. Why am I allowed to see the intention of our creator more than I could yesterday? I ask myself this, but slowly I am learning why. An example of how I found this pattern lives like this.
 
 ...brb
