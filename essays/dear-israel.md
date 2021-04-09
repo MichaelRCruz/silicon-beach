@@ -26,3 +26,5 @@ https://instagram.com/thenews_is
 
 Love,
 Michael
+origin romonas
+maplewood and 8th street a neighborhood close to skyline gas station
