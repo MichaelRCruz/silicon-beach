@@ -31,4 +31,4 @@ I did not take the bus. The number above the door did not have an "IL" like the 
 . . .
 
 22:26
-There is a second, `ed25519`, created for my GitHub account set up approximately one third of approximately one twenty-fourth of a day ago. This brings the total of two `ed25519`s.
+There is a second, ~~ed25519~~ SHA256, created for my GitHub account set up approximately one third of approximately one twenty-fourth of a day ago. This brings the total of two ~~ed25519~~ SHA256s.
