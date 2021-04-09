@@ -30,4 +30,5 @@ I did not take the bus. The number above the door did not have an "IL" like the 
 
 . . .
 
-...brb
+22:26
+There is a second, `ed25519`, created for my GitHub account set up about one third of about one twenty-fourth of a day ago. This brings the total of two `ed25519`s.
