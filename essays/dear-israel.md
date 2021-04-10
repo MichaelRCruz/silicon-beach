@@ -28,3 +28,5 @@ Love,
 Michael
 origin romonas
 maplewood and 8th street a neighborhood close to skyline gas station
+I am at the hotel. Luggage is back at Romonas
+there is construction projects on the first floor
