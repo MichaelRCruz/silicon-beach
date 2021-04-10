@@ -33,4 +33,4 @@ __The tenth of a month in spring they call April__
 
 I am copying off a text I sent to my old phone number. I had to do this because Cheryl turned off the service with a switch she made with another. I am in this place they call hotel oscar telephone electric lima, this page is intentionally left blank, alpha sigma telephone oscar roger.
 
-If there is a person that calls themselves, Michael and ordered take-out a few moments ago, then I that may be my identity theif. I know because if that is true, then I am in the lobby of the theif.
+If there is a person that calls themselves, Michael and ordered take-out a few moments ago, then that may be my identity thief. The lobby of the building of the location of the suspect is where I might be the moment following the one that tags this commit.
