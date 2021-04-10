@@ -26,7 +26,11 @@ https://instagram.com/thenews_is
 
 Love,
 Michael
-origin romonas
-maplewood and 8th street a neighborhood close to skyline gas station
-I am at the hotel. Luggage is back at Romonas
-there is construction projects on the first floor
+
+Posy Script
+
+__The tenth of a month in spring they call April__
+
+I am copying off a text I sent to my old phone number. I had to do this because Cheryl turned off the service with a switch she made with another. I am in this place they call hotel oscar telephone electric lima, this page is intentionally left blank, alpha sigma telephone oscar roger.
+
+If there is a person that calls themselves, Michael and ordered take-out a few moments ago, then I that may be my identity theif. I know because if that is true, then I am in the lobby of the theif.
