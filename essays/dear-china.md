@@ -30,6 +30,6 @@ When we both logged in, I did not take off my lanyard. I caught you looking _at_
 
 . . .
 
-The two ways of translation on the internet, that I paid attention to, is the one used by Wikipedia and the other way through the browser that translates any site you visit. In the spirit of transparency, I was initially skeptical of Wikipedia's strategy, but after some effort, their strategy seemed superior to the browser way, but also not. This is intentionally unhelpful because I still rest without conclusion. I think we still have not realized the best solution for this despite the current progress.
+The two ways of translation on the internet, that I paid attention to, is the one used by Wikipedia and the other way through the browser that translates any site you visit. In the spirit of transparency, I was initially skeptical of Wikipedia's strategy, but after some effort, their strategy seemed superior to the ways of the browser, but also different. This is intentionally unhelpful because I still rest without firm conclusion. I think we still have not realized the best solution for this despite the current progress and here is why.
 
 ...brb
