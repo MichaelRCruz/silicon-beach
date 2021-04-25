@@ -14,9 +14,13 @@ The novel describes three objects that brings balance to the beginning, the midd
 
 In _2001_, the lunar object, the terrestrial object, and the _extra_ terrestrial object were the seams that join three realities. If the movements of those three locations connected as one entire system, it might help to visualize them as a deck of cards that can cast their own shadows all alone, but all together, the moments on each card stack up to a full deck that changes shape just enough to cast a more complicate shape on the wall.
 
+. . .
+
 Empathy with the character on earth sitting in wonder about their discovery watered a seed that sprouted branches of wisdom that once laid on their back covers prior to the conception of those terrestrial thoughts. They signaled an arc of lightning of the clouds that stormed a new understanding regarding my resulting perception of the interventions of our reality. That seems to be a destiny created by the mind of our species. Towards that destination you may pick a card, any card, and God will make sure that if one falls to the floor, He will carry it back to the stack that the cards belong to.
 
 The final scenes of that film will toss a blend of thoughts that I hope will distribute any risk of horror that I might feel. Perhaps this is as an emotion that the filmmaker intended for me to find within myself and also a familiarity with what I remember.
+
+. . .
 
 ## carbon copy
 
@@ -24,11 +28,20 @@ Parallelism must have been the word I needed to describe the connections in all 
 
 That day of concentric circles of time must have been these new parallelisms also in my letter to Israel about the west Pacific and the east Atlantic oceans. Their retainment with the lines that divide and the lines that bind. My boat tipped from one of those waves and I fell asleep under the one of those recollections of that maple tree where no others grew.
 
+. . .
+
 ## blank carbon copy
 
-Practically speaking, I did not get the physics of sailing on the lesson they were first described to me. I got them eventually and they went like this.
+For one particular sailing lesson we talked about the physics of sailing, but after he described it, I _did not_ get it. I was a little bummed out because it was the first real attempt I made towards such an inquiry. Maybe I should have looked it up. I have this vague notion the instructor actually reassured me I would just figure it out one day. He then doubled bagged that truth in paper without bothering me with the alternative selection of plastic because he knew what _he_ would pick was what _I_ would pick. What I _did_ get was the impression that he fully understood the physics of sailing, but he somehow knew I was not going to understand that day even if he explained it to me _ad nauseam_.
 
-That was the wind that filled my sails and then I was no longer in irons. My body straightened out more, I looked in the direction of two on the wind clock one sid e of my boated lifted, and the sheet in my hand asked for more so I let go of it for an instant and the main sail snapped me to more than two, then to three. This release gradually turns you down or up the wall of the inside of a spinning top. The bow of your boat sweeps through the wall after you come about to the other side and the ocean and its earth beneath you have adjusted to your imagination.
+. . .
+
+The wind filled my sails and then I was no longer in irons. There is a something called a block. My body straightened out more in anticipation. I looked in the direction of 2pm on the wind clock then suddenly port side lifted, and the sheet in my hand asked for more so I let go of it for an instant and the main sail snapped my bow into a wider position compared to 12pm and now I was pointed through three o'clock.
+
+
+
+
+This release gradually turns you down or up the wall of the inside of a spinning top. The bow of your boat sweeps through the wall after you come about to the other side and the ocean and its earth beneath you have adjusted to your imagination.
 
 A boat not under any wind power is like it looks. If you can see it just sitting there when the wind blows how does the boat move because I wondered what the first person that kinda figured it all out was feeling. Some one put the whole thing together and a miracle happened. What else is there except one more thing. When you finally built the boat would you say if the number of iterations meant anything to you? I can almost see you getting there fewer than expected because you must have could already see the twist of the boat against another twist the other way. If they braid, then those must be the two sides to take for one path. Through the eye of the wind, your bow goes back to the side across what you read as 2 and then 1 and then you read it back to yourself as 1 and then 2. So the third is twelve and 21 just in case.
 

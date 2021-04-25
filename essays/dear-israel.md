@@ -1,4 +1,4 @@
- ![bookshelf](/centerfold/lol-photos/IMG_****.jpeg)
+![bookshelf](/centerfold/lol-photos/IMG_****.jpeg)
 
 # Dear Israel
 
