@@ -1,10 +1,42 @@
 # Another Planet
 
-Beginning with the Eve of Christmas through the Eve of Passover, there was a chair I inadvertently left
+Beginning with the Eve of Christmas through the Eve of Passover, there was a chair I inadvertently left unoccupied for the ghost that lived across the hall. When I was captured, the box they put me in bends light enough to create a world that behaves in strange and unexpected ways just like the little bird said can happen one day on the Internet where I am from. The day I planned to leave for the ~~train~~ terminal I found a ~~train~~ terminal with no AM radio. I marched my gear stuffed with the wealth in a cube I promised to bring for the _Cold War Kids_ and for all of history. The pages within those book covers tell the story of the moon, the stars, and the door I opened to the back lot where the servants worked.
+
+movement is art
+````wonder
+that movie is art
+````wonder
+_is_ is art
+````wander
+{ 1 - is^2 = 0 } === absolution
+ಠ_ಠ == look of disapproval
+
+DOTS <~~ the motel room of _Space Heater_
+STOP <~~ the asteroid belt of space-hater
+
+ಠ_ಠ == look of bewilderment
 
 ...brb
 
-The day I planned to leave for the terminal I found a train with no AM radio. I marched my gear stuffed with the wealth I promised to bring for the _Cold War Kids_ and for all of history. The pages within those book covers tell the story of the moon, the stars, and the door I opened to the back lot where the servants worked.
+. . .
+
+If you were to go blind, like an image in the universe, would you want to know absolutely how you perceived what you drew `side-quest` or is laziness the cause of the delay.
+
+```
+side-quest:
+```
+
+She could sense he was settled on one side of himself in all spaces save one, his port eye. The model, Adam, was unaware of most other orientations outside the duality of human people, but for, her himself and the orator, emotional intellect was the telescope she shipped him through time, but 99 was plenty of shine, for Eve to see him sailing on the unlocked horizon and Michael never knew his sight was locked away in a yellow locker that had no business in a grocery store.
+
+On the surface of the next moment is why Eve was so effective against _no such thing_ and precisely how she met her friend and sister and neighbor and her brother and hers. She played a song before she popped a cap in that ass so quickly she missed the heart, according to the recording, but hit the rose hue shinning in the eye mirrored to Eve. She aimed off the reflection of the sea and could feel the center of refraction like the adjustment for the delay on a stereo system signaling a satellite speaker.
+
+On the sailboat that Adam built, in his free time, he stowed the first book he wrote. In Santa Monica, Adam & Eve drove through the hills and parked in the space the _two_ of them preferred like they did in school. On the way he wondered if this summer could be Eve and better so he brought snacks. His ideas for the future was about the trees grew in the crust of his ideas. That complimentary texture is how he liked to visualize his thoughts so he painted that way for her. She asked about conception and he began to describe how his creativity was part himself and part inspiration at the moment God explained the birds and the dinosaurs in a letter.
+
+When the sun rose that morning, Adam remembered they never closed the loop on the plans Adam wound around two balls that Eve felt exclusively as premonition, and also in that moment, learned he would always be inclined to gather space for greater than two, and the language, and the names to go along with their kitchen. As their bells rang through the night and on the drive home, tessellation was now in its true version for the reasons of git, init, and the terminal of Adam.
+
+...brb
+
+
 
 . . .
 
@@ -51,11 +83,24 @@ Eve sketched, "we are running out of shit" on the surface of her jet-black addre
 
 . . .
 
+
+```
+###### Story Starter
+
 Imagine if a fisherman cast a line out to sea
 
+### Fluff
 
-partial sophistication & complication in language evudenced by room for contraction or disarray in interchanging coincidence
-
+`partial` --> energy
+`sophistication & complication` --> horse play
+in
+`language` --> operating system
+`evidenced` --> measurement
+`by room for` --> the deal
+`contraction or disarray` --> consideration
+in
+`interchanging coincidence` --> poem
+```
 
 ```text
 # squared roots
@@ -187,4 +232,38 @@ creating them
 presentations of
 his...
 _Woman_.
+```
+
+```
+On the
+far side
+of me
+was still
+you & I
+was still
+that blue sky
+was still
+that red bag
+was still
+that white cloth
+was still
+that green line
+was still
+that black coat
+was still
+that gray smoke
+was still was
+that gold key
+still was
+that blue smoke
+still was
+that red coat
+still was
+that white line
+still was
+that _green_ cloth
+still was
+that black bag
+still was
+that gray sky
 ```
