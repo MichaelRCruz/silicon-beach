@@ -20,21 +20,38 @@ This was a grade school. That Halloween thing we did, as children, just seems ve
 
 That day was the first time I saw myself outside my _self_. She turned off the lights to add fright to the mood of the classroom, but it was the first time I was ever perplexed, I think. I was two perspectives in that moment as if a ghost lifted out of my body. I watched from above as they passed around that paper bag with me sititng in a semi-circle. The escape warped my peripheral vision as my ghost kept watch. The movement, the reverse, and the ascent.
 
-Clement Avenue was my school up until, and including, the second grade. We played kickball at recess and the multiplication and division I was doing in kindergarten set me apart from the other students, but only for a moment. The reason for my sweet math skills before first grade was because of those mayth books for sale at the grocery store. This would mean these were my first textbooks. That is pretty cool.
+Clement Avenue was my school up until, and including, the second grade. We played kickball at recess and the multiplication and division I was doing in kindergarten set me apart from the other students, but only for a moment. The reason for my sweet math skills before first grade was because of those math books for sale at the grocery store. This would mean these were my first textbooks. That is pretty cool.
 
 . . .
 
-The more I look back, the more my memories become something else. If that is true, then perhaps recollection is precisely as its name space intends to contain - the action of collecting all that has been overlooked or misunderstood in your past. Assuming that type of introspection has scope, the new interpretation of any given moment of your life will add to another. This process might then be a new balance. Writing this now provides a deeper understanding of the visualization I imagined for your atlas - the tessellation of color, of form, and of light.
-
-There are a few more of these that are worth sharing, but what is the cause of this imagery we have in our minds in memory. The first time I prayed for anything was in that childhood home. The two of us were kids, my cousin and I, but we wanted some chocolate milk. There is no memory I have of learning how to pray, nor can I claim that nobody showed me how, but I did. It was clear to me, then, that no chocolate milk was provided for us while we played together that day nor was there any chocolate milk available at home on a regular basis. So, I prayed for it. It happened with little effort because the two of us were already on our knees playing with some toy cars or something, but I remember putting my hands together and asking God for some chocolate milk. My cousin watched as I did this, but when I open my eyes and looked up, he was smirking in an intriguing way probably wondering what was next. In the kitchen, I found it where I expected. The joy I had was unforgettable.
-
-As kids do, we hurried to find our cups to sit down, but this miracle provided something else for the two of us other than the milk. He asked me how. It felt good to show him how to pray. Maybe he asked hoping to just talk about it. The recollection of this moment is recalled through him. As in, when I begin to remember this prayer, I see it through his eyes exactly where he was with me in that hallway with the toy cars scattered about. When I stood up and headed for the kitchen the memory returns to my own perspective. The beautiful thing is that now I know. Those moments in recollection though the perspective of another is God in you, but it goes further than that.
+The more I look back, the more my memories become something else. If that is true, then perhaps recollection is precisely as its name space intends to contain - the action of collecting all that has been overlooked or misunderstood in your past. Assuming that type of introspection has scope, the new interpretation of any given moment of your life will add to another. This process might then be a new balance. Writing this now provides a deeper understanding of the visualization I imagined for your atlas - the tessellation of color, of form, and of light. There are a few more of these that are worth sharing, but what is the cause of this imagery we have in our minds in memory.
 
 . . .
 
-One day in Mexico, we were on vacation when I found a sailboat on the shore of the ocean. It was a small dinghy, a Hobie Cat to be precise, but there it was ready to launch. These boats are similar to catamarans in that they have two hulls with no keel. The lack of a keel is what defines a dinghy, i.e., a larger vessel, moored out in the water that cannot be brought ashore. This makes for a nice recreational type craft that seems to be designed for ease of use, learning purposes, and affordable repairs.
+The first time I prayed for anything was in that place on Howard Avenue. The two of us were kids, my cousin and I, but we wanted some chocolate milk. There is no memory I have of learning how to pray, but I did. It was clear to me, then, that no chocolate milk was provided for us while we played together that day nor was there any chocolate milk available at home on a regular basis. So, I prayed for it. It happened with little effort because the two of us were already on our knees playing with some toy cars or something, but I remember putting my hands together and asking God for some chocolate milk. My cousin watched as I did this, but when I opened my eyes and looked up, he was smirking in an intriguing way probably wondering what was next. In the kitchen, I found it where I expected. The joy I had was unforgettable even though it was the powdered kind of chocolate milk you have to mix yourself like sick beats.
 
-God was with me on that water in the Pacific Ocean the day my boat capsized. The boat is designed for sport and I was the only one aboard. The owner of the boat was happy to show me the lines, but first he had to teach some safety techniques. For example, how to recover from capsizing. He made sure I was aware of the halyard. The halyard is the line that hoists the the sail up towards the masthead, and how this line is then ran across the masthead sheave, that spins, allowing the halyard to run back down the mast and tied to a horn cleat and knotted with a cleat hitch.
+As kids do, we hurried to find our cups to sit down, but this miracle provided something else for the two of us other than the milk. My cousin asked me how I did that. It felt good to show him how.
+
+
+This means this was the first time being cool in my life.
+
+
+This means, between the two of us, I was the first to _be_ cool.
+
+
+Maybe he asked hoping to just talk about it. The recollection of this moment is recalled through him. As in, when I begin to remember this prayer, I see it through his eyes exactly where he was with me in that hallway with the toy cars scattered about. When I stood up and headed for the kitchen the memory returns to my own perspective. The beautiful thing is that now I know. Those moments in recollection though the perspective of another feels like God in me.
+
+. . .
+
+One day in Mexico, we were on vacation when I found a sailboat on the shore of the ocean. It was a small dinghy, a Hobie Cat to be precise, but there it was ready to launch. These boats are similar to catamarans in that they have two hulls with no keel. The lack of a keel means some things, e.g., a larger vessel, moored out in the water, that cannot be brought ashore has one. Boats with sails and lines, without a keel, are not _female_ boats. They are usually smaller in proportion and live like this, on land. This is me laughing my ass off when I say, in all seriousness, that a keel is heavy and helps to prevent capsize.
+
+_The day God tried to kill me_ is the same day I decided to use that as the best story prompt for you, myself, the reader, in jest, and as my new way of describibng the coolest thing I ever did, but should never do again. Since this is the _coolest_ story I will inslcude the details.
+
+The day God tried to kill me was on that water in the Pacific Ocean the day I chartered a boat with sails and lines that capsized.
+
+...brb
+
+The boat is designed for sport and I was the only one aboard. The owner of the boat was happy to show me the lines, but first he had to teach some safety techniques. For example, how to recover from capsizing. He made sure I was aware of the halyard. The halyard is the line that hoists the the sail up towards the masthead, and how this line is then ran across the masthead sheave, that spins, allowing the halyard to run back down the mast and tied to a horn cleat and knotted with a cleat hitch.
 
 In the event of a capsize, the main halyard can be used as leverage to right the boat. Imagine yourself in the water swimming towards your boat. That was me. I remember having so much fun on the way out with the warm water splashing up and sometimes your body temperature increases and sometimes your body temperature decreases. You felt where you belong, but then you wake up into another dream. Your eyes open and there is your boat about fifteen large ripples on the horizon. My right arm took the first plunge into the water, but before my hand touched the water, I knew these were not waves like the ones on Lake Mendota so I gave it all I could.
 
