@@ -6,24 +6,40 @@ The emotions, from those thoughts, were already showing on his face when his bod
 
 . . .
 
-She asked about what he thought about himself at this point in their adventure. In stride she knew and he knew too. There were two answers she liked for that question often asked for the sake of both of them during nights like these. Michael was feeling in the mood so he took her bait and began describing how his creativity was part himself, part inspiration from God, and part _her_.
+She asked about what he thought about himself at this point in their adventure. In stride she knew and he knew too. There were two answers she liked for that question of hers often asked for the sake of them both during nights like these. Michael was feeling in the mood so he took her bait and began describing how his creativity was part himself, part inspiration from God, and part _her_. She laughed because he already forgot what he was going to say, but then one day Michael learned his lesson. This was not forgetfulness resulting from one of Eve's lessons, but rather her constant reflection of his own thoughts that helped them get places faster. However, what Michael would always forget was that she was always on his side. His forgetfulness became more like a debouncer you would see in a web application maintaining the rate objects of notation fell down the spiral. In other words, figure A.
 
-...brb
+###### Figure A, decouncer
 
+```javascript
+// https://github.com/MichaelRCruz/ioa/blob/master/src/utils.js
+export function debounce(funk, wait, immediate) {
+  var timeout;
+  return function() {
+    var context = this,
+      args = arguments;
+    var later = function() {
+      timeout = null;
+      if (!immediate) funk.apply(context, args);
+    };
+    var callNow = immediate && !timeout;
+		clearTimeout(timeout);
+		timeout = setTimeout(later, wait);
+		if (callNow) funk.apply(context, args);
+  };
+};
+```
 
-They both imagined that art is the primal form of man, but who whispered that to whom? Their ninety-nine percent certainty was enough for them both. Their night followed them home by moon and by the rhythm of their march both ways all ways.
-
+At this distance of their march, perpendicular to _Route 66_, they found more of what they were looking for. They both imagined that art is the primal form of man, but who whispered that to whom and what did that mean? Michael reminded Eve, in her haste, that he was not supposed to know yet and Eve reminded Michael not to be quick to settle on the reason for her reminders as he often would mistake for a smirk. Their night followed them home by moon and by the rhythm of their march both ways. When they found a power outlet east of Santa Monica, Michael descirbed in English what they leanred from themselves and the other ghosts that followed.
 
 . . .
 
+...brb
 
 Emotional intellect was the telescope she found _http_ packets - the data Adam liked to send through the web.
 
 She aimed off the reflection of the sea and could feel the center of refraction like the adjustment for the delay on a stereo system signaling a satellite speaker.
 
 ...brb
-
-Michael is reasonable preference and seasonable emotion is Eve. The moon and the sun are two on the surface of their existence. Deeper, on the other side, is this turn. This turn is a documented objective model named, Adam, in the English translation of Genesis.
 
 Michael and Eve occupy the same space. To create life breathing for life is to create love breathing for love. If after life minus love is still life, then the grammatical intersection equals l & e. The inverse intersection is i-f & o-v.
 
