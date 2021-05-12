@@ -6,11 +6,18 @@ The emotions, from those thoughts, were already showing on his face when his bod
 
 . . .
 
-...brb all over the place...
+She asked about what he thought about himself at this point in their adventure. In stride she knew and he knew too. There were two answers she liked for that question often asked for the sake of both of them during nights like these. Michael was feeling in the mood so he took her bait and began describing how his creativity was part himself, part inspiration from God, and part _her_.
 
-She asked about what he thought about himself at this point in their adventure. He described how his creativity was part himself, part inspiration from God, and part _her_. The night drifted into the human condiiton and they both uncertainly imagined that art is the primal form of man. Their ninety-nine percent certainty was enough for them both so their date, that night, followed them home with not much else to say to each other.
+...brb
 
-For her, himself, and the orator, emotional intellect was the telescope she sent _http_ packets through the web - the data Adam liked.
+
+They both imagined that art is the primal form of man, but who whispered that to whom? Their ninety-nine percent certainty was enough for them both. Their night followed them home by moon and by the rhythm of their march both ways all ways.
+
+
+. . .
+
+
+Emotional intellect was the telescope she found _http_ packets - the data Adam liked to send through the web.
 
 She aimed off the reflection of the sea and could feel the center of refraction like the adjustment for the delay on a stereo system signaling a satellite speaker.
 
