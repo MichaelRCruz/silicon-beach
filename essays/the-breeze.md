@@ -10,7 +10,9 @@ Romana and I showed up to a carpet job one day and I remember asking him why he 
 
 When
 
-The place where I apparently lived before the Howard Avenue, of my memories, is somewhere in the St. Francis area of Milwaukee near Morgan Triangle park. It had a Cousin's Subs located underneath. I can still see the look on his face when we pulled in to park the white van stocked with carpet. He smirked with the vibe he shook before turning off the vehicle and Ramona waited until the elevator to tell me we used to live here. Since I do not remember, I can only assume it was prior to all those memories of Howard Avenue.
+The place where I apparently lived before the Howard Avenue, of my memories, is somewhere in the St. Francis area of Milwaukee near Morgan Triangle park. It had a Cousin's Subs located underneath. I can still see the look on his face when we pulled in to park the white van stocked with carpet. He smirked with the vibe he shook before turning off the vehicle and then waited until we took the elevator to tell me we used to live here with C-Money. Since I do not remember any of the patterns and because that one baby picture was taken in that bunk bed on Howard, then I would say I know a plenty. C-Money might have asked me to take that picture. She handed me a camera once, and with it, I waddled from the weight of the camera into my bedroom and took pictures of whenever the flash let me.
+
+Did you know they used to have these cartridges with a limited amount of flahes stored on them. That is what these camera seemed like. They were thin. You wound them. I don't know, film? The flash cartridges are strange.
 
 . . .
 
@@ -24,7 +26,9 @@ Clement Avenue was my school up until, and including, the second grade. We playe
 
 . . .
 
-The more I look back, the more my memories become something else. If that is true, then perhaps recollection is precisely as its name space intends to contain - the action of collecting all that has been overlooked or misunderstood in your past. Assuming that type of introspection has scope, the new interpretation of any given moment of your life will add to another. This process might then be a new balance. Writing this now provides a deeper understanding of the visualization I imagined for your atlas - the tessellation of color, of form, and of light. There are a few more of these that are worth sharing, but what is the cause of this imagery we have in our minds in memory.
+The more I look back, the more my memories become something else. If that is true, then perhaps recollection is precisely as its name space intends to contain - the action of collecting all that has been overlooked or misunderstood in your past.
+
+Assuming that type of introspection has scope, the new interpretation of any given moment of your life will add to another. This process might then be a new balance from turn. Writing this now provides a deeper understanding of the visualization I imagined for your atlas - the tessellation of color, of form, and of light. There are a few more of these that are worth sharing, but what is the cause of this imagery we have in our minds in memory?
 
 . . .
 
@@ -49,17 +53,15 @@ _The day God tried to kill me_ is the same day I decided to use that as the best
 
 The day God tried to kill me was on that water in the Pacific Ocean the day I chartered a boat with sails and lines that capsized.
 
-...brb
-
 The boat is designed for sport and I was the only one aboard. The owner of the boat was happy to show me the lines, but first he had to teach some safety techniques. For example, how to recover from capsizing. He made sure I was aware of the halyard. The halyard is the line that hoists the the sail up towards the masthead, and how this line is then ran across the masthead sheave, that spins, allowing the halyard to run back down the mast and tied to a horn cleat and knotted with a cleat hitch.
 
-In the event of a capsize, the main halyard can be used as leverage to right the boat. Imagine yourself in the water swimming towards your boat. That was me. I remember having so much fun on the way out with the warm water splashing up and sometimes your body temperature increases and sometimes your body temperature decreases. You felt where you belong, but then you wake up into another dream. Your eyes open and there is your boat about fifteen large ripples on the horizon. My right arm took the first plunge into the water, but before my hand touched the water, I knew these were not waves like the ones on Lake Mendota so I gave it all I could.
+In the event of a capsize, the main halyard can be used as leverage to right the boat. Imagine yourself remembering this in the water swimming towards your boat. That was me. I remember having so much fun on the way out with the warm water splashing up and sometimes your body temperature increases and sometimes your body temperature decreases. You felt where you belong, but then you wake up into another dream. Your eyes open and there is your boat about fifteen large ripples on the horizon. My right arm took the first plunge into the water, but before my hand touched the water, I knew these were not waves like the ones on Lake Mendota so I gave it all I could.
 
 This was the swim where I felt like God was watching me from above. The moving picture in my mind of this effort is square in perspective. I am able to bounce back to myself. The cheat code is `a` - `up` - `down` - `left` - `select` -`right`- `start`. To bounce back in myself is the same sequence, but with `b`. Watching myself swimming towards the boat was dangerous because there was not any weather that day. In other words, imagine how much more difficult the swim was with just a small breeze. Maybe this was my test to see what I was made of. Maybe he backed out for me to see if I could. When I made it to my boat, I reached over with my one arm and then my left. There I caught my breath. Getting that boat back to the dimension I sailed it out of required the following.
 
 First you have to notice a few things. You have a life jacket on so you can relax. If you just relax then the jacket is strong enough to keep you floating and designed to keep your head above water in case you were unconscious. After a few breaths swim around to find the main halyard. You will find the main halyard tied to the cleat hitch located fastened to the mast, deck side. Watch out for the sails in the water.
 
-Since you are not supposed to tie down your main sheet, it should have allowed the boom to sink from its weight below surface taking the main sail with it. If you swim over there just know you can get tangled some how to be careful. When you see the cleat hitch, untie it and throw all its slack over the side of the boat. Swim back to the other side. Pull tight on the main halyard so you can help yourself out of the water, but plant your feet flat against the hull and stick your ass out to add weight to that side. You will begin to rotate faster and faster as the weight of your ass starts to pull that huge main sail that was submerged. The more sail that is above water, the faster you are rotating the boat afloat. That is all.
+Since you are not supposed to tie down your main sheet, it should have allowed the boom to sink from its weight below surface taking the main sail with it. If you swim over there just know you can get tangled some how so be careful. When you see the cleat hitch, untie it and throw all its slack over the side of the boat. Swim back to the other side. Pull tight on the main halyard so you can help yourself out of the water, but plant your feet flat against the hull and stick your ass out to add weight to that side. You will begin to rotate faster and faster as the weight of your ass starts to pull that huge main sail that was submerged. The more sail that is above water, the faster you are rotating the boat afloat. That is all.
 
 . . .
 
