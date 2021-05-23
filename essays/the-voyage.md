@@ -1,5 +1,9 @@
 # Behind Every Man
 
+For a lexicon on earth, prepare for the abstraction of English down from the place it climbed to after it wrote all of the code on earth, twice. Our superficial intelligence climbed up the vernacular of one ship at night pirating the leading vessel of the regatta behind her. To the surprise of some other programming languages sailing for first place, English saw the reflection of itself in each and every one of the ships of the ligature. When the flying Vs split, neither of them could validate as W and everything stopped. One flock flew like they do as two, but no one knew.
+
+Space travel is way more dangerous than you might imagine. This occurred to me looking at simpler things, like light, and the ways it shines on earth in the dark. So, this is what I am thinking.
+
 How could we consider of the idea to leave for any other planet if we cannot maintain a source of truth here on Earth? Imagine space travel. Would you trust _anything_ you heard from home? Eventually your crew will not trust anything they heard from earth without God. That is a long road, but the steadfast nature and approach to the maintenance of the truth would be levels above more encouraging for a space endeavor. How about we do that, but consider questions like the following.
 
 If song could be copied and autonomously created by machine, where is the human identification? Do our artificially intelligent friends have a vibe? What does their music sound like? Could we find a signature to go along with our signals. Does the universe require certificates of authority? What if we started using one, just in case?
