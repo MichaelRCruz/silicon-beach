@@ -1,21 +1,11 @@
-# The Cokd War && The Cold Warriors
+# The Cold War && The Cold Warriors
+
+Dear Bradley N.,
 
 There is so much I can say about drugs, but you will find that _speaking from experience_ means no such thing to every kid in all of history. There is more about drugs than I will ever know. You all know I have done every _street_ drug except for one: methamfedamine. There was fortune I found in my life. East of the Mississippi, where I supposedly spent most of my life, had a different problem - opiates. The first one I tried was hydrocodone or hydrocodine. These chemicals were meant to alleviate pain. They do. They did. They can. They cannot. Rather than remove pain, opiates remove anxiety. Opiates removed _all_ anxieties of mine. This is not a justification nor is this a warrant for social arrest. My testimony, regarding the war on drugs lives like this.
 
 If they are teaching you that Marijuana is a _gateway drug_, then they are correct, but get that out of your schools, please, because that it takes two to conspire. After a drug-abuse resistance education, what will kids be like? After two police people in uniform, or in costume, finished my indoctrination about drugs, that school day, I got hooked on heroin at eighteen and got unhooked at twenty-two. No relapse, ever. Not even close!
 
+This essay is an attempt to appeal to the emotions of all the kids in the world. This is also my disclosure that I might be a hypocrite for writing this because of all the shit I gave your parents for bringing _their_ kids into the middle of a battlefield. With your permission, does it still make this right? To help me decide, I am going to turn my space pen into a one-hitter because I broke my glass pipe at the temple. I left those three peices of my pipe in the area meant for the homeless to gather, take shelter, take rest, and pray. There was nothing in my bowl to smoke, but a nice resin hit was what I was looking for until the glass met the floor of The Temple. Why does California call it Union Station and why is it against the rules for me to walk barefoot in there? Does anyone know who I am? Since it is up to me, then I will tell you who I am, but would you rather hear this from my creator?
+
 ...brb
-
-
-
-
-
-
-
-
-
-
-
-
-
-There was something odd about their disseminatiuon of information. Nobody cared about what they had to say until they _had_ to say it. 
