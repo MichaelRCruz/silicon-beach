@@ -1,12 +1,17 @@
-![centerfold > lolphotos > assets > the-rose](../centerfold/lol-photos/assets/the-rose.jpg)
-
 # The Rose
 
-There seems to be a **termination** obtainable for some objects. For others, the volumes of these objects seem to approach infinity. The visualization is quite illuminating if you can imagine a pair of dice, but each one, round to a perfect sphere. Reverse that film and we are back to the cube. The space removed could be the earth and the surfaces of the cube is your grid of satellites.
+There seems to be a **termination** obtainable for some objects. For others, the volumes of these objects seem to approach infinity. The visualization is quite illuminating if you can imagine a pair of dice. One of them carve to a perfect sphere, and the other, leave as is if and only if cubed. Reverse one of your observations, like you would with camera film, and we are back to the cube. The inverse space, that was removed with a carving blade, could represent the Earth. This may take a few tries before you can activate your imagination this way, but the surfaces of the cube is your grid of satellites like lint on a pair of yoga pants.
 
-Time and process have an end in this system, but they seem to be different. Maybe they are the other of each other. Try to find a song in the processing pattern of a four-sided pyramid and a cube. Would the utility of two objects have an absolute value greater than zero? Is there an inherent factor of multiplicity for an object in space? If there is a counterexample to this imaginative reasoning, then let me know.
+When you reach the point of no return you will be able to loop this transformation from a cube to a sphere easily. Try, though, with other shapes like a pyramid. This practice should set the mood for how you might need to design your framework for our time-travel experiment. If you can visualize a _cub-ed_ linear growth pattern, then you can visualize a _pyramid-ed_ linear growth pattern. The cubed flavor approaches infinity in five potential vectors. The three-sided pyramid has three potential vectors.  They live like this.
 
-If you can visualize a _cubed_ linear growth pattern, it approaches infinity in five potential vectors. The three-sided pyramid has three potential vectors. All lead to infinity. A cube and a four-sided pyramid need an orientation because of gravity and also because of perception. The base of each do not count.
+[insert image]
+
+
+A cube and a four-sided pyramid need an orientation because of gravity and also because of perception. The base of each do not count.
+
+...brb
+
+. . .
 
 If you compare a cube and a three-sided pyramid, then the way a physics engine might render an object inside bouncing forever should reveal something about life. How many places would the object bounce to no other place? For example, a cube has four places across the corners and the rest make up the infinite amount of places the other ways it bounced. Another example is the three-sided pyramid. An object shaped like that has four places of eternal bounce and that is all. If a cube and a three-sided pyramid where built along side one another, you could tip both of them over and the majority of the objects stay in the cube and the pyramid loses all of them.
 
